@@ -1,4 +1,4 @@
 ---
 name: "Test Project"
-your_url: "/assets/test_project.html"
+your_url: "/assets/TestProject/test_project.html"
 ---

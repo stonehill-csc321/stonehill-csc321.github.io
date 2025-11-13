@@ -22,5 +22,5 @@ Feel free to change these folder names if you want.
 **Do not add data files of more than 20mb** If your dataset is larger than that, do your data munging separately and only upload the needed data. If you commit any large files to this repository, you won't be able to push to github. If you really do need a single huge file for some reason, talk to me.
 
 5. Create a file in `_projects/` named `your_project_name.md` where `your_project_name` is your project name, then add yaml with the name and url of your project in assets. Look at `test_project.md` as an example of the right format.
-6. `git add`, `git commit` and `git push` the files. If you're unsure how to do that, come to my office hours. Please do not commit any changes to the existing files in the repository.
+6. `git add`, `git commit` and `git push` the files. If you're unsure how to do that, come to my office hours. Please do not commit any changes to the existing files in the repository (other than those in your project folder).
 7. After pushing, wait ~2 minutes then check https://stonehill-csc321.github.io to see your project deployed!

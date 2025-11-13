@@ -1,4 +1,4 @@
-#Stonehill CSC321 Final Projects
+# Stonehill CSC321 Final Projects
 
 This repository is set up to deploy to https://stonehill-csc321.github.io. If you add your data and dashboard code to this repository, it will be on the Internet.
 

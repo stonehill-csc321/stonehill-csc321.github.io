@@ -16,6 +16,7 @@ One member of your group should take responsibility for interacting with Github.
 * `Pokemon`: Josh, Liam, Cody
 * `SpotifySongs`: Jason, Mark, Sean
 * `Basketball`: Arthur, Cael, Emilio
+
 Feel free to change these folder names if you want.
 
 **Do not add data files of more than 20mb** If your dataset is larger than that, do your data munging separately and only upload the needed data. If you commit any large files to this repository, you won't be able to push to github. If you really do need a single huge file for some reason, talk to me.

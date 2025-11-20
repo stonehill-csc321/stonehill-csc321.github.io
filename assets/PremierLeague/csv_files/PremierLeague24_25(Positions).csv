@@ -1,0 +1,761 @@
+Gameweek,Team,Position
+1,Liverpool,3
+2,Liverpool,4
+3,Liverpool,2
+4,Liverpool,4
+5,Liverpool,2
+6,Liverpool,1
+7,Liverpool,1
+8,Liverpool,1
+9,Liverpool,2
+10,Liverpool,1
+11,Liverpool,1
+12,Liverpool,1
+13,Liverpool,1
+14,Liverpool,1
+15,Liverpool,1
+16,Liverpool,1
+17,Liverpool,1
+18,Liverpool,1
+19,Liverpool,1
+20,Liverpool,1
+21,Liverpool,1
+22,Liverpool,1
+23,Liverpool,1
+24,Liverpool,1
+25,Liverpool,1
+26,Liverpool,1
+27,Liverpool,1
+28,Liverpool,1
+29,Liverpool,1
+30,Liverpool,1
+31,Liverpool,1
+32,Liverpool,1
+33,Liverpool,1
+34,Liverpool,1
+35,Liverpool,1
+36,Liverpool,1
+37,Liverpool,1
+38,Liverpool,1
+1,Arsenal,2
+2,Arsenal,3
+3,Arsenal,4
+4,Arsenal,2
+5,Arsenal,4
+6,Arsenal,3
+7,Arsenal,3
+8,Arsenal,3
+9,Arsenal,3
+10,Arsenal,5
+11,Arsenal,4
+12,Arsenal,4
+13,Arsenal,2
+14,Arsenal,3
+15,Arsenal,3
+16,Arsenal,3
+17,Arsenal,3
+18,Arsenal,2
+19,Arsenal,2
+20,Arsenal,2
+21,Arsenal,2
+22,Arsenal,2
+23,Arsenal,2
+24,Arsenal,2
+25,Arsenal,2
+26,Arsenal,2
+27,Arsenal,2
+28,Arsenal,2
+29,Arsenal,2
+30,Arsenal,2
+31,Arsenal,2
+32,Arsenal,2
+33,Arsenal,2
+34,Arsenal,2
+35,Arsenal,2
+36,Arsenal,2
+37,Arsenal,2
+38,Arsenal,2
+1,Manchester City,4
+2,Manchester City,1
+3,Manchester City,1
+4,Manchester City,1
+5,Manchester City,1
+6,Manchester City,2
+7,Manchester City,2
+8,Manchester City,2
+9,Manchester City,1
+10,Manchester City,2
+11,Manchester City,2
+12,Manchester City,2
+13,Manchester City,5
+14,Manchester City,4
+15,Manchester City,4
+16,Manchester City,5
+17,Manchester City,7
+18,Manchester City,7
+19,Manchester City,6
+20,Manchester City,6
+21,Manchester City,6
+22,Manchester City,5
+23,Manchester City,4
+24,Manchester City,5
+25,Manchester City,4
+26,Manchester City,4
+27,Manchester City,4
+28,Manchester City,5
+29,Manchester City,5
+30,Manchester City,5
+31,Manchester City,6
+32,Manchester City,5
+33,Manchester City,5
+34,Manchester City,4
+35,Manchester City,3
+36,Manchester City,4
+37,Manchester City,3
+38,Manchester City,3
+1,Chelsea,17
+2,Chelsea,8
+3,Chelsea,11
+4,Chelsea,8
+5,Chelsea,5
+6,Chelsea,4
+7,Chelsea,4
+8,Chelsea,6
+9,Chelsea,5
+10,Chelsea,4
+11,Chelsea,3
+12,Chelsea,3
+13,Chelsea,3
+14,Chelsea,2
+15,Chelsea,2
+16,Chelsea,2
+17,Chelsea,2
+18,Chelsea,3
+19,Chelsea,4
+20,Chelsea,4
+21,Chelsea,5
+22,Chelsea,4
+23,Chelsea,6
+24,Chelsea,4
+25,Chelsea,6
+26,Chelsea,7
+27,Chelsea,5
+28,Chelsea,4
+29,Chelsea,4
+30,Chelsea,4
+31,Chelsea,4
+32,Chelsea,6
+33,Chelsea,6
+34,Chelsea,5
+35,Chelsea,5
+36,Chelsea,5
+37,Chelsea,5
+38,Chelsea,4
+1,Newcastle,8
+2,Newcastle,6
+3,Newcastle,5
+4,Newcastle,3
+5,Newcastle,6
+6,Newcastle,7
+7,Newcastle,7
+8,Newcastle,9
+9,Newcastle,12
+10,Newcastle,11
+11,Newcastle,8
+12,Newcastle,10
+13,Newcastle,11
+14,Newcastle,12
+15,Newcastle,12
+16,Newcastle,12
+17,Newcastle,8
+18,Newcastle,5
+19,Newcastle,5
+20,Newcastle,5
+21,Newcastle,4
+22,Newcastle,6
+23,Newcastle,5
+24,Newcastle,6
+25,Newcastle,7
+26,Newcastle,5
+27,Newcastle,6
+28,Newcastle,6
+29,Newcastle,6
+30,Newcastle,6
+31,Newcastle,5
+32,Newcastle,3
+33,Newcastle,3
+34,Newcastle,3
+35,Newcastle,4
+36,Newcastle,3
+37,Newcastle,4
+38,Newcastle,5
+1,Aston Villa,5
+2,Aston Villa,12
+3,Aston Villa,7
+4,Aston Villa,5
+5,Aston Villa,3
+6,Aston Villa,5
+7,Aston Villa,5
+8,Aston Villa,4
+9,Aston Villa,4
+10,Aston Villa,6
+11,Aston Villa,9
+12,Aston Villa,8
+13,Aston Villa,12
+14,Aston Villa,8
+15,Aston Villa,6
+16,Aston Villa,7
+17,Aston Villa,6
+18,Aston Villa,9
+19,Aston Villa,9
+20,Aston Villa,8
+21,Aston Villa,7
+22,Aston Villa,8
+23,Aston Villa,8
+24,Aston Villa,8
+25,Aston Villa,9
+26,Aston Villa,8
+27,Aston Villa,10
+28,Aston Villa,8
+29,Aston Villa,9
+30,Aston Villa,7
+31,Aston Villa,7
+32,Aston Villa,7
+33,Aston Villa,7
+34,Aston Villa,7
+35,Aston Villa,7
+36,Aston Villa,6
+37,Aston Villa,6
+38,Aston Villa,6
+1,Nott'ham Forest,11
+2,Nott'ham Forest,7
+3,Nott'ham Forest,9
+4,Nott'ham Forest,7
+5,Nott'ham Forest,8
+6,Nott'ham Forest,10
+7,Nott'ham Forest,10
+8,Nott'ham Forest,8
+9,Nott'ham Forest,7
+10,Nott'ham Forest,3
+11,Nott'ham Forest,5
+12,Nott'ham Forest,7
+13,Nott'ham Forest,6
+14,Nott'ham Forest,7
+15,Nott'ham Forest,5
+16,Nott'ham Forest,4
+17,Nott'ham Forest,4
+18,Nott'ham Forest,4
+19,Nott'ham Forest,3
+20,Nott'ham Forest,3
+21,Nott'ham Forest,3
+22,Nott'ham Forest,3
+23,Nott'ham Forest,3
+24,Nott'ham Forest,3
+25,Nott'ham Forest,3
+26,Nott'ham Forest,3
+27,Nott'ham Forest,3
+28,Nott'ham Forest,3
+29,Nott'ham Forest,3
+30,Nott'ham Forest,3
+31,Nott'ham Forest,3
+32,Nott'ham Forest,4
+33,Nott'ham Forest,4
+34,Nott'ham Forest,6
+35,Nott'ham Forest,6
+36,Nott'ham Forest,7
+37,Nott'ham Forest,7
+38,Nott'ham Forest,7
+1,Brighton,1
+2,Brighton,2
+3,Brighton,3
+4,Brighton,6
+5,Brighton,7
+6,Brighton,9
+7,Brighton,6
+8,Brighton,5
+9,Brighton,6
+10,Brighton,8
+11,Brighton,6
+12,Brighton,5
+13,Brighton,4
+14,Brighton,5
+15,Brighton,7
+16,Brighton,9
+17,Brighton,10
+18,Brighton,10
+19,Brighton,10
+20,Brighton,10
+21,Brighton,9
+22,Brighton,9
+23,Brighton,9
+24,Brighton,10
+25,Brighton,10
+26,Brighton,9
+27,Brighton,8
+28,Brighton,7
+29,Brighton,7
+30,Brighton,8
+31,Brighton,9
+32,Brighton,10
+33,Brighton,10
+34,Brighton,9
+35,Brighton,10
+36,Brighton,9
+37,Brighton,8
+38,Brighton,8
+1,Bournemouth,9
+2,Bournemouth,14
+3,Bournemouth,8
+4,Bournemouth,11
+5,Bournemouth,13
+6,Bournemouth,11
+7,Bournemouth,13
+8,Bournemouth,11
+9,Bournemouth,11
+10,Bournemouth,10
+11,Bournemouth,12
+12,Bournemouth,13
+13,Bournemouth,13
+14,Bournemouth,9
+15,Bournemouth,8
+16,Bournemouth,6
+17,Bournemouth,5
+18,Bournemouth,6
+19,Bournemouth,7
+20,Bournemouth,7
+21,Bournemouth,8
+22,Bournemouth,7
+23,Bournemouth,7
+24,Bournemouth,7
+25,Bournemouth,5
+26,Bournemouth,6
+27,Bournemouth,7
+28,Bournemouth,9
+29,Bournemouth,10
+30,Bournemouth,10
+31,Bournemouth,10
+32,Bournemouth,8
+33,Bournemouth,8
+34,Bournemouth,10
+35,Bournemouth,8
+36,Bournemouth,10
+37,Bournemouth,11
+38,Bournemouth,9
+1,Brentford,6
+2,Brentford,13
+3,Brentford,6
+4,Brentford,9
+5,Brentford,12
+6,Brentford,12
+7,Brentford,11
+8,Brentford,13
+9,Brentford,9
+10,Brentford,12
+11,Brentford,11
+12,Brentford,11
+13,Brentford,8
+14,Brentford,11
+15,Brentford,9
+16,Brentford,11
+17,Brentford,12
+18,Brentford,11
+19,Brentford,12
+20,Brentford,11
+21,Brentford,11
+22,Brentford,11
+23,Brentford,11
+24,Brentford,11
+25,Brentford,11
+26,Brentford,11
+27,Brentford,11
+28,Brentford,12
+29,Brentford,11
+30,Brentford,11
+31,Brentford,12
+32,Brentford,11
+33,Brentford,11
+34,Brentford,11
+35,Brentford,9
+36,Brentford,8
+37,Brentford,9
+38,Brentford,10
+1,Fulham,15
+2,Fulham,10
+3,Fulham,12
+4,Fulham,12
+5,Fulham,9
+6,Fulham,6
+7,Fulham,8
+8,Fulham,10
+9,Fulham,10
+10,Fulham,9
+11,Fulham,7
+12,Fulham,9
+13,Fulham,10
+14,Fulham,6
+15,Fulham,10
+16,Fulham,8
+17,Fulham,9
+18,Fulham,8
+19,Fulham,8
+20,Fulham,9
+21,Fulham,10
+22,Fulham,10
+23,Fulham,10
+24,Fulham,9
+25,Fulham,8
+26,Fulham,10
+27,Fulham,9
+28,Fulham,10
+29,Fulham,8
+30,Fulham,9
+31,Fulham,8
+32,Fulham,9
+33,Fulham,9
+34,Fulham,8
+35,Fulham,11
+36,Fulham,11
+37,Fulham,10
+38,Fulham,11
+1,Crystal Palace,13
+2,Crystal Palace,17
+3,Crystal Palace,16
+4,Crystal Palace,16
+5,Crystal Palace,16
+6,Crystal Palace,18
+7,Crystal Palace,18
+8,Crystal Palace,18
+9,Crystal Palace,17
+10,Crystal Palace,17
+11,Crystal Palace,18
+12,Crystal Palace,19
+13,Crystal Palace,17
+14,Crystal Palace,17
+15,Crystal Palace,17
+16,Crystal Palace,15
+17,Crystal Palace,16
+18,Crystal Palace,16
+19,Crystal Palace,15
+20,Crystal Palace,15
+21,Crystal Palace,15
+22,Crystal Palace,12
+23,Crystal Palace,13
+24,Crystal Palace,12
+25,Crystal Palace,13
+26,Crystal Palace,13
+27,Crystal Palace,12
+28,Crystal Palace,11
+29,Crystal Palace,12
+30,Crystal Palace,12
+31,Crystal Palace,11
+32,Crystal Palace,12
+33,Crystal Palace,12
+34,Crystal Palace,12
+35,Crystal Palace,12
+36,Crystal Palace,12
+37,Crystal Palace,12
+38,Crystal Palace,12
+1,Everton,20
+2,Everton,20
+3,Everton,20
+4,Everton,20
+5,Everton,19
+6,Everton,16
+7,Everton,16
+8,Everton,16
+9,Everton,16
+10,Everton,16
+11,Everton,16
+12,Everton,15
+13,Everton,15
+14,Everton,15
+15,Everton,15
+16,Everton,16
+17,Everton,15
+18,Everton,15
+19,Everton,16
+20,Everton,16
+21,Everton,16
+22,Everton,16
+23,Everton,16
+24,Everton,15
+25,Everton,14
+26,Everton,14
+27,Everton,16
+28,Everton,15
+29,Everton,15
+30,Everton,15
+31,Everton,15
+32,Everton,13
+33,Everton,13
+34,Everton,15
+35,Everton,14
+36,Everton,13
+37,Everton,13
+38,Everton,13
+1,West Ham,14
+2,West Ham,9
+3,West Ham,13
+4,West Ham,14
+5,West Ham,14
+6,West Ham,14
+7,West Ham,12
+8,West Ham,15
+9,West Ham,13
+10,West Ham,14
+11,West Ham,14
+12,West Ham,14
+13,West Ham,14
+14,West Ham,14
+15,West Ham,14
+16,West Ham,14
+17,West Ham,14
+18,West Ham,13
+19,West Ham,13
+20,West Ham,14
+21,West Ham,13
+22,West Ham,14
+23,West Ham,14
+24,West Ham,16
+25,West Ham,16
+26,West Ham,16
+27,West Ham,15
+28,West Ham,16
+29,West Ham,16
+30,West Ham,16
+31,West Ham,16
+32,West Ham,17
+33,West Ham,17
+34,West Ham,17
+35,West Ham,17
+36,West Ham,15
+37,West Ham,15
+38,West Ham,14
+1,Manchester Utd,7
+2,Manchester Utd,11
+3,Manchester Utd,14
+4,Manchester Utd,10
+5,Manchester Utd,11
+6,Manchester Utd,13
+7,Manchester Utd,14
+8,Manchester Utd,12
+9,Manchester Utd,14
+10,Manchester Utd,13
+11,Manchester Utd,13
+12,Manchester Utd,12
+13,Manchester Utd,9
+14,Manchester Utd,13
+15,Manchester Utd,13
+16,Manchester Utd,13
+17,Manchester Utd,13
+18,Manchester Utd,14
+19,Manchester Utd,14
+20,Manchester Utd,13
+21,Manchester Utd,12
+22,Manchester Utd,13
+23,Manchester Utd,12
+24,Manchester Utd,13
+25,Manchester Utd,15
+26,Manchester Utd,15
+27,Manchester Utd,14
+28,Manchester Utd,14
+29,Manchester Utd,13
+30,Manchester Utd,13
+31,Manchester Utd,13
+32,Manchester Utd,14
+33,Manchester Utd,14
+34,Manchester Utd,14
+35,Manchester Utd,15
+36,Manchester Utd,16
+37,Manchester Utd,16
+38,Manchester Utd,15
+1,Wolves,19
+2,Wolves,19
+3,Wolves,18
+4,Wolves,18
+5,Wolves,20
+6,Wolves,20
+7,Wolves,20
+8,Wolves,20
+9,Wolves,19
+10,Wolves,20
+11,Wolves,19
+12,Wolves,17
+13,Wolves,18
+14,Wolves,19
+15,Wolves,19
+16,Wolves,19
+17,Wolves,18
+18,Wolves,17
+19,Wolves,17
+20,Wolves,17
+21,Wolves,17
+22,Wolves,17
+23,Wolves,18
+24,Wolves,17
+25,Wolves,17
+26,Wolves,17
+27,Wolves,17
+28,Wolves,17
+29,Wolves,17
+30,Wolves,17
+31,Wolves,17
+32,Wolves,16
+33,Wolves,15
+34,Wolves,13
+35,Wolves,13
+36,Wolves,14
+37,Wolves,14
+38,Wolves,16
+1,Tottenham,12
+2,Tottenham,5
+3,Tottenham,10
+4,Tottenham,13
+5,Tottenham,10
+6,Tottenham,8
+7,Tottenham,9
+8,Tottenham,7
+9,Tottenham,8
+10,Tottenham,7
+11,Tottenham,10
+12,Tottenham,6
+13,Tottenham,7
+14,Tottenham,10
+15,Tottenham,11
+16,Tottenham,10
+17,Tottenham,11
+18,Tottenham,12
+19,Tottenham,11
+20,Tottenham,12
+21,Tottenham,14
+22,Tottenham,15
+23,Tottenham,15
+24,Tottenham,14
+25,Tottenham,12
+26,Tottenham,12
+27,Tottenham,13
+28,Tottenham,13
+29,Tottenham,14
+30,Tottenham,14
+31,Tottenham,14
+32,Tottenham,15
+33,Tottenham,16
+34,Tottenham,16
+35,Tottenham,16
+36,Tottenham,17
+37,Tottenham,17
+38,Tottenham,17
+1,Leicester City,10
+2,Leicester City,15
+3,Leicester City,15
+4,Leicester City,15
+5,Leicester City,15
+6,Leicester City,17
+7,Leicester City,15
+8,Leicester City,14
+9,Leicester City,15
+10,Leicester City,15
+11,Leicester City,15
+12,Leicester City,16
+13,Leicester City,16
+14,Leicester City,16
+15,Leicester City,16
+16,Leicester City,17
+17,Leicester City,17
+18,Leicester City,18
+19,Leicester City,19
+20,Leicester City,19
+21,Leicester City,19
+22,Leicester City,19
+23,Leicester City,17
+24,Leicester City,18
+25,Leicester City,19
+26,Leicester City,19
+27,Leicester City,19
+28,Leicester City,19
+29,Leicester City,19
+30,Leicester City,19
+31,Leicester City,19
+32,Leicester City,19
+33,Leicester City,19
+34,Leicester City,19
+35,Leicester City,19
+36,Leicester City,19
+37,Leicester City,18
+38,Leicester City,18
+1,Ipswich Town,18
+2,Ipswich Town,18
+3,Ipswich Town,17
+4,Ipswich Town,17
+5,Ipswich Town,17
+6,Ipswich Town,15
+7,Ipswich Town,17
+8,Ipswich Town,17
+9,Ipswich Town,18
+10,Ipswich Town,18
+11,Ipswich Town,17
+12,Ipswich Town,18
+13,Ipswich Town,19
+14,Ipswich Town,18
+15,Ipswich Town,18
+16,Ipswich Town,18
+17,Ipswich Town,19
+18,Ipswich Town,19
+19,Ipswich Town,18
+20,Ipswich Town,18
+21,Ipswich Town,18
+22,Ipswich Town,18
+23,Ipswich Town,19
+24,Ipswich Town,19
+25,Ipswich Town,18
+26,Ipswich Town,18
+27,Ipswich Town,18
+28,Ipswich Town,18
+29,Ipswich Town,18
+30,Ipswich Town,18
+31,Ipswich Town,18
+32,Ipswich Town,18
+33,Ipswich Town,18
+34,Ipswich Town,18
+35,Ipswich Town,18
+36,Ipswich Town,18
+37,Ipswich Town,19
+38,Ipswich Town,19
+1,Southampton,16
+2,Southampton,16
+3,Southampton,19
+4,Southampton,19
+5,Southampton,18
+6,Southampton,19
+7,Southampton,19
+8,Southampton,19
+9,Southampton,20
+10,Southampton,19
+11,Southampton,20
+12,Southampton,20
+13,Southampton,20
+14,Southampton,20
+15,Southampton,20
+16,Southampton,20
+17,Southampton,20
+18,Southampton,20
+19,Southampton,20
+20,Southampton,20
+21,Southampton,20
+22,Southampton,20
+23,Southampton,20
+24,Southampton,20
+25,Southampton,20
+26,Southampton,20
+27,Southampton,20
+28,Southampton,20
+29,Southampton,20
+30,Southampton,20
+31,Southampton,20
+32,Southampton,20
+33,Southampton,20
+34,Southampton,20
+35,Southampton,20
+36,Southampton,20
+37,Southampton,20
+38,Southampton,20

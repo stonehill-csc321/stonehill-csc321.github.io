@@ -1,0 +1,1116 @@
+Date,Round,Venue,Team,Scorer,Opponent,xG,PSxG,Body Part,Dist(yds),Minute,Goalkeeper,Assist
+8/17/2024,Matchweek 1,Away,Liverpool,Diogo Jota,Ipswich Town,0.44,0.92,Left Foot,11,60,Christian Walton,Mohamed Salah
+8/17/2024,Matchweek 1,Away,Liverpool,Mohamed Salah,Ipswich Town,0.41,0.82,Left Foot,7,65,Christian Walton,
+8/25/2024,Matchweek 2,Home,Liverpool,Luis Díaz,Brentford,0.42,0.24,Left Foot,16,13,Mark Flekken,Diogo Jota
+8/25/2024,Matchweek 2,Home,Liverpool,Mohamed Salah,Brentford,0.43,0.58,Left Foot,12,70,Mark Flekken,Luis Díaz
+9/1/2024,Matchweek 3,Away,Liverpool,Luis Díaz,Manchester Utd,0.29,0.95,Head,5,35,André Onana,Mohamed Salah
+9/1/2024,Matchweek 3,Away,Liverpool,Luis Díaz,Manchester Utd,0.32,0.72,Right Foot,15,42,André Onana,Mohamed Salah
+9/1/2024,Matchweek 3,Away,Liverpool,Mohamed Salah,Manchester Utd,0.2,0.77,Left Foot,16,56,André Onana,Dominik Szoboszlai
+9/21/2024,Matchweek 5,Home,Liverpool,Luis Díaz,Bournemouth,0.13,0.86,Right Foot,15,26,Kepa Arrizabalaga,Ibrahima Konaté
+9/21/2024,Matchweek 5,Home,Liverpool,Luis Díaz,Bournemouth,0.24,0.26,Left Foot,9,28,Kepa Arrizabalaga,Trent Alexander-Arnold
+9/21/2024,Matchweek 5,Home,Liverpool,Darwin Núñez,Bournemouth,0.06,0.64,Left Foot,16,37,Kepa Arrizabalaga,Mohamed Salah
+9/28/2024,Matchweek 6,Away,Liverpool,Ibrahima Konaté,Wolves,0.1,0.12,Head,8,45+2,Sam Johnstone,Diogo Jota
+9/28/2024,Matchweek 6,Away,Liverpool,Mohamed Salah,Wolves,0.79,0.6,Left Foot,13,61,Sam Johnstone,
+10/5/2024,Matchweek 7,Away,Liverpool,Diogo Jota,Crystal Palace,0.25,0.23,Right Foot,11,9,Dean Henderson,Cody Gakpo
+10/20/2024,Matchweek 8,Home,Liverpool,Mohamed Salah,Chelsea,0.79,0.79,Left Foot,13,29,Robert Sánchez,
+10/20/2024,Matchweek 8,Home,Liverpool,Curtis Jones,Chelsea,0.69,0.97,Right Foot,3,51,Robert Sánchez,Mohamed Salah
+10/27/2024,Matchweek 9,Away,Liverpool,Virgil van Dijk,Arsenal,0.25,0.72,Head,5,18,David Raya,Luis Díaz
+10/27/2024,Matchweek 9,Away,Liverpool,Mohamed Salah,Arsenal,0.29,0.79,Left Foot,13,81,David Raya,Darwin Núñez
+11/2/2024,Matchweek 10,Home,Liverpool,Cody Gakpo,Brighton,0.01,0.06,Right Foot,28,69,Bart Verbruggen,Virgil van Dijk
+11/2/2024,Matchweek 10,Home,Liverpool,Mohamed Salah,Brighton,0.06,0.16,Left Foot,16,72,Bart Verbruggen,Curtis Jones
+11/9/2024,Matchweek 11,Home,Liverpool,Darwin Núñez,Aston Villa,0.26,0.37,Right Foot,10,20,Emiliano Martínez,Mohamed Salah
+11/9/2024,Matchweek 11,Home,Liverpool,Mohamed Salah,Aston Villa,0.67,0.72,Left Foot,6,84,Emiliano Martínez,
+11/24/2024,Matchweek 12,Away,Liverpool,Dominik Szoboszlai,Southampton,0.13,0.66,Left Foot,18,30,Alex McCarthy,
+11/24/2024,Matchweek 12,Away,Liverpool,Mohamed Salah,Southampton,0.52,0.88,Left Foot,17,65,Alex McCarthy,Ryan Gravenberch
+11/24/2024,Matchweek 12,Away,Liverpool,Mohamed Salah,Southampton,0.79,0.97,Left Foot,13,83,Alex McCarthy,
+12/1/2024,Matchweek 13,Home,Liverpool,Cody Gakpo,Manchester City,0.95,0.99,Right Foot,2,12,Stefan Ortega,Mohamed Salah
+12/1/2024,Matchweek 13,Home,Liverpool,Mohamed Salah,Manchester City,0.79,0.8,Left Foot,13,78,Stefan Ortega,
+12/4/2024,Matchweek 14,Away,Liverpool,Curtis Jones,Newcastle Utd,0.22,0.74,Right Foot,11,50,Nick Pope,Mohamed Salah
+12/4/2024,Matchweek 14,Away,Liverpool,Mohamed Salah,Newcastle Utd,0.44,0.96,Right Foot,5,68,Nick Pope,Trent Alexander-Arnold
+12/4/2024,Matchweek 14,Away,Liverpool,Mohamed Salah,Newcastle Utd,0.13,0.86,Left Foot,11,83,Nick Pope,Trent Alexander-Arnold
+12/14/2024,Matchweek 16,Home,Liverpool,Cody Gakpo,Fulham,0.52,0.98,Head,5,47,Bernd Leno,Mohamed Salah
+12/14/2024,Matchweek 16,Home,Liverpool,Diogo Jota,Fulham,0.29,0.32,Right Foot,17,86,Bernd Leno,Darwin Núñez
+12/22/2024,Matchweek 17,Away,Liverpool,Luis Díaz,Tottenham,0.34,0.55,Head,9,23,Fraser Forster,Trent Alexander-Arnold
+12/22/2024,Matchweek 17,Away,Liverpool,Alexis Mac Allister,Tottenham,0.44,0.95,Head,3,36,Fraser Forster,
+12/22/2024,Matchweek 17,Away,Liverpool,Dominik Szoboszlai,Tottenham,0.47,0.32,Left Foot,12,45+1,Fraser Forster,Mohamed Salah
+12/22/2024,Matchweek 17,Away,Liverpool,Mohamed Salah,Tottenham,0.87,1,Left Foot,4,54,Fraser Forster,
+12/22/2024,Matchweek 17,Away,Liverpool,Mohamed Salah,Tottenham,0.62,0.87,Right Foot,11,61,Fraser Forster,Dominik Szoboszlai
+12/22/2024,Matchweek 17,Away,Liverpool,Luis Díaz,Tottenham,0.16,0.4,Right Foot,11,85,Fraser Forster,Mohamed Salah
+12/26/2024,Matchweek 18,Home,Liverpool,Cody Gakpo,Leicester City,0.03,0.39,Right Foot,23,45+1,Jakub Stolarczyk,Alexis Mac Allister
+12/26/2024,Matchweek 18,Home,Liverpool,Curtis Jones,Leicester City,0.68,0.92,Left Foot,6,49,Jakub Stolarczyk,Alexis Mac Allister
+12/26/2024,Matchweek 18,Home,Liverpool,Mohamed Salah,Leicester City,0.05,0.41,Left Foot,15,82,Jakub Stolarczyk,Cody Gakpo
+12/29/2024,Matchweek 19,Away,Liverpool,Luis Díaz,West Ham,0.12,0.28,Right Foot,16,30,Alphonse Areola,
+12/29/2024,Matchweek 19,Away,Liverpool,Cody Gakpo,West Ham,0.19,0.88,Right Foot,8,40,Alphonse Areola,Mohamed Salah
+12/29/2024,Matchweek 19,Away,Liverpool,Mohamed Salah,West Ham,0.06,0.08,Left Foot,17,44,Alphonse Areola,Curtis Jones
+12/29/2024,Matchweek 19,Away,Liverpool,Trent Alexander-Arnold,West Ham,0.02,0.12,Right Foot,33,54,Alphonse Areola,Ryan Gravenberch
+12/29/2024,Matchweek 19,Away,Liverpool,Diogo Jota,West Ham,0.26,0.68,Right Foot,14,84,Alphonse Areola,Mohamed Salah
+1/5/2025,Matchweek 20,Home,Liverpool,Cody Gakpo,Manchester Utd,0.07,0.22,Right Foot,11,59,André Onana,Alexis Mac Allister
+1/5/2025,Matchweek 20,Home,Liverpool,Mohamed Salah,Manchester Utd,0.79,0.75,Left Foot,13,70,André Onana,
+1/14/2025,Matchweek 21,Away,Liverpool,Diogo Jota,Nott'ham Forest,0.33,0.96,Head,3,66,Matz Sels,Kostas Tsimikas
+1/18/2025,Matchweek 22,Away,Liverpool,Darwin Núñez,Brentford,0.17,0.7,Right Foot,8,90+1,Mark Flekken,Trent Alexander-Arnold
+1/18/2025,Matchweek 22,Away,Liverpool,Darwin Núñez,Brentford,0.62,0.24,Right Foot,11,90+3,Mark Flekken,Harvey Elliott
+1/25/2025,Matchweek 23,Home,Liverpool,Dominik Szoboszlai,Ipswich Town,0.13,0.15,Left Foot,21,11,Christian Walton,Ibrahima Konaté
+1/25/2025,Matchweek 23,Home,Liverpool,Mohamed Salah,Ipswich Town,0.16,0.55,Left Foot,5,35,Christian Walton,Cody Gakpo
+1/25/2025,Matchweek 23,Home,Liverpool,Cody Gakpo,Ipswich Town,0.56,0.8,Right Foot,3,44,Christian Walton,
+1/25/2025,Matchweek 23,Home,Liverpool,Cody Gakpo,Ipswich Town,0.51,0.92,Head,7,65,Christian Walton,Trent Alexander-Arnold
+2/1/2025,Matchweek 24,Away,Liverpool,Mohamed Salah,Bournemouth,0.79,0.87,Left Foot,13,30,Kepa Arrizabalaga,
+2/1/2025,Matchweek 24,Away,Liverpool,Mohamed Salah,Bournemouth,0.05,0.72,Left Foot,14,75,Kepa Arrizabalaga,Curtis Jones
+2/12/2025,Matchweek 15,Away,Liverpool,Alexis Mac Allister,Everton,0.15,0.73,Head,10,16,Jordan Pickford,Mohamed Salah
+2/12/2025,Matchweek 15,Away,Liverpool,Mohamed Salah,Everton,0.2,0.56,Right Foot,6,73,Jordan Pickford,
+2/16/2025,Matchweek 25,Home,Liverpool,Luis Díaz,Wolves,0.16,0.22,Other,9,15,José Sá,
+2/16/2025,Matchweek 25,Home,Liverpool,Mohamed Salah,Wolves,0.79,0.94,Left Foot,13,37,José Sá,
+2/19/2025,Matchweek 29,Away,Liverpool,Mohamed Salah,Aston Villa,0.41,0.98,Left Foot,9,29,Emiliano Martínez,Diogo Jota
+2/19/2025,Matchweek 29,Away,Liverpool,Trent Alexander-Arnold,Aston Villa,0.08,0.21,Right Foot,17,61,Emiliano Martínez,Mohamed Salah
+2/23/2025,Matchweek 26,Away,Liverpool,Mohamed Salah,Manchester City,0.17,0.78,Left Foot,14,14,Ederson,Dominik Szoboszlai
+2/23/2025,Matchweek 26,Away,Liverpool,Dominik Szoboszlai,Manchester City,0.14,0.14,Left Foot,16,37,Ederson,Mohamed Salah
+2/26/2025,Matchweek 27,Home,Liverpool,Dominik Szoboszlai,Newcastle Utd,0.28,0.17,Left Foot,15,11,Nick Pope,Luis Díaz
+2/26/2025,Matchweek 27,Home,Liverpool,Alexis Mac Allister,Newcastle Utd,0.19,0.73,Right Foot,13,63,Nick Pope,Mohamed Salah
+3/8/2025,Matchweek 28,Home,Liverpool,Darwin Núñez,Southampton,0.38,0.95,Right Foot,6,51,Aaron Ramsdale,Luis Díaz
+3/8/2025,Matchweek 28,Home,Liverpool,Mohamed Salah,Southampton,0.79,0.96,Left Foot,13,54,Aaron Ramsdale,
+3/8/2025,Matchweek 28,Home,Liverpool,Mohamed Salah,Southampton,0.79,0.99,Left Foot,13,88,Aaron Ramsdale,
+4/2/2025,Matchweek 30,Home,Liverpool,Diogo Jota,Everton,0.1,0.19,Right Foot,13,57,Jordan Pickford,Luis Díaz
+4/6/2025,Matchweek 31,Away,Liverpool,Alexis Mac Allister,Fulham,0.02,0.23,Right Foot,28,14,Bernd Leno,Ryan Gravenberch
+4/6/2025,Matchweek 31,Away,Liverpool,Luis Díaz,Fulham,0.23,0.61,Right Foot,15,72,Bernd Leno,Conor Bradley
+4/13/2025,Matchweek 32,Home,Liverpool,Luis Díaz,West Ham,0.57,0.96,Right Foot,9,18,Alphonse Areola,Mohamed Salah
+4/13/2025,Matchweek 32,Home,Liverpool,Virgil van Dijk,West Ham,0.1,0.4,Head,10,89,Alphonse Areola,Alexis Mac Allister
+4/20/2025,Matchweek 33,Away,Liverpool,Trent Alexander-Arnold,Leicester City,0.02,0.03,Left Foot,16,76,Mads Hermansen,
+4/27/2025,Matchweek 34,Home,Liverpool,Luis Díaz,Tottenham,0.76,0.99,Right Foot,3,16,Guglielmo Vicario,Dominik Szoboszlai
+4/27/2025,Matchweek 34,Home,Liverpool,Alexis Mac Allister,Tottenham,0.05,0.23,Left Foot,24,24,Guglielmo Vicario,Ryan Gravenberch
+4/27/2025,Matchweek 34,Home,Liverpool,Cody Gakpo,Tottenham,0.08,0.75,Right Foot,16,34,Guglielmo Vicario,
+4/27/2025,Matchweek 34,Home,Liverpool,Mohamed Salah,Tottenham,0.11,0.27,Left Foot,16,63,Guglielmo Vicario,Dominik Szoboszlai
+4/27/2025,Matchweek 34,Home,Liverpool,Destiny Udogie (OG),Tottenham,,,,,69,,
+5/4/2025,Matchweek 35,Away,Liverpool,Virgil van Dijk,Chelsea,0.15,0.11,Head,9,85,Robert Sánchez,Alexis Mac Allister
+5/11/2025,Matchweek 36,Home,Liverpool,Cody Gakpo,Arsenal,0.39,0.85,Head,5,20,David Raya,Andrew Robertson
+5/11/2025,Matchweek 36,Home,Liverpool,Luis Díaz,Arsenal,0.98,1,Left Foot,3,21,David Raya,Dominik Szoboszlai
+5/19/2025,Matchweek 37,Away,Liverpool,Harvey Elliott,Brighton,0.77,0.99,Left Foot,4,9,Bart Verbruggen,Conor Bradley
+5/19/2025,Matchweek 37,Away,Liverpool,Dominik Szoboszlai,Brighton,0.03,0.07,Right Foot,19,45+1,Bart Verbruggen,Harvey Elliott
+5/25/2025,Matchweek 38,Home,Liverpool,Mohamed Salah,Crystal Palace,0.21,0.84,Left Foot,8,84,Dean Henderson,Cody Gakpo
+8/17/2024,Matchweek 1,Home,Arsenal,Kai Havertz,Wolves,0.14,0.73,Head,9,25,José Sá,Bukayo Saka
+8/17/2024,Matchweek 1,Home,Arsenal,Bukayo Saka,Wolves,0.03,0.23,Left Foot,17,74,José Sá,Kai Havertz
+8/24/2024,Matchweek 2,Away,Arsenal,Leandro Trossard,Aston Villa,0.13,0.38,Right Foot,13,67,Emiliano Martínez,
+8/24/2024,Matchweek 2,Away,Arsenal,Thomas Partey,Aston Villa,0.07,0.23,Right Foot,21,77,Emiliano Martínez,Bukayo Saka
+8/31/2024,Matchweek 3,Home,Arsenal,Kai Havertz,Brighton,0.57,0.25,Left Foot,25,38,Bart Verbruggen,Bukayo Saka
+9/15/2024,Matchweek 4,Away,Arsenal,Gabriel Magalhães,Tottenham,0.23,0.41,Head,4,64,Guglielmo Vicario,Bukayo Saka
+9/22/2024,Matchweek 5,Away,Arsenal,Riccardo Calafiori,Manchester City,0.02,0.28,Left Foot,25,22,Ederson,Gabriel Martinelli
+9/22/2024,Matchweek 5,Away,Arsenal,Gabriel Magalhães,Manchester City,0.32,0.97,Head,2,45+1,Ederson,Bukayo Saka
+9/28/2024,Matchweek 6,Home,Arsenal,Gabriel Martinelli,Leicester City,0.2,0.83,Right Foot,15,20,Mads Hermansen,Jurriën Timber
+9/28/2024,Matchweek 6,Home,Arsenal,Leandro Trossard,Leicester City,0.6,0.98,Right Foot,11,45+1,Mads Hermansen,Gabriel Martinelli
+9/28/2024,Matchweek 6,Home,Arsenal,Wilfred Ndidi (OG),Leicester City,,,,,90+4,,
+9/28/2024,Matchweek 6,Home,Arsenal,Kai Havertz,Leicester City,0.89,1,Other,2,90+9,Mads Hermansen,
+10/5/2024,Matchweek 7,Home,Arsenal,Kai Havertz,Southampton,0.13,0.52,Left Foot,18,58,Aaron Ramsdale,Bukayo Saka
+10/5/2024,Matchweek 7,Home,Arsenal,Gabriel Martinelli,Southampton,0.41,0.55,Left Foot,2,68,Aaron Ramsdale,Bukayo Saka
+10/5/2024,Matchweek 7,Home,Arsenal,Bukayo Saka,Southampton,0.06,0.29,Right Foot,15,88,Aaron Ramsdale,
+10/27/2024,Matchweek 9,Home,Arsenal,Bukayo Saka,Liverpool,0.17,0.71,Left Foot,9,9,Caoimhín Kelleher,Ben White
+10/27/2024,Matchweek 9,Home,Arsenal,Mikel Merino,Liverpool,0.38,0.88,Head,7,43,Caoimhín Kelleher,Declan Rice
+11/10/2024,Matchweek 11,Away,Arsenal,Gabriel Martinelli,Chelsea,0.23,0.31,Right Foot,6,60,Robert Sánchez,Martin Ødegaard
+11/23/2024,Matchweek 12,Home,Arsenal,Bukayo Saka,Nott'ham Forest,0.08,0.43,Left Foot,15,15,Matz Sels,Martin Ødegaard
+11/23/2024,Matchweek 12,Home,Arsenal,Thomas Partey,Nott'ham Forest,0.04,0.28,Right Foot,24,52,Matz Sels,Bukayo Saka
+11/23/2024,Matchweek 12,Home,Arsenal,Ethan Nwaneri,Nott'ham Forest,0.08,0.17,Left Foot,12,86,Matz Sels,Raheem Sterling
+11/30/2024,Matchweek 13,Away,Arsenal,Gabriel Magalhães,West Ham,0.2,0.64,Head,5,10,?ukasz Fabia?ski,Bukayo Saka
+11/30/2024,Matchweek 13,Away,Arsenal,Leandro Trossard,West Ham,0.68,0.97,Right Foot,4,27,?ukasz Fabia?ski,Bukayo Saka
+11/30/2024,Matchweek 13,Away,Arsenal,Martin Ødegaard,West Ham,0.79,0.85,Left Foot,13,34,?ukasz Fabia?ski,
+11/30/2024,Matchweek 13,Away,Arsenal,Kai Havertz,West Ham,0.58,0.37,Left Foot,17,36,?ukasz Fabia?ski,Leandro Trossard
+11/30/2024,Matchweek 13,Away,Arsenal,Bukayo Saka,West Ham,0.79,0.77,Left Foot,13,45+5,?ukasz Fabia?ski,
+12/4/2024,Matchweek 14,Home,Arsenal,Jurriën Timber,Manchester Utd,0.16,0.35,Head,3,54,André Onana,Declan Rice
+12/4/2024,Matchweek 14,Home,Arsenal,William Saliba,Manchester Utd,0.69,0.97,Other,1,73,André Onana,Thomas Partey
+12/8/2024,Matchweek 15,Away,Arsenal,William Saliba,Fulham,0.86,0.98,Left Foot,3,52,Bernd Leno,Kai Havertz
+12/21/2024,Matchweek 17,Away,Arsenal,Gabriel Jesus,Crystal Palace,0.08,0.43,Right Foot,9,6,Dean Henderson,Gabriel Magalhães
+12/21/2024,Matchweek 17,Away,Arsenal,Gabriel Jesus,Crystal Palace,0.05,0.58,Right Foot,16,14,Dean Henderson,Thomas Partey
+12/21/2024,Matchweek 17,Away,Arsenal,Kai Havertz,Crystal Palace,0.85,0.99,Right Foot,3,38,Dean Henderson,
+12/21/2024,Matchweek 17,Away,Arsenal,Gabriel Martinelli,Crystal Palace,0.66,0.92,Right Foot,4,60,Dean Henderson,Declan Rice
+12/21/2024,Matchweek 17,Away,Arsenal,Declan Rice,Crystal Palace,0.06,0.18,Right Foot,20,84,Dean Henderson,Riccardo Calafiori
+12/27/2024,Matchweek 18,Home,Arsenal,Kai Havertz,Ipswich Town,0.76,0.98,Right Foot,4,23,Arijanet Muric,Leandro Trossard
+1/1/2025,Matchweek 19,Away,Arsenal,Gabriel Jesus,Brentford,0.47,0.67,Head,6,29,Mark Flekken,
+1/1/2025,Matchweek 19,Away,Arsenal,Mikel Merino,Brentford,0.47,0.98,Left Foot,3,50,Mark Flekken,
+1/1/2025,Matchweek 19,Away,Arsenal,Gabriel Martinelli,Brentford,0.17,0.88,Right Foot,14,53,Mark Flekken,
+1/4/2025,Matchweek 20,Away,Arsenal,Ethan Nwaneri,Brighton,0.07,0.05,Left Foot,13,16,Bart Verbruggen,Mikel Merino
+1/15/2025,Matchweek 21,Home,Arsenal,Dominic Solanke (OG),Tottenham,,,,,40,,
+1/15/2025,Matchweek 21,Home,Arsenal,Leandro Trossard,Tottenham,0.05,0.08,Left Foot,18,44,Antonín Kinský,Martin Ødegaard
+1/18/2025,Matchweek 22,Home,Arsenal,Gabriel Martinelli,Aston Villa,0.38,0.71,Right Foot,5,35,Emiliano Martínez,Leandro Trossard
+1/18/2025,Matchweek 22,Home,Arsenal,Kai Havertz,Aston Villa,0.09,0.18,Left Foot,9,55,Emiliano Martínez,Leandro Trossard
+1/25/2025,Matchweek 23,Away,Arsenal,Riccardo Calafiori,Wolves,0.1,0.61,Left Foot,13,74,José Sá,
+2/2/2025,Matchweek 24,Home,Arsenal,Martin Ødegaard,Manchester City,0.12,0.86,Left Foot,12,2,Stefan Ortega,Kai Havertz
+2/2/2025,Matchweek 24,Home,Arsenal,Thomas Partey,Manchester City,0.05,0.54,Right Foot,22,56,Stefan Ortega,
+2/2/2025,Matchweek 24,Home,Arsenal,Myles Lewis-Skelly,Manchester City,0.04,0.19,Right Foot,14,62,Stefan Ortega,Declan Rice
+2/2/2025,Matchweek 24,Home,Arsenal,Kai Havertz,Manchester City,0.13,0.71,Left Foot,10,76,Stefan Ortega,Gabriel Martinelli
+2/2/2025,Matchweek 24,Home,Arsenal,Ethan Nwaneri,Manchester City,0.02,0.37,Left Foot,22,90+3,Stefan Ortega,Declan Rice
+2/15/2025,Matchweek 25,Away,Arsenal,Mikel Merino,Leicester City,0.28,0.59,Head,8,81,Mads Hermansen,Ethan Nwaneri
+2/15/2025,Matchweek 25,Away,Arsenal,Mikel Merino,Leicester City,0.47,0.82,Left Foot,8,87,Mads Hermansen,Leandro Trossard
+3/9/2025,Matchweek 28,Away,Arsenal,Declan Rice,Manchester Utd,0.07,0.57,Right Foot,16,74,André Onana,Jurriën Timber
+3/16/2025,Matchweek 29,Home,Arsenal,Mikel Merino,Chelsea,0.05,0.44,Head,6,20,Robert Sánchez,Martin Ødegaard
+4/1/2025,Matchweek 30,Home,Arsenal,Mikel Merino,Fulham,0.04,0.51,Right Foot,12,37,Bernd Leno,Ethan Nwaneri
+4/1/2025,Matchweek 30,Home,Arsenal,Bukayo Saka,Fulham,0.77,0.98,Head,4,73,Bernd Leno,Gabriel Martinelli
+4/5/2025,Matchweek 31,Away,Arsenal,Leandro Trossard,Everton,0.11,0.2,Left Foot,16,34,Jordan Pickford,Raheem Sterling
+4/12/2025,Matchweek 32,Home,Arsenal,Thomas Partey,Brentford,0.26,0.31,Right Foot,12,61,Mark Flekken,Declan Rice
+4/20/2025,Matchweek 33,Away,Arsenal,Leandro Trossard,Ipswich Town,0.11,0.35,Right Foot,12,14,Alex Palmer,Martin Ødegaard
+4/20/2025,Matchweek 33,Away,Arsenal,Gabriel Martinelli,Ipswich Town,0.51,0.95,Right Foot,8,28,Alex Palmer,Mikel Merino
+4/20/2025,Matchweek 33,Away,Arsenal,Leandro Trossard,Ipswich Town,0.04,0.14,Right Foot,11,69,Alex Palmer,Declan Rice
+4/20/2025,Matchweek 33,Away,Arsenal,Ethan Nwaneri,Ipswich Town,0.1,0.6,Left Foot,14,88,Alex Palmer,Oleksandr Zinchenko
+4/23/2025,Matchweek 34,Home,Arsenal,Jakub Kiwior,Crystal Palace,0.04,0.38,Head,14,3,Dean Henderson,Martin Ødegaard
+4/23/2025,Matchweek 34,Home,Arsenal,Leandro Trossard,Crystal Palace,0.09,0.73,Left Foot,15,42,Dean Henderson,Jurriën Timber
+5/3/2025,Matchweek 35,Home,Arsenal,Declan Rice,Bournemouth,0.45,0.98,Right Foot,11,34,Kepa Arrizabalaga,Martin Ødegaard
+5/11/2025,Matchweek 36,Away,Arsenal,Gabriel Martinelli,Liverpool,0.28,0.81,Head,9,47,Alisson,Leandro Trossard
+5/11/2025,Matchweek 36,Away,Arsenal,Mikel Merino,Liverpool,0.8,0.99,Head,6,70,Alisson,
+5/18/2025,Matchweek 37,Home,Arsenal,Declan Rice,Newcastle Utd,0.07,0.58,Right Foot,24,55,Nick Pope,Martin Ødegaard
+5/25/2025,Matchweek 38,Away,Arsenal,Kieran Tierney,Southampton,0.15,0.44,Right Foot,6,43,Aaron Ramsdale,Ben White
+5/25/2025,Matchweek 38,Away,Arsenal,Martin Ødegaard,Southampton,0.06,0.4,Left Foot,27,89,Aaron Ramsdale,Leandro Trossard
+8/18/2024,Matchweek 1,Away,Manchester City,Erling Haaland,Chelsea,0.17,0.18,Left Foot,9,18,Robert Sánchez,Bernardo Silva
+8/18/2024,Matchweek 1,Away,Manchester City,Mateo Kova?i?,Chelsea,0.08,0.07,Right Foot,23,84,Robert Sánchez,
+8/24/2024,Matchweek 2,Home,Manchester City,Erling Haaland,Ipswich Town,0.79,0.84,Left Foot,13,12,Arijanet Muric,
+8/24/2024,Matchweek 2,Home,Manchester City,Kevin De Bruyne,Ipswich Town,0.59,0.97,Left Foot,26,14,Arijanet Muric,Sávio
+8/24/2024,Matchweek 2,Home,Manchester City,Erling Haaland,Ipswich Town,0.21,0.92,Left Foot,13,16,Arijanet Muric,Kevin De Bruyne
+8/24/2024,Matchweek 2,Home,Manchester City,Erling Haaland,Ipswich Town,0.04,0.31,Left Foot,25,88,Arijanet Muric,
+8/31/2024,Matchweek 3,Away,Manchester City,Erling Haaland,West Ham,0.46,0.88,Left Foot,15,10,Alphonse Areola,Bernardo Silva
+8/31/2024,Matchweek 3,Away,Manchester City,Erling Haaland,West Ham,0.08,0.28,Left Foot,16,30,Alphonse Areola,Rico Lewis
+8/31/2024,Matchweek 3,Away,Manchester City,Erling Haaland,West Ham,0.55,0.66,Left Foot,20,83,?ukasz Fabia?ski,Matheus Nunes
+9/14/2024,Matchweek 4,Home,Manchester City,Erling Haaland,Brentford,0.07,0.5,Right Foot,10,19,Mark Flekken,
+9/14/2024,Matchweek 4,Home,Manchester City,Erling Haaland,Brentford,0.38,0.22,Left Foot,15,32,Mark Flekken,Ederson
+9/22/2024,Matchweek 5,Home,Manchester City,Erling Haaland,Arsenal,0.51,0.52,Left Foot,15,9,David Raya,Sávio
+9/22/2024,Matchweek 5,Home,Manchester City,John Stones,Arsenal,0.18,0.43,Left Foot,6,90+8,David Raya,
+9/28/2024,Matchweek 6,Away,Manchester City,Joško Gvardiol,Newcastle Utd,0.08,0.68,Right Foot,10,35,Nick Pope,Jack Grealish
+10/5/2024,Matchweek 7,Home,Manchester City,Mateo Kova?i?,Fulham,0.07,0.39,Right Foot,16,32,Bernd Leno,
+10/5/2024,Matchweek 7,Home,Manchester City,Mateo Kova?i?,Fulham,0.13,0.15,Right Foot,20,47,Bernd Leno,Bernardo Silva
+10/5/2024,Matchweek 7,Home,Manchester City,Jeremy Doku,Fulham,0.06,0.07,Right Foot,21,82,Bernd Leno,Rico Lewis
+10/20/2024,Matchweek 8,Away,Manchester City,Joško Gvardiol,Wolves,0.02,0.12,Right Foot,24,33,José Sá,Jeremy Doku
+10/20/2024,Matchweek 8,Away,Manchester City,John Stones,Wolves,0.26,0.4,Head,4,90+5,José Sá,Phil Foden
+10/26/2024,Matchweek 9,Home,Manchester City,Erling Haaland,Southampton,0.38,0.34,Left Foot,7,5,Aaron Ramsdale,Matheus Nunes
+11/2/2024,Matchweek 10,Away,Manchester City,Joško Gvardiol,Bournemouth,0.06,0.23,Head,9,82,Mark Travers,?lkay Gündo?an
+11/9/2024,Matchweek 11,Away,Manchester City,Erling Haaland,Brighton,0.66,0.99,Right Foot,3,23,Bart Verbruggen,
+12/4/2024,Matchweek 14,Home,Manchester City,Bernardo Silva,Nott'ham Forest,0.84,0.99,Left Foot,2,8,Matz Sels,Kevin De Bruyne
+12/4/2024,Matchweek 14,Home,Manchester City,Kevin De Bruyne,Nott'ham Forest,0.14,0.67,Right Foot,16,31,Matz Sels,Jeremy Doku
+12/4/2024,Matchweek 14,Home,Manchester City,Jeremy Doku,Nott'ham Forest,0.09,0.54,Right Foot,17,57,Matz Sels,Erling Haaland
+12/7/2024,Matchweek 15,Away,Manchester City,Erling Haaland,Crystal Palace,0.14,0.79,Head,8,30,Dean Henderson,Matheus Nunes
+12/7/2024,Matchweek 15,Away,Manchester City,Rico Lewis,Crystal Palace,0.15,0.77,Right Foot,17,68,Dean Henderson,Bernardo Silva
+12/15/2024,Matchweek 16,Home,Manchester City,Joško Gvardiol,Manchester Utd,0.08,0.16,Head,9,36,André Onana,
+12/21/2024,Matchweek 17,Away,Manchester City,Phil Foden,Aston Villa,0.28,0.84,Left Foot,12,90+3,Emiliano Martínez,
+12/26/2024,Matchweek 18,Home,Manchester City,Bernardo Silva,Everton,0.06,0.62,Left Foot,9,14,Jordan Pickford,Jeremy Doku
+12/29/2024,Matchweek 19,Away,Manchester City,Sávio,Leicester City,0.19,0.42,Left Foot,8,21,Jakub Stolarczyk,
+12/29/2024,Matchweek 19,Away,Manchester City,Erling Haaland,Leicester City,0.18,0.37,Head,8,74,Jakub Stolarczyk,Sávio
+1/4/2025,Matchweek 20,Home,Manchester City,Vladimír Coufal (OG),West Ham,,,,,10,,
+1/4/2025,Matchweek 20,Home,Manchester City,Erling Haaland,West Ham,0.65,0.99,Head,4,42,Alphonse Areola,Sávio
+1/4/2025,Matchweek 20,Home,Manchester City,Erling Haaland,West Ham,0.3,0.82,Left Foot,12,55,Alphonse Areola,Sávio
+1/4/2025,Matchweek 20,Home,Manchester City,Phil Foden,West Ham,0.59,0.26,Left Foot,10,58,Alphonse Areola,Kevin De Bruyne
+1/14/2025,Matchweek 21,Away,Manchester City,Phil Foden,Brentford,0.37,0.93,Left Foot,10,66,Mark Flekken,Kevin De Bruyne
+1/14/2025,Matchweek 21,Away,Manchester City,Phil Foden,Brentford,0.14,0.26,Left Foot,9,78,Mark Flekken,
+1/19/2025,Matchweek 22,Away,Manchester City,Phil Foden,Ipswich Town,0.24,0.81,Left Foot,7,27,Christian Walton,
+1/19/2025,Matchweek 22,Away,Manchester City,Mateo Kova?i?,Ipswich Town,0.04,0.22,Right Foot,21,30,Christian Walton,Phil Foden
+1/19/2025,Matchweek 22,Away,Manchester City,Phil Foden,Ipswich Town,0.41,0.67,Left Foot,6,42,Christian Walton,Kevin De Bruyne
+1/19/2025,Matchweek 22,Away,Manchester City,Jeremy Doku,Ipswich Town,0.06,0.51,Right Foot,13,49,Christian Walton,Kevin De Bruyne
+1/19/2025,Matchweek 22,Away,Manchester City,Erling Haaland,Ipswich Town,0.51,0.39,Left Foot,13,57,Christian Walton,Jeremy Doku
+1/19/2025,Matchweek 22,Away,Manchester City,James Mcatee,Ipswich Town,0.46,0.66,Head,10,69,Christian Walton,Mateo Kova?i?
+1/25/2025,Matchweek 23,Home,Manchester City,Joško Gvardiol,Chelsea,0.68,0.99,Left Foot,5,42,Robert Sánchez,Matheus Nunes
+1/25/2025,Matchweek 23,Home,Manchester City,Erling Haaland,Chelsea,0.08,0.1,Left Foot,26,68,Robert Sánchez,Ederson
+1/25/2025,Matchweek 23,Home,Manchester City,Phil Foden,Chelsea,0.25,0.74,Left Foot,15,87,Robert Sánchez,Erling Haaland
+2/2/2025,Matchweek 24,Away,Manchester City,Erling Haaland,Arsenal,0.36,0.62,Head,6,55,David Raya,Sávio
+2/15/2025,Matchweek 25,Home,Manchester City,Omar Marmoush,Newcastle Utd,0.35,0.32,Right Foot,20,19,Martin Dúbravka,Ederson
+2/15/2025,Matchweek 25,Home,Manchester City,Omar Marmoush,Newcastle Utd,0.08,0.58,Right Foot,16,24,Martin Dúbravka,?lkay Gündo?an
+2/15/2025,Matchweek 25,Home,Manchester City,Omar Marmoush,Newcastle Utd,0.23,0.14,Right Foot,12,33,Martin Dúbravka,Sávio
+2/15/2025,Matchweek 25,Home,Manchester City,James Mcatee,Newcastle Utd,0.55,0.94,Left Foot,4,84,Martin Dúbravka,Erling Haaland
+2/26/2025,Matchweek 27,Away,Manchester City,Erling Haaland,Tottenham,0.46,0.83,Left Foot,8,12,Guglielmo Vicario,
+3/15/2025,Matchweek 29,Home,Manchester City,Erling Haaland,Brighton,0.79,0.76,Left Foot,13,11,Bart Verbruggen,
+3/15/2025,Matchweek 29,Home,Manchester City,Omar Marmoush,Brighton,0.05,0.42,Right Foot,25,39,Bart Verbruggen,?lkay Gündo?an
+4/2/2025,Matchweek 30,Home,Manchester City,Jack Grealish,Leicester City,0.27,0.96,Right Foot,13,2,Mads Hermansen,Sávio
+4/2/2025,Matchweek 30,Home,Manchester City,Omar Marmoush,Leicester City,0.47,0.91,Right Foot,14,29,Mads Hermansen,
+4/12/2025,Matchweek 32,Home,Manchester City,Kevin De Bruyne,Crystal Palace,0.07,0.35,Right Foot,28,33,Dean Henderson,
+4/12/2025,Matchweek 32,Home,Manchester City,Omar Marmoush,Crystal Palace,0.11,0.69,Right Foot,9,36,Dean Henderson,?lkay Gündo?an
+4/12/2025,Matchweek 32,Home,Manchester City,Mateo Kova?i?,Crystal Palace,0.1,0.65,Right Foot,20,47,Dean Henderson,Kevin De Bruyne
+4/12/2025,Matchweek 32,Home,Manchester City,James Mcatee,Crystal Palace,0.74,0.99,Left Foot,10,56,Dean Henderson,Ederson
+4/12/2025,Matchweek 32,Home,Manchester City,Nico O’Reilly,Crystal Palace,0.08,0.42,Left Foot,18,79,Dean Henderson,
+4/19/2025,Matchweek 33,Away,Manchester City,Nico O’Reilly,Everton,0.86,0.98,Left Foot,4,84,Jordan Pickford,Matheus Nunes
+4/19/2025,Matchweek 33,Away,Manchester City,Mateo Kova?i?,Everton,0.07,0.64,Right Foot,19,90+2,Jordan Pickford,?lkay Gündo?an
+4/22/2025,Matchweek 34,Home,Manchester City,Bernardo Silva,Aston Villa,0.21,0.41,Right Foot,12,7,Emiliano Martínez,
+4/22/2025,Matchweek 34,Home,Manchester City,Matheus Nunes,Aston Villa,0.36,0.96,Right Foot,6,90+4,Emiliano Martínez,Jeremy Doku
+5/2/2025,Matchweek 35,Home,Manchester City,Kevin De Bruyne,Wolves,0.38,0.21,Right Foot,15,35,José Sá,Jeremy Doku
+5/20/2025,Matchweek 37,Home,Manchester City,Omar Marmoush,Bournemouth,0.02,0.24,Right Foot,33,14,Kepa Arrizabalaga,Mateo Kova?i?
+5/20/2025,Matchweek 37,Home,Manchester City,Bernardo Silva,Bournemouth,0.3,0.72,Left Foot,7,38,Kepa Arrizabalaga,?lkay Gündo?an
+5/20/2025,Matchweek 37,Home,Manchester City,Nicolás González,Bournemouth,0.08,0.37,Right Foot,19,89,Kepa Arrizabalaga,Matheus Nunes
+5/25/2025,Matchweek 38,Away,Manchester City,?lkay Gündo?an,Fulham,0.48,0.98,Right Foot,4,21,Bernd Leno,
+5/25/2025,Matchweek 38,Away,Manchester City,Erling Haaland,Fulham,0.79,0.78,Left Foot,13,72,Bernd Leno,
+8/25/2024,Matchweek 2,Away,Chelsea,Nicolas Jackson,Wolves,0.17,0.91,Head,5,2,José Sá,
+8/25/2024,Matchweek 2,Away,Chelsea,Cole Palmer,Wolves,0.04,0.04,Left Foot,28,45,José Sá,Nicolas Jackson
+8/25/2024,Matchweek 2,Away,Chelsea,Noni Madueke,Wolves,0.07,0.62,Left Foot,12,49,José Sá,Cole Palmer
+8/25/2024,Matchweek 2,Away,Chelsea,Noni Madueke,Wolves,0.07,0.18,Right Foot,9,58,José Sá,Cole Palmer
+8/25/2024,Matchweek 2,Away,Chelsea,Noni Madueke,Wolves,0.23,0.2,Right Foot,10,63,José Sá,Cole Palmer
+8/25/2024,Matchweek 2,Away,Chelsea,João Félix,Wolves,0.15,0.76,Right Foot,17,80,José Sá,Pedro Neto
+9/1/2024,Matchweek 3,Home,Chelsea,Nicolas Jackson,Crystal Palace,0.97,1,Right Foot,2,25,Dean Henderson,Cole Palmer
+9/14/2024,Matchweek 4,Away,Chelsea,Christopher Nkunku,Bournemouth,0.3,0.96,Right Foot,10,86,Mark Travers,Jadon Sancho
+9/21/2024,Matchweek 5,Away,Chelsea,Nicolas Jackson,West Ham,0.22,0.32,Right Foot,9,4,Alphonse Areola,Jadon Sancho
+9/21/2024,Matchweek 5,Away,Chelsea,Nicolas Jackson,West Ham,0.44,0.81,Right Foot,17,18,Alphonse Areola,Moisés Caicedo
+9/21/2024,Matchweek 5,Away,Chelsea,Cole Palmer,West Ham,0.27,0.56,Left Foot,15,47,Alphonse Areola,Nicolas Jackson
+9/28/2024,Matchweek 6,Home,Chelsea,Cole Palmer,Brighton,0.22,0.95,Left Foot,17,21,Bart Verbruggen,Nicolas Jackson
+9/28/2024,Matchweek 6,Home,Chelsea,Cole Palmer,Brighton,0.79,0.78,Left Foot,13,28,Bart Verbruggen,
+9/28/2024,Matchweek 6,Home,Chelsea,Cole Palmer,Brighton,0.05,0.12,Left Foot,30,31,Bart Verbruggen,
+9/28/2024,Matchweek 6,Home,Chelsea,Cole Palmer,Brighton,0.18,0.75,Left Foot,12,41,Bart Verbruggen,Jadon Sancho
+10/6/2024,Matchweek 7,Home,Chelsea,Noni Madueke,Nott'ham Forest,0.03,0.35,Left Foot,16,57,Matz Sels,Cole Palmer
+10/20/2024,Matchweek 8,Away,Chelsea,Nicolas Jackson,Liverpool,0.29,0.81,Right Foot,13,48,Caoimhín Kelleher,Moisés Caicedo
+10/27/2024,Matchweek 9,Home,Chelsea,Nicolas Jackson,Newcastle Utd,0.56,0.74,Right Foot,11,18,Nick Pope,Pedro Neto
+10/27/2024,Matchweek 9,Home,Chelsea,Cole Palmer,Newcastle Utd,0.05,0.07,Left Foot,18,47,Nick Pope,Roméo Lavia
+11/3/2024,Matchweek 10,Away,Chelsea,Moisés Caicedo,Manchester Utd,0.03,0.19,Right Foot,18,74,André Onana,
+11/10/2024,Matchweek 11,Home,Chelsea,Pedro Neto,Arsenal,0.02,0.15,Left Foot,26,70,David Raya,Enzo Fernández
+11/23/2024,Matchweek 12,Away,Chelsea,Nicolas Jackson,Leicester City,0.23,0.83,Right Foot,11,15,Mads Hermansen,Enzo Fernández
+11/23/2024,Matchweek 12,Away,Chelsea,Enzo Fernández,Leicester City,0.75,0.99,Head,4,75,Mads Hermansen,
+12/1/2024,Matchweek 13,Home,Chelsea,Nicolas Jackson,Aston Villa,0.09,0.15,Left Foot,11,7,Emiliano Martínez,
+12/1/2024,Matchweek 13,Home,Chelsea,Enzo Fernández,Aston Villa,0.07,0.29,Right Foot,17,36,Emiliano Martínez,Cole Palmer
+12/1/2024,Matchweek 13,Home,Chelsea,Cole Palmer,Aston Villa,0.02,0.58,Left Foot,22,83,Robin Olsen,Noni Madueke
+12/4/2024,Matchweek 14,Away,Chelsea,Axel Disasi,Southampton,0.25,0.83,Head,3,7,Joe Lumley,Enzo Fernández
+12/4/2024,Matchweek 14,Away,Chelsea,Christopher Nkunku,Southampton,0.64,0.99,Right Foot,22,17,Joe Lumley,Noni Madueke
+12/4/2024,Matchweek 14,Away,Chelsea,Noni Madueke,Southampton,0.1,0.46,Left Foot,15,34,Joe Lumley,João Félix
+12/4/2024,Matchweek 14,Away,Chelsea,Cole Palmer,Southampton,0.96,0.99,Left Foot,3,76,Joe Lumley,Christopher Nkunku
+12/4/2024,Matchweek 14,Away,Chelsea,Jadon Sancho,Southampton,0.13,0.35,Right Foot,13,87,Joe Lumley,Malo Gusto
+12/8/2024,Matchweek 15,Away,Chelsea,Jadon Sancho,Tottenham,0.06,0.68,Right Foot,24,17,Fraser Forster,Marc Cucurella
+12/8/2024,Matchweek 15,Away,Chelsea,Cole Palmer,Tottenham,0.79,0.93,Left Foot,13,61,Fraser Forster,
+12/8/2024,Matchweek 15,Away,Chelsea,Enzo Fernández,Tottenham,0.04,0.17,Left Foot,14,73,Fraser Forster,
+12/8/2024,Matchweek 15,Away,Chelsea,Cole Palmer,Tottenham,0.79,0.85,Left Foot,13,84,Fraser Forster,
+12/15/2024,Matchweek 16,Home,Chelsea,Marc Cucurella,Brentford,0.12,0.35,Head,8,43,Mark Flekken,Noni Madueke
+12/15/2024,Matchweek 16,Home,Chelsea,Nicolas Jackson,Brentford,0.05,0.39,Right Foot,17,80,Mark Flekken,Enzo Fernández
+12/26/2024,Matchweek 18,Home,Chelsea,Cole Palmer,Fulham,0.06,0.43,Left Foot,21,16,Bernd Leno,Levi Colwill
+1/4/2025,Matchweek 20,Away,Chelsea,Cole Palmer,Crystal Palace,0.18,0.67,Left Foot,8,14,Dean Henderson,Jadon Sancho
+1/14/2025,Matchweek 21,Home,Chelsea,Cole Palmer,Bournemouth,0.56,0.59,Left Foot,13,13,Mark Travers,Nicolas Jackson
+1/14/2025,Matchweek 21,Home,Chelsea,Reece James,Bournemouth,0.06,0.52,Right Foot,26,90+5,Mark Travers,
+1/20/2025,Matchweek 22,Home,Chelsea,Tosin Adarabioyo,Wolves,0.24,0.74,Right Foot,10,24,José Sá,
+1/20/2025,Matchweek 22,Home,Chelsea,Marc Cucurella,Wolves,0.9,0.98,Right Foot,5,60,José Sá,Kiernan Dewsbury-Hall
+1/20/2025,Matchweek 22,Home,Chelsea,Noni Madueke,Wolves,0.97,0.99,Head,1,65,José Sá,Trevoh Chalobah
+1/25/2025,Matchweek 23,Away,Chelsea,Noni Madueke,Manchester City,0.9,1,Left Foot,9,3,Ederson,Nicolas Jackson
+2/3/2025,Matchweek 24,Home,Chelsea,Pedro Neto,West Ham,0.13,0.16,Left Foot,9,64,Alphonse Areola,
+2/3/2025,Matchweek 24,Home,Chelsea,Aaron Wan-Bissaka (OG),West Ham,,,,,74,,
+2/22/2025,Matchweek 26,Away,Chelsea,Enzo Fernández,Aston Villa,0.96,1,Left Foot,3,9,Emiliano Martínez,Pedro Neto
+2/25/2025,Matchweek 27,Home,Chelsea,Christopher Nkunku,Southampton,0.23,0.23,Head,2,24,Aaron Ramsdale,Tosin Adarabioyo
+2/25/2025,Matchweek 27,Home,Chelsea,Pedro Neto,Southampton,0.06,0.1,Left Foot,12,36,Aaron Ramsdale,Christopher Nkunku
+2/25/2025,Matchweek 27,Home,Chelsea,Levi Colwill,Southampton,0.14,0.28,Head,7,44,Aaron Ramsdale,Pedro Neto
+2/25/2025,Matchweek 27,Home,Chelsea,Marc Cucurella,Southampton,0.37,0.91,Left Foot,12,78,Aaron Ramsdale,Tyrique George
+3/9/2025,Matchweek 28,Home,Chelsea,Marc Cucurella,Leicester City,0.03,0.19,Left Foot,27,60,Mads Hermansen,Enzo Fernández
+4/3/2025,Matchweek 30,Home,Chelsea,Enzo Fernández,Tottenham,0.43,0.89,Head,6,50,Guglielmo Vicario,Cole Palmer
+4/13/2025,Matchweek 32,Home,Chelsea,Axel Tuanzebe (OG),Ipswich Town,,,,,46,,
+4/13/2025,Matchweek 32,Home,Chelsea,Jadon Sancho,Ipswich Town,0.05,0.81,Right Foot,18,79,Alex Palmer,Cole Palmer
+4/20/2025,Matchweek 33,Away,Chelsea,Tyrique George,Fulham,0.07,0.47,Right Foot,21,83,Bernd Leno,
+4/20/2025,Matchweek 33,Away,Chelsea,Pedro Neto,Fulham,0.07,0.24,Left Foot,17,90+3,Bernd Leno,Enzo Fernández
+4/26/2025,Matchweek 34,Home,Chelsea,Nicolas Jackson,Everton,0.09,0.11,Right Foot,24,27,Jordan Pickford,Enzo Fernández
+5/4/2025,Matchweek 35,Home,Chelsea,Enzo Fernández,Liverpool,0.53,0.92,Right Foot,10,3,Alisson,Pedro Neto
+5/4/2025,Matchweek 35,Home,Chelsea,Jarell Quansah (OG),Liverpool,,,,,56,,
+5/4/2025,Matchweek 35,Home,Chelsea,Cole Palmer,Liverpool,0.79,0.86,Left Foot,13,90+6,Alisson,
+5/16/2025,Matchweek 37,Home,Chelsea,Marc Cucurella,Manchester Utd,0.16,0.57,Head,10,71,André Onana,Reece James
+5/25/2025,Matchweek 38,Away,Chelsea,Levi Colwill,Nott'ham Forest,0.58,0.99,Right Foot,4,50,Matz Sels,Pedro Neto
+8/17/2024,Matchweek 1,Home,Newcastle,Joelinton,Southampton,0.17,0.63,Left Foot,15,45,Alex McCarthy,Alexander Isak
+8/25/2024,Matchweek 2,Away,Newcastle,Anthony Gordon,Bournemouth,0.45,0.95,Right Foot,3,76,Neto,Harvey Barnes
+9/1/2024,Matchweek 3,Home,Newcastle,Harvey Barnes,Tottenham,0.46,0.97,Right Foot,10,37,Guglielmo Vicario,Lloyd Kelly
+9/1/2024,Matchweek 3,Home,Newcastle,Alexander Isak,Tottenham,0.92,1,Left Foot,4,78,Guglielmo Vicario,Jacob Murphy
+9/15/2024,Matchweek 4,Away,Newcastle,Fabian Schär,Wolves,0.03,0.32,Right Foot,30,75,Sam Johnstone,Bruno Guimarães
+9/15/2024,Matchweek 4,Away,Newcastle,Harvey Barnes,Wolves,0.06,0.82,Right Foot,25,80,Sam Johnstone,Joe Willock
+9/21/2024,Matchweek 5,Away,Newcastle,Harvey Barnes,Fulham,0.13,0.72,Right Foot,14,46,Bernd Leno,Jacob Murphy
+9/28/2024,Matchweek 6,Home,Newcastle,Anthony Gordon,Manchester City,0.79,0.7,Right Foot,13,58,Ederson,
+10/27/2024,Matchweek 9,Away,Newcastle,Alexander Isak,Chelsea,0.98,0.99,Right Foot,2,32,Robert Sánchez,Lewis Hall
+11/2/2024,Matchweek 10,Home,Newcastle,Alexander Isak,Arsenal,0.25,0.72,Head,9,12,David Raya,Anthony Gordon
+11/10/2024,Matchweek 11,Away,Newcastle,Alexander Isak,Nott'ham Forest,0.27,0.94,Right Foot,5,54,Matz Sels,
+11/10/2024,Matchweek 11,Away,Newcastle,Joelinton,Nott'ham Forest,0.06,0.29,Left Foot,18,72,Matz Sels,Alexander Isak
+11/10/2024,Matchweek 11,Away,Newcastle,Harvey Barnes,Nott'ham Forest,0.08,0.41,Right Foot,11,83,Matz Sels,Sandro Tonali
+11/30/2024,Matchweek 13,Away,Newcastle,Marc Guéhi (OG),Crystal Palace,,,,,53,,
+12/4/2024,Matchweek 14,Home,Newcastle,Alexander Isak,Liverpool,0.06,0.26,Right Foot,24,35,Caoimhín Kelleher,Bruno Guimarães
+12/4/2024,Matchweek 14,Home,Newcastle,Anthony Gordon,Liverpool,0.25,0.32,Right Foot,9,62,Caoimhín Kelleher,Alexander Isak
+12/4/2024,Matchweek 14,Home,Newcastle,Fabian Schär,Liverpool,0.3,0.86,Left Foot,5,90,Caoimhín Kelleher,Bruno Guimarães
+12/7/2024,Matchweek 15,Away,Newcastle,Alexander Isak,Brentford,0.37,0.67,Head,8,11,Mark Flekken,Jacob Murphy
+12/7/2024,Matchweek 15,Away,Newcastle,Harvey Barnes,Brentford,0.09,0.47,Right Foot,14,32,Mark Flekken,Jacob Murphy
+12/14/2024,Matchweek 16,Home,Newcastle,Jacob Murphy,Leicester City,0.09,0.62,Right Foot,18,30,Mads Hermansen,Anthony Gordon
+12/14/2024,Matchweek 16,Home,Newcastle,Bruno Guimarães,Leicester City,0.74,0.99,Head,2,47,Danny Ward,Lewis Hall
+12/14/2024,Matchweek 16,Home,Newcastle,Alexander Isak,Leicester City,0.6,0.99,Head,4,50,Danny Ward,
+12/14/2024,Matchweek 16,Home,Newcastle,Jacob Murphy,Leicester City,0.11,0.1,Right Foot,13,60,Danny Ward,Alexander Isak
+12/21/2024,Matchweek 17,Away,Newcastle,Alexander Isak,Ipswich Town,0.08,0.1,Right Foot,15,1,Arijanet Muric,
+12/21/2024,Matchweek 17,Away,Newcastle,Jacob Murphy,Ipswich Town,0.02,0.17,Right Foot,15,32,Arijanet Muric,Anthony Gordon
+12/21/2024,Matchweek 17,Away,Newcastle,Alexander Isak,Ipswich Town,0.73,0.48,Right Foot,7,45+2,Arijanet Muric,Bruno Guimarães
+12/21/2024,Matchweek 17,Away,Newcastle,Alexander Isak,Ipswich Town,0.17,0.56,Right Foot,9,54,Arijanet Muric,Jacob Murphy
+12/26/2024,Matchweek 18,Home,Newcastle,Anthony Gordon,Aston Villa,0.05,0.51,Right Foot,20,2,Emiliano Martínez,Joelinton
+12/26/2024,Matchweek 18,Home,Newcastle,Alexander Isak,Aston Villa,0.72,0.98,Right Foot,5,59,Emiliano Martínez,Jacob Murphy
+12/26/2024,Matchweek 18,Home,Newcastle,Joelinton,Aston Villa,0.08,0.83,Right Foot,18,90+1,Emiliano Martínez,
+12/30/2024,Matchweek 19,Away,Newcastle,Alexander Isak,Manchester Utd,0.52,0.69,Head,6,4,André Onana,
+12/30/2024,Matchweek 19,Away,Newcastle,Joelinton,Manchester Utd,0.25,0.88,Other,6,19,André Onana,Anthony Gordon
+1/4/2025,Matchweek 20,Away,Newcastle,Anthony Gordon,Tottenham,0.21,0.78,Left Foot,11,6,Brandon Austin,Bruno Guimarães
+1/4/2025,Matchweek 20,Away,Newcastle,Alexander Isak,Tottenham,0.89,0.99,Right Foot,4,38,Brandon Austin,Jacob Murphy
+1/15/2025,Matchweek 21,Home,Newcastle,Alexander Isak,Wolves,0.08,0.44,Right Foot,21,34,José Sá,
+1/15/2025,Matchweek 21,Home,Newcastle,Alexander Isak,Wolves,0.5,0.32,Right Foot,16,57,José Sá,Bruno Guimarães
+1/15/2025,Matchweek 21,Home,Newcastle,Anthony Gordon,Wolves,0.44,0.96,Right Foot,11,74,José Sá,Alexander Isak
+1/18/2025,Matchweek 22,Home,Newcastle,Bruno Guimarães,Bournemouth,0.05,0.13,Head,10,25,Kepa Arrizabalaga,Lewis Hall
+1/25/2025,Matchweek 23,Away,Newcastle,Alexander Isak,Southampton,0.79,0.77,Right Foot,13,26,Alex McCarthy,
+1/25/2025,Matchweek 23,Away,Newcastle,Alexander Isak,Southampton,0.58,0.87,Right Foot,14,30,Alex McCarthy,Jacob Murphy
+1/25/2025,Matchweek 23,Away,Newcastle,Sandro Tonali,Southampton,0.59,0.7,Right Foot,14,51,Alex McCarthy,Anthony Gordon
+2/1/2025,Matchweek 24,Home,Newcastle,Jacob Murphy,Fulham,0.16,0.61,Right Foot,11,37,Bernd Leno,
+2/23/2025,Matchweek 26,Home,Newcastle,Lewis Miley,Nott'ham Forest,0.08,0.21,Left Foot,17,23,Matz Sels,Lewis Hall
+2/23/2025,Matchweek 26,Home,Newcastle,Jacob Murphy,Nott'ham Forest,0.93,0.99,Right Foot,2,25,Matz Sels,
+2/23/2025,Matchweek 26,Home,Newcastle,Alexander Isak,Nott'ham Forest,0.79,0.92,Right Foot,13,33,Matz Sels,
+2/23/2025,Matchweek 26,Home,Newcastle,Alexander Isak,Nott'ham Forest,0.13,0.28,Left Foot,12,34,Matz Sels,Joe Willock
+3/10/2025,Matchweek 28,Away,Newcastle,Bruno Guimarães,West Ham,0.48,0.73,Right Foot,5,63,Alphonse Areola,Harvey Barnes
+4/2/2025,Matchweek 30,Home,Newcastle,Alexander Isak,Brentford,0.26,0.8,Right Foot,6,45+2,Mark Flekken,Jacob Murphy
+4/2/2025,Matchweek 30,Home,Newcastle,Sandro Tonali,Brentford,0,0.04,Right Foot,30,74,Mark Flekken,Harvey Barnes
+4/7/2025,Matchweek 31,Away,Newcastle,Jacob Murphy,Leicester City,0.72,0.96,Right Foot,3,2,Mads Hermansen,Valentino Livramento
+4/7/2025,Matchweek 31,Away,Newcastle,Jacob Murphy,Leicester City,0.85,0.97,Right Foot,6,11,Mads Hermansen,
+4/7/2025,Matchweek 31,Away,Newcastle,Harvey Barnes,Leicester City,0.91,0.82,Right Foot,5,34,Mads Hermansen,
+4/13/2025,Matchweek 32,Home,Newcastle,Sandro Tonali,Manchester Utd,0.2,0.86,Right Foot,9,24,Altay Bay?nd?r,Alexander Isak
+4/13/2025,Matchweek 32,Home,Newcastle,Harvey Barnes,Manchester Utd,0.54,0.87,Left Foot,4,49,Altay Bay?nd?r,Jacob Murphy
+4/13/2025,Matchweek 32,Home,Newcastle,Harvey Barnes,Manchester Utd,0.25,0.76,Right Foot,16,64,Altay Bay?nd?r,
+4/13/2025,Matchweek 32,Home,Newcastle,Bruno Guimarães,Manchester Utd,0.46,0.43,Right Foot,17,77,Altay Bay?nd?r,Joelinton
+4/16/2025,Matchweek 29,Home,Newcastle,Jacob Murphy,Crystal Palace,0.01,0.14,Right Foot,16,14,Dean Henderson,Kieran Trippier
+4/16/2025,Matchweek 29,Home,Newcastle,Marc Guéhi (OG),Crystal Palace,,,,,38,,
+4/16/2025,Matchweek 29,Home,Newcastle,Harvey Barnes,Crystal Palace,0.31,0.81,Left Foot,10,45+2,Dean Henderson,Sandro Tonali
+4/16/2025,Matchweek 29,Home,Newcastle,Fabian Schär,Crystal Palace,0.14,0.8,Head,10,45+8,Dean Henderson,Jacob Murphy
+4/16/2025,Matchweek 29,Home,Newcastle,Alexander Isak,Crystal Palace,0.07,0.09,Right Foot,26,58,Dean Henderson,Joelinton
+4/19/2025,Matchweek 33,Away,Newcastle,Fabian Schär,Aston Villa,0.29,0.37,Head,4,18,Emiliano Martínez,Harvey Barnes
+4/26/2025,Matchweek 34,Home,Newcastle,Alexander Isak,Ipswich Town,0.79,0.74,Right Foot,13,45+4,Alex Palmer,
+4/26/2025,Matchweek 34,Home,Newcastle,Dan Burn,Ipswich Town,0.4,0.95,Head,1,56,Alex Palmer,Kieran Trippier
+4/26/2025,Matchweek 34,Home,Newcastle,William Osula,Ipswich Town,0.04,0.3,Head,10,80,Alex Palmer,Kieran Trippier
+5/4/2025,Matchweek 35,Away,Newcastle,Alexander Isak,Brighton,0.79,0.9,Right Foot,13,89,Bart Verbruggen,
+5/11/2025,Matchweek 36,Home,Newcastle,Sandro Tonali,Chelsea,0.67,0.89,Left Foot,3,2,Robert Sánchez,Jacob Murphy
+5/11/2025,Matchweek 36,Home,Newcastle,Bruno Guimarães,Chelsea,0.01,0.21,Right Foot,24,90,Robert Sánchez,Dan Burn
+8/17/2024,Matchweek 1,Away,Aston Villa,Amadou Onana,West Ham,0.55,0.94,Head,3,4,Alphonse Areola,Youri Tielemans
+8/17/2024,Matchweek 1,Away,Aston Villa,Jáder Durán,West Ham,0.15,0.14,Left Foot,14,79,Alphonse Areola,Jacob Ramsey
+8/31/2024,Matchweek 3,Away,Aston Villa,Amadou Onana,Leicester City,0.39,0.98,Left Foot,5,28,Mads Hermansen,Ollie Watkins
+8/31/2024,Matchweek 3,Away,Aston Villa,Jáder Durán,Leicester City,0.15,0.65,Head,8,63,Mads Hermansen,Lucas Digne
+9/14/2024,Matchweek 4,Home,Aston Villa,Ollie Watkins,Everton,0.41,0.96,Head,2,36,Jordan Pickford,Lucas Digne
+9/14/2024,Matchweek 4,Home,Aston Villa,Ollie Watkins,Everton,0.13,0.43,Right Foot,10,58,Jordan Pickford,
+9/14/2024,Matchweek 4,Home,Aston Villa,Jáder Durán,Everton,0.02,0.31,Left Foot,32,76,Jordan Pickford,Ross Barkley
+9/21/2024,Matchweek 5,Home,Aston Villa,Ollie Watkins,Wolves,0.13,0.39,Right Foot,8,73,Sam Johnstone,Morgan Rogers
+9/21/2024,Matchweek 5,Home,Aston Villa,Ezri Konsa,Wolves,0.21,0.37,Right Foot,4,88,Sam Johnstone,Youri Tielemans
+9/21/2024,Matchweek 5,Home,Aston Villa,Jáder Durán,Wolves,0.87,1,Left Foot,8,90+4,Sam Johnstone,Morgan Rogers
+9/29/2024,Matchweek 6,Away,Aston Villa,Morgan Rogers,Ipswich Town,0.13,0.7,Right Foot,17,15,Arijanet Muric,Ollie Watkins
+9/29/2024,Matchweek 6,Away,Aston Villa,Ollie Watkins,Ipswich Town,0.4,0.42,Head,5,32,Arijanet Muric,Leon Bailey
+10/19/2024,Matchweek 8,Away,Aston Villa,Morgan Rogers,Fulham,0.04,0.33,Right Foot,27,9,Bernd Leno,Jacob Ramsey
+10/19/2024,Matchweek 8,Away,Aston Villa,Ollie Watkins,Fulham,0.08,0.19,Head,10,59,Bernd Leno,Youri Tielemans
+10/19/2024,Matchweek 8,Away,Aston Villa,Issa Diop (OG),Fulham,,,,,69,,
+10/26/2024,Matchweek 9,Home,Aston Villa,Ross Barkley,Bournemouth,0.2,0.55,Right Foot,5,76,Mark Travers,Leon Bailey
+11/3/2024,Matchweek 10,Away,Aston Villa,Morgan Rogers,Tottenham,0.73,0.98,Right Foot,2,32,Guglielmo Vicario,
+11/23/2024,Matchweek 12,Home,Aston Villa,Ollie Watkins,Crystal Palace,0.95,1,Left Foot,12,36,Dean Henderson,John McGinn
+11/23/2024,Matchweek 12,Home,Aston Villa,Ross Barkley,Crystal Palace,0.14,0.87,Head,7,77,Dean Henderson,Youri Tielemans
+12/4/2024,Matchweek 14,Home,Aston Villa,Morgan Rogers,Brentford,0.06,0.67,Right Foot,24,21,Mark Flekken,Ollie Watkins
+12/4/2024,Matchweek 14,Home,Aston Villa,Ollie Watkins,Brentford,0.79,0.8,Right Foot,13,28,Mark Flekken,
+12/4/2024,Matchweek 14,Home,Aston Villa,Matty Cash,Brentford,0.02,0.15,Right Foot,9,34,Mark Flekken,
+12/7/2024,Matchweek 15,Home,Aston Villa,Jáder Durán,Southampton,0.49,0.37,Left Foot,21,24,Joe Lumley,
+12/14/2024,Matchweek 16,Away,Aston Villa,Jáder Durán,Nott'ham Forest,0.04,0.06,Head,14,63,Matz Sels,John McGinn
+12/21/2024,Matchweek 17,Home,Aston Villa,Jáder Durán,Manchester City,0.53,0.34,Left Foot,14,16,Stefan Ortega,Morgan Rogers
+12/21/2024,Matchweek 17,Home,Aston Villa,Morgan Rogers,Manchester City,0.07,0.41,Left Foot,16,65,Stefan Ortega,John McGinn
+12/30/2024,Matchweek 19,Home,Aston Villa,Ollie Watkins,Brighton,0.79,0.87,Right Foot,13,36,Bart Verbruggen,
+12/30/2024,Matchweek 19,Home,Aston Villa,Morgan Rogers,Brighton,0.09,0.14,Right Foot,14,47,Bart Verbruggen,Ollie Watkins
+1/4/2025,Matchweek 20,Home,Aston Villa,Ross Barkley,Leicester City,0.08,0.61,Right Foot,20,58,Jakub Stolarczyk,
+1/4/2025,Matchweek 20,Home,Aston Villa,Leon Bailey,Leicester City,0.23,0.34,Left Foot,5,76,Jakub Stolarczyk,Ian Maatsen
+1/15/2025,Matchweek 21,Away,Aston Villa,Ollie Watkins,Everton,0.36,0.46,Left Foot,18,51,Jordan Pickford,Morgan Rogers
+1/18/2025,Matchweek 22,Away,Aston Villa,Youri Tielemans,Arsenal,0.21,0.56,Head,9,60,David Raya,Lucas Digne
+1/18/2025,Matchweek 22,Away,Aston Villa,Ollie Watkins,Arsenal,0.56,0.84,Right Foot,6,68,David Raya,Matty Cash
+1/26/2025,Matchweek 23,Home,Aston Villa,Jacob Ramsey,West Ham,0.18,0.75,Left Foot,10,8,Alphonse Areola,Ollie Watkins
+2/15/2025,Matchweek 25,Home,Aston Villa,Ollie Watkins,Ipswich Town,0.28,0.93,Left Foot,9,69,Alex Palmer,
+2/19/2025,Matchweek 29,Home,Aston Villa,Youri Tielemans,Liverpool,0.11,0.47,Left Foot,8,38,Alisson,
+2/19/2025,Matchweek 29,Home,Aston Villa,Ollie Watkins,Liverpool,0.19,0.83,Head,10,45+3,Alisson,Lucas Digne
+2/22/2025,Matchweek 26,Home,Aston Villa,Marco Asensio,Chelsea,0.95,0.99,Left Foot,3,57,Filip Jørgensen,Marcus Rashford
+2/22/2025,Matchweek 26,Home,Aston Villa,Marco Asensio,Chelsea,0.08,0.07,Left Foot,13,89,Filip Jørgensen,Marcus Rashford
+2/25/2025,Matchweek 27,Away,Aston Villa,Morgan Rogers,Crystal Palace,0.13,0.86,Left Foot,11,52,Dean Henderson,Ollie Watkins
+3/8/2025,Matchweek 28,Away,Aston Villa,Ollie Watkins,Brentford,0.07,0.13,Right Foot,18,49,Mark Flekken,Jacob Ramsey
+4/2/2025,Matchweek 30,Away,Aston Villa,Marcus Rashford,Brighton,0.43,0.27,Right Foot,22,51,Bart Verbruggen,Morgan Rogers
+4/2/2025,Matchweek 30,Away,Aston Villa,Marco Asensio,Brighton,0.26,0.87,Left Foot,15,78,Bart Verbruggen,Morgan Rogers
+4/2/2025,Matchweek 30,Away,Aston Villa,Donyell Malen,Brighton,0.06,0.2,Right Foot,13,90+10,Bart Verbruggen,Marco Asensio
+4/5/2025,Matchweek 31,Home,Aston Villa,Morgan Rogers,Nott'ham Forest,0.41,0.31,Left Foot,13,13,Matz Sels,Youri Tielemans
+4/5/2025,Matchweek 31,Home,Aston Villa,Donyell Malen,Nott'ham Forest,0.72,0.99,Right Foot,4,15,Matz Sels,Ian Maatsen
+4/12/2025,Matchweek 32,Away,Aston Villa,Ollie Watkins,Southampton,0.28,0.18,Right Foot,11,73,Aaron Ramsdale,Youri Tielemans
+4/12/2025,Matchweek 32,Away,Aston Villa,Donyell Malen,Southampton,0.23,0.42,Right Foot,11,79,Aaron Ramsdale,Morgan Rogers
+4/12/2025,Matchweek 32,Away,Aston Villa,John McGinn,Southampton,0.31,0.53,Right Foot,10,90+4,Aaron Ramsdale,
+4/19/2025,Matchweek 33,Home,Aston Villa,Ollie Watkins,Newcastle Utd,0.04,0.43,Right Foot,17,1,Nick Pope,Youri Tielemans
+4/19/2025,Matchweek 33,Home,Aston Villa,Ian Maatsen,Newcastle Utd,0.21,0.43,Left Foot,11,64,Nick Pope,Ollie Watkins
+4/19/2025,Matchweek 33,Home,Aston Villa,Dan Burn (OG),Newcastle Utd,,,,,73,,
+4/19/2025,Matchweek 33,Home,Aston Villa,Amadou Onana,Newcastle Utd,0.07,0.69,Right Foot,22,75,Nick Pope,Morgan Rogers
+4/22/2025,Matchweek 34,Away,Aston Villa,Marcus Rashford,Manchester City,0.79,0.8,Right Foot,13,18,Stefan Ortega,
+5/3/2025,Matchweek 35,Home,Aston Villa,Youri Tielemans,Fulham,0.06,0.3,Head,9,12,Bernd Leno,John McGinn
+5/10/2025,Matchweek 36,Away,Aston Villa,Ollie Watkins,Bournemouth,0.36,0.95,Left Foot,6,45+6,Kepa Arrizabalaga,Morgan Rogers
+5/16/2025,Matchweek 37,Home,Aston Villa,Ezri Konsa,Tottenham,0.31,0.62,Right Foot,5,59,Antonín Kinský,Ollie Watkins
+5/16/2025,Matchweek 37,Home,Aston Villa,Boubacar Kamara,Tottenham,0.04,0.05,Left Foot,18,73,Antonín Kinský,Morgan Rogers
+8/17/2024,Matchweek 1,Home,Nott'ham Forest,Chris Wood,Bournemouth,0.71,0.95,Right Foot,8,23,Neto,
+8/24/2024,Matchweek 2,Away,Nott'ham Forest,Morgan Gibbs-White,Southampton,0.25,0.87,Right Foot,4,70,Alex McCarthy,
+8/31/2024,Matchweek 3,Home,Nott'ham Forest,Chris Wood,Wolves,0.03,0.1,Head,12,10,Sam Johnstone,Elliot Anderson
+9/14/2024,Matchweek 4,Away,Nott'ham Forest,Callum Hudson-Odoi,Liverpool,0.07,0.29,Right Foot,24,72,Alisson,Anthony Elanga
+9/22/2024,Matchweek 5,Away,Nott'ham Forest,Chris Wood,Brighton,0.79,0.89,Right Foot,13,13,Bart Verbruggen,
+9/22/2024,Matchweek 5,Away,Nott'ham Forest,Ramón Sosa,Brighton,0.45,0.49,Right Foot,11,70,Bart Verbruggen,Jota Silva
+10/6/2024,Matchweek 7,Away,Nott'ham Forest,Chris Wood,Chelsea,0.16,0.79,Right Foot,10,49,Robert Sánchez,Nikola Milenkovi?
+10/21/2024,Matchweek 8,Home,Nott'ham Forest,Chris Wood,Crystal Palace,0.02,0.05,Right Foot,26,65,Dean Henderson,
+10/25/2024,Matchweek 9,Away,Nott'ham Forest,Ryan Yates,Leicester City,0.03,0.22,Right Foot,29,16,Mads Hermansen,
+10/25/2024,Matchweek 9,Away,Nott'ham Forest,Chris Wood,Leicester City,0.09,0.77,Right Foot,15,47,Mads Hermansen,Elliot Anderson
+10/25/2024,Matchweek 9,Away,Nott'ham Forest,Chris Wood,Leicester City,0.23,0.23,Head,11,60,Mads Hermansen,
+11/2/2024,Matchweek 10,Home,Nott'ham Forest,Chris Wood,West Ham,0.76,0.88,Head,6,27,?ukasz Fabia?ski,Álex Moreno
+11/2/2024,Matchweek 10,Home,Nott'ham Forest,Callum Hudson-Odoi,West Ham,0.01,0.22,Right Foot,24,65,?ukasz Fabia?ski,Elliot Anderson
+11/2/2024,Matchweek 10,Home,Nott'ham Forest,Ola Aina,West Ham,0.07,0.48,Left Foot,23,78,?ukasz Fabia?ski,
+11/10/2024,Matchweek 11,Home,Nott'ham Forest,Murillo,Newcastle Utd,0.17,0.41,Head,7,21,Nick Pope,Anthony Elanga
+11/30/2024,Matchweek 13,Home,Nott'ham Forest,Chris Wood,Ipswich Town,0.79,0.96,Right Foot,13,49,Arijanet Muric,
+12/7/2024,Matchweek 15,Away,Nott'ham Forest,Nikola Milenkovi?,Manchester Utd,0.09,0.58,Head,8,2,André Onana,Elliot Anderson
+12/7/2024,Matchweek 15,Away,Nott'ham Forest,Morgan Gibbs-White,Manchester Utd,0.03,0.01,Right Foot,27,47,André Onana,Callum Hudson-Odoi
+12/7/2024,Matchweek 15,Away,Nott'ham Forest,Chris Wood,Manchester Utd,0.27,0.94,Head,5,54,André Onana,Morgan Gibbs-White
+12/14/2024,Matchweek 16,Home,Nott'ham Forest,Nikola Milenkovi?,Aston Villa,0.45,0.86,Head,4,87,Emiliano Martínez,Morgan Gibbs-White
+12/14/2024,Matchweek 16,Home,Nott'ham Forest,Anthony Elanga,Aston Villa,0.2,0.38,Left Foot,9,90+3,Emiliano Martínez,Elliot Anderson
+12/21/2024,Matchweek 17,Away,Nott'ham Forest,Ola Aina,Brentford,0.18,0.26,Right Foot,13,38,Mark Flekken,Neco Williams
+12/21/2024,Matchweek 17,Away,Nott'ham Forest,Anthony Elanga,Brentford,0.06,0.74,Left Foot,18,51,Mark Flekken,
+12/26/2024,Matchweek 18,Home,Nott'ham Forest,Anthony Elanga,Tottenham,0.2,0.87,Left Foot,10,28,Fraser Forster,Morgan Gibbs-White
+12/29/2024,Matchweek 19,Away,Nott'ham Forest,Chris Wood,Everton,0.13,0.38,Right Foot,14,15,Jordan Pickford,Anthony Elanga
+12/29/2024,Matchweek 19,Away,Nott'ham Forest,Morgan Gibbs-White,Everton,0.21,0.49,Left Foot,13,61,Jordan Pickford,Chris Wood
+1/6/2025,Matchweek 20,Away,Nott'ham Forest,Morgan Gibbs-White,Wolves,0.15,0.75,Right Foot,16,7,José Sá,Anthony Elanga
+1/6/2025,Matchweek 20,Away,Nott'ham Forest,Chris Wood,Wolves,0.25,0.96,Left Foot,9,44,José Sá,Callum Hudson-Odoi
+1/6/2025,Matchweek 20,Away,Nott'ham Forest,Taiwo Awoniyi,Wolves,0.98,1,Left Foot,7,90+4,José Sá,James Ward-Prowse
+1/14/2025,Matchweek 21,Home,Nott'ham Forest,Chris Wood,Liverpool,0.16,0.67,Left Foot,12,8,Alisson,Anthony Elanga
+1/19/2025,Matchweek 22,Home,Nott'ham Forest,Elliot Anderson,Southampton,0.03,0.25,Right Foot,24,11,Aaron Ramsdale,Morgan Gibbs-White
+1/19/2025,Matchweek 22,Home,Nott'ham Forest,Callum Hudson-Odoi,Southampton,0.09,0.25,Right Foot,25,28,Aaron Ramsdale,Chris Wood
+1/19/2025,Matchweek 22,Home,Nott'ham Forest,Chris Wood,Southampton,0.07,0.44,Head,14,41,Aaron Ramsdale,Ola Aina
+2/1/2025,Matchweek 24,Home,Nott'ham Forest,Lewis Dunk (OG),Brighton,,,,,12,,
+2/1/2025,Matchweek 24,Home,Nott'ham Forest,Morgan Gibbs-White,Brighton,0.07,0.21,Head,6,25,Bart Verbruggen,Anthony Elanga
+2/1/2025,Matchweek 24,Home,Nott'ham Forest,Chris Wood,Brighton,0.5,0.86,Head,5,32,Bart Verbruggen,Anthony Elanga
+2/1/2025,Matchweek 24,Home,Nott'ham Forest,Chris Wood,Brighton,0.83,0.99,Right Foot,4,64,Bart Verbruggen,Anthony Elanga
+2/1/2025,Matchweek 24,Home,Nott'ham Forest,Chris Wood,Brighton,0.79,0.63,Right Foot,13,69,Bart Verbruggen,
+2/1/2025,Matchweek 24,Home,Nott'ham Forest,Neco Williams,Brighton,0.29,0.89,Right Foot,7,89,Bart Verbruggen,Ibrahim Sangaré
+2/1/2025,Matchweek 24,Home,Nott'ham Forest,Jota Silva,Brighton,0.06,0.12,Right Foot,14,90+1,Bart Verbruggen,
+2/15/2025,Matchweek 25,Away,Nott'ham Forest,Chris Wood,Fulham,0.14,0.71,Left Foot,17,37,Bernd Leno,Morgan Gibbs-White
+2/23/2025,Matchweek 26,Away,Nott'ham Forest,Callum Hudson-Odoi,Newcastle Utd,0.02,0.35,Right Foot,30,6,Nick Pope,
+2/23/2025,Matchweek 26,Away,Nott'ham Forest,Nikola Milenkovi?,Newcastle Utd,0.29,0.7,Right Foot,5,63,Nick Pope,Chris Wood
+2/23/2025,Matchweek 26,Away,Nott'ham Forest,Ryan Yates,Newcastle Utd,0.33,0.88,Right Foot,6,90,Nick Pope,
+3/8/2025,Matchweek 28,Home,Nott'ham Forest,Callum Hudson-Odoi,Manchester City,0.06,0.11,Right Foot,11,83,Ederson,Morgan Gibbs-White
+3/15/2025,Matchweek 29,Away,Nott'ham Forest,Nikola Milenkovi?,Ipswich Town,0.14,0.64,Right Foot,11,35,Alex Palmer,
+3/15/2025,Matchweek 29,Away,Nott'ham Forest,Anthony Elanga,Ipswich Town,0.07,0.71,Left Foot,16,37,Alex Palmer,Elliot Anderson
+3/15/2025,Matchweek 29,Away,Nott'ham Forest,Anthony Elanga,Ipswich Town,0.48,0.43,Right Foot,21,41,Alex Palmer,Nikola Milenkovi?
+3/15/2025,Matchweek 29,Away,Nott'ham Forest,Jota Silva,Ipswich Town,0.47,0.68,Right Foot,16,87,Alex Palmer,Morgan Gibbs-White
+4/1/2025,Matchweek 30,Home,Nott'ham Forest,Anthony Elanga,Manchester Utd,0.12,0.52,Left Foot,18,5,André Onana,Ryan Yates
+4/5/2025,Matchweek 31,Away,Nott'ham Forest,Jota Silva,Aston Villa,0.1,0.7,Left Foot,14,57,Emiliano Martínez,Neco Williams
+4/21/2025,Matchweek 33,Away,Nott'ham Forest,Elliot Anderson,Tottenham,0.03,0.28,Right Foot,24,5,Guglielmo Vicario,Nicolás Domínguez
+4/21/2025,Matchweek 33,Away,Nott'ham Forest,Chris Wood,Tottenham,0.12,0.77,Head,10,16,Guglielmo Vicario,Anthony Elanga
+5/5/2025,Matchweek 35,Away,Nott'ham Forest,Murillo,Crystal Palace,0.04,0.71,Left Foot,12,64,Dean Henderson,Neco Williams
+5/11/2025,Matchweek 36,Home,Nott'ham Forest,Morgan Gibbs-White,Leicester City,0.34,0.8,Head,6,25,Jakub Stolarczyk,Anthony Elanga
+5/11/2025,Matchweek 36,Home,Nott'ham Forest,Chris Wood,Leicester City,0.21,0.85,Head,10,56,Jakub Stolarczyk,Morgan Gibbs-White
+5/18/2025,Matchweek 37,Away,Nott'ham Forest,Morgan Gibbs-White,West Ham,0.71,0.95,Right Foot,17,11,Alphonse Areola,
+5/18/2025,Matchweek 37,Away,Nott'ham Forest,Nikola Milenkovi?,West Ham,0.28,0.96,Other,5,61,Alphonse Areola,Anthony Elanga
+8/17/2024,Matchweek 1,Away,Brighton,Kaoru Mitoma,Everton,0.81,0.96,Right Foot,4,25,Jordan Pickford,Yankuba Minteh
+8/17/2024,Matchweek 1,Away,Brighton,Danny Welbeck,Everton,0.07,0.48,Left Foot,18,56,Jordan Pickford,Mats Wieffer
+8/17/2024,Matchweek 1,Away,Brighton,Simon Adingra,Everton,0.07,0.47,Left Foot,17,86,Jordan Pickford,Danny Welbeck
+8/24/2024,Matchweek 2,Home,Brighton,Danny Welbeck,Manchester Utd,0.75,0.99,Right Foot,3,32,André Onana,Kaoru Mitoma
+8/24/2024,Matchweek 2,Home,Brighton,João Pedro,Manchester Utd,0.46,0.95,Head,5,90+5,André Onana,Simon Adingra
+8/31/2024,Matchweek 3,Away,Brighton,João Pedro,Arsenal,0.26,0.24,Left Foot,11,58,David Raya,
+9/22/2024,Matchweek 5,Home,Brighton,Jack Hinshelwood,Nott'ham Forest,0.12,0.48,Head,11,42,Matz Sels,Jan Paul van Hecke
+9/22/2024,Matchweek 5,Home,Brighton,Danny Welbeck,Nott'ham Forest,0.06,0.27,Right Foot,27,45,Matz Sels,
+9/28/2024,Matchweek 6,Away,Brighton,Georginio Rutter,Chelsea,0.09,0.23,Head,15,7,Robert Sánchez,Carlos Baleba
+9/28/2024,Matchweek 6,Away,Brighton,Carlos Baleba,Chelsea,0.27,0.62,Right Foot,12,34,Robert Sánchez,
+10/6/2024,Matchweek 7,Home,Brighton,Yankuba Minteh,Tottenham,0.25,0.62,Left Foot,9,48,Guglielmo Vicario,
+10/6/2024,Matchweek 7,Home,Brighton,Georginio Rutter,Tottenham,0.17,0.49,Left Foot,15,58,Guglielmo Vicario,Kaoru Mitoma
+10/6/2024,Matchweek 7,Home,Brighton,Danny Welbeck,Tottenham,0.56,0.98,Head,5,66,Guglielmo Vicario,
+10/19/2024,Matchweek 8,Away,Brighton,Danny Welbeck,Newcastle Utd,0.36,0.62,Right Foot,12,35,Nick Pope,Georginio Rutter
+10/26/2024,Matchweek 9,Home,Brighton,Danny Welbeck,Wolves,0.45,0.62,Right Foot,10,45,José Sá,Georginio Rutter
+10/26/2024,Matchweek 9,Home,Brighton,Evan Ferguson,Wolves,0.08,0.44,Right Foot,16,85,José Sá,Tariq Lamptey
+11/2/2024,Matchweek 10,Away,Brighton,Ferdi Kadioglu,Liverpool,0.05,0.04,Right Foot,17,14,Caoimhín Kelleher,Danny Welbeck
+11/9/2024,Matchweek 11,Home,Brighton,João Pedro,Manchester City,0.24,0.68,Right Foot,7,78,Ederson,
+11/9/2024,Matchweek 11,Home,Brighton,Matt O'Riley,Manchester City,0.52,0.36,Left Foot,9,83,Ederson,João Pedro
+11/23/2024,Matchweek 12,Away,Brighton,João Pedro,Bournemouth,0.29,0.59,Right Foot,5,4,Kepa Arrizabalaga,
+11/23/2024,Matchweek 12,Away,Brighton,Kaoru Mitoma,Bournemouth,0.42,0.91,Right Foot,11,49,Kepa Arrizabalaga,João Pedro
+11/29/2024,Matchweek 13,Home,Brighton,Kaoru Mitoma,Southampton,0.12,0.28,Head,10,29,Joe Lumley,Tariq Lamptey
+12/5/2024,Matchweek 14,Away,Brighton,Carlos Baleba,Fulham,0.06,0.15,Left Foot,24,56,Bernd Leno,João Pedro
+12/8/2024,Matchweek 15,Away,Brighton,Tariq Lamptey,Leicester City,0.02,0.8,Left Foot,22,37,Mads Hermansen,Pervis Estupiñán
+12/8/2024,Matchweek 15,Away,Brighton,Yankuba Minteh,Leicester City,0.41,0.91,Left Foot,11,79,Mads Hermansen,
+12/15/2024,Matchweek 16,Home,Brighton,Marc Guéhi (OG),Crystal Palace,,,,,87,,
+12/21/2024,Matchweek 17,Away,Brighton,Mats Wieffer,West Ham,0.19,0.69,Right Foot,14,51,?ukasz Fabia?ski,
+12/30/2024,Matchweek 19,Away,Brighton,Simon Adingra,Aston Villa,0.31,0.89,Right Foot,15,12,Emiliano Martínez,João Pedro
+12/30/2024,Matchweek 19,Away,Brighton,Tariq Lamptey,Aston Villa,0.15,0.19,Right Foot,17,81,Emiliano Martínez,João Pedro
+1/4/2025,Matchweek 20,Home,Brighton,João Pedro,Arsenal,0.79,0.96,Right Foot,13,61,David Raya,
+1/16/2025,Matchweek 21,Away,Brighton,Kaoru Mitoma,Ipswich Town,0.16,0.42,Right Foot,16,59,Christian Walton,Matt O'Riley
+1/16/2025,Matchweek 21,Away,Brighton,Georginio Rutter,Ipswich Town,0.11,0.82,Right Foot,9,81,Christian Walton,
+1/19/2025,Matchweek 22,Away,Brighton,Yankuba Minteh,Manchester Utd,0.52,0.46,Right Foot,10,5,André Onana,Kaoru Mitoma
+1/19/2025,Matchweek 22,Away,Brighton,Kaoru Mitoma,Manchester Utd,0.8,0.99,Right Foot,2,60,André Onana,Yankuba Minteh
+1/19/2025,Matchweek 22,Away,Brighton,Georginio Rutter,Manchester Utd,0.27,0.74,Left Foot,11,76,André Onana,
+2/14/2025,Matchweek 25,Home,Brighton,Kaoru Mitoma,Chelsea,0.05,0.24,Right Foot,21,27,Filip Jørgensen,Bart Verbruggen
+2/14/2025,Matchweek 25,Home,Brighton,Yankuba Minteh,Chelsea,0.26,0.37,Left Foot,9,38,Filip Jørgensen,Danny Welbeck
+2/14/2025,Matchweek 25,Home,Brighton,Yankuba Minteh,Chelsea,0.1,0.63,Left Foot,8,63,Filip Jørgensen,Danny Welbeck
+2/22/2025,Matchweek 26,Away,Brighton,João Pedro,Southampton,0.57,0.26,Right Foot,16,23,Aaron Ramsdale,
+2/22/2025,Matchweek 26,Away,Brighton,Georginio Rutter,Southampton,0.49,0.89,Left Foot,10,56,Aaron Ramsdale,Yankuba Minteh
+2/22/2025,Matchweek 26,Away,Brighton,Kaoru Mitoma,Southampton,0.61,0.59,Right Foot,13,71,Aaron Ramsdale,João Pedro
+2/22/2025,Matchweek 26,Away,Brighton,Jack Hinshelwood,Southampton,0.09,0.55,Right Foot,10,82,Aaron Ramsdale,Brajan Gruda
+2/25/2025,Matchweek 27,Home,Brighton,João Pedro,Bournemouth,0.79,0.84,Right Foot,13,12,Kepa Arrizabalaga,
+2/25/2025,Matchweek 27,Home,Brighton,Danny Welbeck,Bournemouth,0.37,0.7,Left Foot,13,75,Kepa Arrizabalaga,Georginio Rutter
+3/8/2025,Matchweek 28,Home,Brighton,Jan Paul van Hecke,Fulham,0.09,0.39,Head,8,41,Bernd Leno,Yasin Ayari
+3/8/2025,Matchweek 28,Home,Brighton,João Pedro,Fulham,0.79,0.64,Right Foot,13,90+8,Bernd Leno,
+3/15/2025,Matchweek 29,Away,Brighton,Pervis Estupiñán,Manchester City,0.06,0.09,Left Foot,27,21,Stefan Ortega,
+3/15/2025,Matchweek 29,Away,Brighton,Abdukodir Khusanov (OG),Manchester City,,,,,48,,
+4/5/2025,Matchweek 31,Away,Brighton,Danny Welbeck,Crystal Palace,0.3,0.96,Right Foot,6,31,Dean Henderson,Yankuba Minteh
+4/12/2025,Matchweek 32,Home,Brighton,João Pedro,Leicester City,0.79,0.86,Right Foot,13,31,Mads Hermansen,
+4/12/2025,Matchweek 32,Home,Brighton,João Pedro,Leicester City,0.79,0.98,Right Foot,13,55,Mads Hermansen,
+4/19/2025,Matchweek 33,Away,Brighton,Danny Welbeck,Brentford,0.1,0.81,Head,8,45+3,Mark Flekken,Mats Wieffer
+4/19/2025,Matchweek 33,Away,Brighton,Kaoru Mitoma,Brentford,0.28,0.29,Left Foot,10,81,Mark Flekken,Jack Hinshelwood
+4/26/2025,Matchweek 34,Home,Brighton,Yasin Ayari,West Ham,0.04,0.63,Right Foot,29,13,Alphonse Areola,Jack Hinshelwood
+4/26/2025,Matchweek 34,Home,Brighton,Kaoru Mitoma,West Ham,0.52,0.89,Head,4,89,Alphonse Areola,Brajan Gruda
+4/26/2025,Matchweek 34,Home,Brighton,Carlos Baleba,West Ham,0.02,0.38,Left Foot,34,90+2,Alphonse Areola,Brajan Gruda
+5/4/2025,Matchweek 35,Home,Brighton,Yankuba Minteh,Newcastle Utd,0.15,0.79,Left Foot,13,28,Nick Pope,Mats Wieffer
+5/10/2025,Matchweek 36,Away,Brighton,Danny Welbeck,Wolves,0.79,0.79,Right Foot,13,28,José Sá,
+5/10/2025,Matchweek 36,Away,Brighton,Brajan Gruda,Wolves,0.51,0.29,Left Foot,10,85,José Sá,Simon Adingra
+5/19/2025,Matchweek 37,Home,Brighton,Yasin Ayari,Liverpool,0.17,0.61,Right Foot,20,32,Alisson,Brajan Gruda
+5/19/2025,Matchweek 37,Home,Brighton,Kaoru Mitoma,Liverpool,0.19,0.71,Left Foot,10,69,Alisson,
+5/19/2025,Matchweek 37,Home,Brighton,Jack Hinshelwood,Liverpool,0.62,0.92,Right Foot,5,85,Alisson,Matt O'Riley
+5/25/2025,Matchweek 38,Away,Brighton,Jack Hinshelwood,Tottenham,0.14,0.64,Right Foot,5,51,Guglielmo Vicario,
+5/25/2025,Matchweek 38,Away,Brighton,Jack Hinshelwood,Tottenham,0.39,0.72,Right Foot,4,64,Guglielmo Vicario,
+5/25/2025,Matchweek 38,Away,Brighton,Matt O'Riley,Tottenham,0.79,0.92,Left Foot,13,88,Guglielmo Vicario,
+5/25/2025,Matchweek 38,Away,Brighton,Diego Gómez,Tottenham,0.03,0.8,Right Foot,28,90+3,Guglielmo Vicario,Kaoru Mitoma
+8/17/2024,Matchweek 1,Away,Bournemouth,Antoine Semenyo,Nott'ham Forest,0.3,0.51,Left Foot,4,86,Matz Sels,
+8/25/2024,Matchweek 2,Home,Bournemouth,Marcus Tavernier,Newcastle Utd,0.82,0.99,Right Foot,4,37,Nick Pope,Antoine Semenyo
+8/31/2024,Matchweek 3,Away,Bournemouth,Antoine Semenyo,Everton,0.46,0.77,Right Foot,4,87,Jordan Pickford,Dango Ouattara
+8/31/2024,Matchweek 3,Away,Bournemouth,Lewis Cook,Everton,0.19,0.91,Head,6,90+2,Jordan Pickford,Luis Sinisterra
+8/31/2024,Matchweek 3,Away,Bournemouth,Luis Sinisterra,Everton,0.33,0.21,Head,5,90+6,Jordan Pickford,Justin Kluivert
+9/30/2024,Matchweek 6,Home,Bournemouth,Evanilson,Southampton,0.27,0.59,Right Foot,11,17,Aaron Ramsdale,Marcus Tavernier
+9/30/2024,Matchweek 6,Home,Bournemouth,Dango Ouattara,Southampton,0.42,0.61,Left Foot,8,32,Aaron Ramsdale,Lewis Cook
+9/30/2024,Matchweek 6,Home,Bournemouth,Antoine Semenyo,Southampton,0.06,0.21,Right Foot,17,39,Aaron Ramsdale,Lewis Cook
+10/19/2024,Matchweek 8,Home,Bournemouth,Ryan Christie,Arsenal,0.11,0.46,Left Foot,15,70,David Raya,Justin Kluivert
+10/19/2024,Matchweek 8,Home,Bournemouth,Justin Kluivert,Arsenal,0.79,0.8,Right Foot,13,79,David Raya,
+10/26/2024,Matchweek 9,Away,Bournemouth,Evanilson,Aston Villa,0.04,0.38,Head,13,90+6,Emiliano Martínez,Marcus Tavernier
+11/2/2024,Matchweek 10,Home,Bournemouth,Antoine Semenyo,Manchester City,0.32,0.56,Right Foot,7,9,Ederson,Milos Kerkez
+11/2/2024,Matchweek 10,Home,Bournemouth,Evanilson,Manchester City,0.37,0.8,Right Foot,14,64,Ederson,Milos Kerkez
+11/9/2024,Matchweek 11,Away,Bournemouth,Evanilson,Brentford,0.97,1,Right Foot,8,17,Mark Flekken,
+11/9/2024,Matchweek 11,Away,Bournemouth,Justin Kluivert,Brentford,0.13,0.59,Right Foot,9,49,Mark Flekken,Lewis Cook
+11/23/2024,Matchweek 12,Home,Bournemouth,David Brooks,Brighton,0.08,0.4,Left Foot,10,90+3,Bart Verbruggen,Enes Ünal
+11/30/2024,Matchweek 13,Away,Bournemouth,Justin Kluivert,Wolves,0.79,0.78,Right Foot,13,3,José Sá,
+11/30/2024,Matchweek 13,Away,Bournemouth,Milos Kerkez,Wolves,0.05,0.7,Left Foot,11,8,José Sá,Marcus Tavernier
+11/30/2024,Matchweek 13,Away,Bournemouth,Justin Kluivert,Wolves,0.79,0.62,Right Foot,13,18,José Sá,
+11/30/2024,Matchweek 13,Away,Bournemouth,Justin Kluivert,Wolves,0.79,0.75,Right Foot,13,74,José Sá,
+12/5/2024,Matchweek 14,Home,Bournemouth,Dean Huijsen,Tottenham,0.39,0.82,Head,3,17,Fraser Forster,Marcus Tavernier
+12/8/2024,Matchweek 15,Away,Bournemouth,Enes Ünal,Ipswich Town,0.63,0.99,Head,4,87,Arijanet Muric,Dango Ouattara
+12/8/2024,Matchweek 15,Away,Bournemouth,Dango Ouattara,Ipswich Town,0.48,0.4,Right Foot,4,90+5,Arijanet Muric,
+12/16/2024,Matchweek 16,Home,Bournemouth,Enes Ünal,West Ham,0.06,0.26,Right Foot,30,90,?ukasz Fabia?ski,
+12/22/2024,Matchweek 17,Away,Bournemouth,Dean Huijsen,Manchester Utd,0.11,0.71,Head,9,29,André Onana,Ryan Christie
+12/22/2024,Matchweek 17,Away,Bournemouth,Justin Kluivert,Manchester Utd,0.79,0.93,Right Foot,13,61,André Onana,
+12/22/2024,Matchweek 17,Away,Bournemouth,Antoine Semenyo,Manchester Utd,0.25,0.31,Left Foot,11,63,André Onana,Dango Ouattara
+12/29/2024,Matchweek 19,Away,Bournemouth,Evanilson,Fulham,0.16,0.31,Right Foot,7,51,Bernd Leno,James Hill
+12/29/2024,Matchweek 19,Away,Bournemouth,Dango Ouattara,Fulham,0.25,0.43,Right Foot,7,89,Bernd Leno,Antoine Semenyo
+1/4/2025,Matchweek 20,Home,Bournemouth,David Brooks,Everton,0.1,0.65,Left Foot,10,77,Jordan Pickford,Milos Kerkez
+1/14/2025,Matchweek 21,Away,Bournemouth,Justin Kluivert,Chelsea,0.79,0.92,Right Foot,13,50,Robert Sánchez,
+1/14/2025,Matchweek 21,Away,Bournemouth,Antoine Semenyo,Chelsea,0.03,0.15,Left Foot,14,68,Robert Sánchez,Ryan Christie
+1/18/2025,Matchweek 22,Away,Bournemouth,Justin Kluivert,Newcastle Utd,0.13,0.72,Left Foot,15,6,Martin Dúbravka,Antoine Semenyo
+1/18/2025,Matchweek 22,Away,Bournemouth,Justin Kluivert,Newcastle Utd,0.09,0.45,Right Foot,12,44,Martin Dúbravka,Dango Ouattara
+1/18/2025,Matchweek 22,Away,Bournemouth,Justin Kluivert,Newcastle Utd,0.04,0.32,Right Foot,30,90+2,Martin Dúbravka,Tyler Adams
+1/18/2025,Matchweek 22,Away,Bournemouth,Milos Kerkez,Newcastle Utd,0.05,0.28,Left Foot,14,90+6,Martin Dúbravka,Justin Kluivert
+1/25/2025,Matchweek 23,Home,Bournemouth,Justin Kluivert,Nott'ham Forest,0.08,0.16,Right Foot,28,9,Matz Sels,Tyler Adams
+1/25/2025,Matchweek 23,Home,Bournemouth,Dango Ouattara,Nott'ham Forest,0.25,0.9,Head,4,55,Matz Sels,Justin Kluivert
+1/25/2025,Matchweek 23,Home,Bournemouth,Dango Ouattara,Nott'ham Forest,0.11,0.66,Left Foot,11,61,Matz Sels,Tyler Adams
+1/25/2025,Matchweek 23,Home,Bournemouth,Dango Ouattara,Nott'ham Forest,0.5,0.41,Left Foot,9,87,Matz Sels,
+1/25/2025,Matchweek 23,Home,Bournemouth,Antoine Semenyo,Nott'ham Forest,0.05,0.75,Right Foot,13,90+1,Matz Sels,Marcus Tavernier
+2/15/2025,Matchweek 25,Away,Bournemouth,Dango Ouattara,Southampton,0.48,0.72,Head,7,14,Aaron Ramsdale,Ryan Christie
+2/15/2025,Matchweek 25,Away,Bournemouth,Ryan Christie,Southampton,0.05,0.46,Left Foot,27,16,Aaron Ramsdale,Justin Kluivert
+2/15/2025,Matchweek 25,Away,Bournemouth,Marcus Tavernier,Southampton,0.1,0.54,Left Foot,19,83,Aaron Ramsdale,Antoine Semenyo
+2/25/2025,Matchweek 27,Away,Bournemouth,Justin Kluivert,Brighton,0.03,0.28,Right Foot,26,61,Bart Verbruggen,Milos Kerkez
+3/9/2025,Matchweek 28,Away,Bournemouth,Marcus Tavernier,Tottenham,0.27,0.45,Right Foot,8,42,Guglielmo Vicario,Milos Kerkez
+3/9/2025,Matchweek 28,Away,Bournemouth,Evanilson,Tottenham,0.58,0.79,Left Foot,14,65,Guglielmo Vicario,Justin Kluivert
+3/15/2025,Matchweek 29,Home,Bournemouth,Vitaly Janelt (OG),Brentford,,,,,17,,
+4/2/2025,Matchweek 30,Home,Bournemouth,Evanilson,Ipswich Town,0.67,0.3,Left Foot,4,67,Alex Palmer,
+4/5/2025,Matchweek 31,Away,Bournemouth,Evanilson,West Ham,0.69,0.98,Right Foot,4,38,Alphonse Areola,
+4/5/2025,Matchweek 31,Away,Bournemouth,Evanilson,West Ham,0.81,0.95,Right Foot,3,79,Alphonse Areola,Dean Huijsen
+4/14/2025,Matchweek 32,Home,Bournemouth,Antoine Semenyo,Fulham,0.12,0.7,Left Foot,16,1,Bernd Leno,
+4/27/2025,Matchweek 34,Home,Bournemouth,Antoine Semenyo,Manchester Utd,0.13,0.69,Left Foot,14,23,André Onana,Evanilson
+5/3/2025,Matchweek 35,Away,Bournemouth,Dean Huijsen,Arsenal,0.15,0.81,Head,6,67,David Raya,Antoine Semenyo
+5/3/2025,Matchweek 35,Away,Bournemouth,Evanilson,Arsenal,0.16,0.72,Other,4,75,David Raya,
+5/20/2025,Matchweek 37,Away,Bournemouth,Daniel Jebbison,Manchester City,0.29,0.18,Right Foot,14,90+6,Ederson,
+5/25/2025,Matchweek 38,Home,Bournemouth,Antoine Semenyo,Leicester City,0.14,0.65,Right Foot,9,74,Jakub Stolarczyk,Illia Zabarnyi
+5/25/2025,Matchweek 38,Home,Bournemouth,Antoine Semenyo,Leicester City,0.08,0.13,Right Foot,25,88,Jakub Stolarczyk,Dean Huijsen
+8/18/2024,Matchweek 1,Home,Brentford,Bryan Mbeumo,Crystal Palace,0.09,0.35,Left Foot,12,29,Dean Henderson,Yoane Wissa
+8/18/2024,Matchweek 1,Home,Brentford,Yoane Wissa,Crystal Palace,0.94,0.97,Left Foot,3,76,Dean Henderson,
+8/31/2024,Matchweek 3,Home,Brentford,Bryan Mbeumo,Southampton,0.33,0.97,Left Foot,11,43,Aaron Ramsdale,
+8/31/2024,Matchweek 3,Home,Brentford,Bryan Mbeumo,Southampton,0.4,0.98,Left Foot,13,65,Aaron Ramsdale,Mathias Jensen
+8/31/2024,Matchweek 3,Home,Brentford,Yoane Wissa,Southampton,0.54,0.87,Right Foot,1,69,Aaron Ramsdale,
+9/14/2024,Matchweek 4,Away,Brentford,Yoane Wissa,Manchester City,0.34,0.97,Head,4,1,Ederson,
+9/21/2024,Matchweek 5,Away,Brentford,Bryan Mbeumo,Tottenham,0.1,0.54,Left Foot,12,1,Guglielmo Vicario,Keane Lewis-Potter
+9/28/2024,Matchweek 6,Home,Brentford,Bryan Mbeumo,West Ham,0.13,0.73,Left Foot,15,1,Alphonse Areola,Fabio Carvalho
+10/5/2024,Matchweek 7,Home,Brentford,Nathan Collins,Wolves,0.53,0.66,Head,5,2,Sam Johnstone,Mikkel Damsgaard
+10/5/2024,Matchweek 7,Home,Brentford,Bryan Mbeumo,Wolves,0.79,0.87,Left Foot,13,20,Sam Johnstone,
+10/5/2024,Matchweek 7,Home,Brentford,Christian Nørgaard,Wolves,0.31,0.77,Right Foot,11,28,Sam Johnstone,Vitaly Janelt
+10/5/2024,Matchweek 7,Home,Brentford,Ethan Pinnock,Wolves,0.03,0.2,Head,10,45+2,Sam Johnstone,Mikkel Damsgaard
+10/5/2024,Matchweek 7,Home,Brentford,Fabio Carvalho,Wolves,0.89,0.99,Right Foot,5,90,Sam Johnstone,
+10/19/2024,Matchweek 8,Away,Brentford,Ethan Pinnock,Manchester Utd,0.42,0.97,Head,5,45+5,André Onana,Mikkel Damsgaard
+10/26/2024,Matchweek 9,Home,Brentford,Yoane Wissa,Ipswich Town,0.22,0.27,Left Foot,14,44,Arijanet Muric,Vitaly Janelt
+10/26/2024,Matchweek 9,Home,Brentford,Yoane Wissa,Ipswich Town,0.6,0.56,Right Foot,9,45+1,Arijanet Muric,Mikkel Damsgaard
+10/26/2024,Matchweek 9,Home,Brentford,Bryan Mbeumo,Ipswich Town,0.79,0.98,Left Foot,13,51,Arijanet Muric,
+10/26/2024,Matchweek 9,Home,Brentford,Bryan Mbeumo,Ipswich Town,0.02,0.31,Left Foot,28,90+6,Arijanet Muric,Mads Roerslev
+11/4/2024,Matchweek 10,Away,Brentford,Vitaly Janelt,Fulham,0.03,0.08,Left Foot,29,24,Bernd Leno,Christian Nørgaard
+11/9/2024,Matchweek 11,Home,Brentford,Yoane Wissa,Bournemouth,0.14,0.74,Head,9,27,Kepa Arrizabalaga,
+11/9/2024,Matchweek 11,Home,Brentford,Mikkel Damsgaard,Bournemouth,0.05,0.36,Right Foot,8,50,Kepa Arrizabalaga,Bryan Mbeumo
+11/9/2024,Matchweek 11,Home,Brentford,Yoane Wissa,Bournemouth,0.46,0.48,Right Foot,17,58,Kepa Arrizabalaga,Vitaly Janelt
+11/30/2024,Matchweek 13,Home,Brentford,Yoane Wissa,Leicester City,0.72,0.99,Right Foot,8,25,Mads Hermansen,Kevin Schade
+11/30/2024,Matchweek 13,Home,Brentford,Kevin Schade,Leicester City,0.15,0.65,Right Foot,12,29,Mads Hermansen,
+11/30/2024,Matchweek 13,Home,Brentford,Kevin Schade,Leicester City,0.32,0.72,Left Foot,6,45+8,Mads Hermansen,Mikkel Damsgaard
+11/30/2024,Matchweek 13,Home,Brentford,Kevin Schade,Leicester City,0.61,0.56,Left Foot,15,59,Mads Hermansen,Nathan Collins
+12/4/2024,Matchweek 14,Away,Brentford,Mikkel Damsgaard,Aston Villa,0.27,0.58,Right Foot,9,54,Emiliano Martínez,
+12/7/2024,Matchweek 15,Home,Brentford,Bryan Mbeumo,Newcastle Utd,0.06,0.65,Left Foot,16,8,Nick Pope,Christian Nørgaard
+12/7/2024,Matchweek 15,Home,Brentford,Yoane Wissa,Newcastle Utd,0.05,0.2,Right Foot,18,28,Nick Pope,
+12/7/2024,Matchweek 15,Home,Brentford,Nathan Collins,Newcastle Utd,0.17,0.49,Left Foot,10,56,Nick Pope,Mark Flekken
+12/7/2024,Matchweek 15,Home,Brentford,Kevin Schade,Newcastle Utd,0.37,0.27,Right Foot,11,90,Nick Pope,Bryan Mbeumo
+12/15/2024,Matchweek 16,Away,Brentford,Bryan Mbeumo,Chelsea,0.23,0.34,Left Foot,22,90,Robert Sánchez,Kevin Schade
+1/1/2025,Matchweek 19,Home,Brentford,Bryan Mbeumo,Arsenal,0.06,0.47,Left Foot,16,13,David Raya,Mikkel Damsgaard
+1/4/2025,Matchweek 20,Away,Brentford,Kevin Schade,Southampton,0.44,0.7,Right Foot,10,6,Aaron Ramsdale,Mikkel Damsgaard
+1/4/2025,Matchweek 20,Away,Brentford,Bryan Mbeumo,Southampton,0.22,0.52,Left Foot,9,62,Aaron Ramsdale,Yoane Wissa
+1/4/2025,Matchweek 20,Away,Brentford,Bryan Mbeumo,Southampton,0.79,0.88,Left Foot,13,69,Aaron Ramsdale,
+1/4/2025,Matchweek 20,Away,Brentford,Keane Lewis-Potter,Southampton,0.37,0.86,Left Foot,7,90+2,Aaron Ramsdale,Bryan Mbeumo
+1/4/2025,Matchweek 20,Away,Brentford,Yoane Wissa,Southampton,0.33,0.86,Right Foot,12,90+4,Aaron Ramsdale,
+1/14/2025,Matchweek 21,Home,Brentford,Yoane Wissa,Manchester City,0.79,0.57,Left Foot,5,82,Stefan Ortega,Mads Roerslev
+1/14/2025,Matchweek 21,Home,Brentford,Christian Nørgaard,Manchester City,0.09,0.3,Head,9,90+2,Stefan Ortega,Keane Lewis-Potter
+1/26/2025,Matchweek 23,Away,Brentford,Bryan Mbeumo,Crystal Palace,0.79,0.65,Left Foot,13,66,Dean Henderson,
+1/26/2025,Matchweek 23,Away,Brentford,Kevin Schade,Crystal Palace,0.06,0.29,Head,11,80,Dean Henderson,Mikkel Damsgaard
+2/15/2025,Matchweek 25,Away,Brentford,Kevin Schade,West Ham,0.19,0.71,Left Foot,3,4,Alphonse Areola,
+2/21/2025,Matchweek 26,Away,Brentford,Yoane Wissa,Leicester City,0.36,0.88,Left Foot,11,17,Mads Hermansen,Mikkel Damsgaard
+2/21/2025,Matchweek 26,Away,Brentford,Bryan Mbeumo,Leicester City,0.06,0.55,Left Foot,16,27,Mads Hermansen,Mikkel Damsgaard
+2/21/2025,Matchweek 26,Away,Brentford,Christian Nørgaard,Leicester City,0.24,0.15,Head,5,32,Mads Hermansen,Bryan Mbeumo
+2/21/2025,Matchweek 26,Away,Brentford,Fabio Carvalho,Leicester City,0.09,0.4,Right Foot,11,89,Mads Hermansen,
+2/26/2025,Matchweek 27,Home,Brentford,Yoane Wissa,Everton,0.85,0.62,Head,3,45+4,Jordan Pickford,
+3/15/2025,Matchweek 29,Away,Brentford,Yoane Wissa,Bournemouth,0.17,0.86,Head,6,30,Kepa Arrizabalaga,Bryan Mbeumo
+3/15/2025,Matchweek 29,Away,Brentford,Christian Nørgaard,Bournemouth,0.16,0.75,Right Foot,8,71,Kepa Arrizabalaga,
+4/2/2025,Matchweek 30,Away,Brentford,Bryan Mbeumo,Newcastle Utd,0.79,0.86,Left Foot,13,66,Nick Pope,
+4/12/2025,Matchweek 32,Away,Brentford,Yoane Wissa,Arsenal,0.12,0.15,Right Foot,8,74,David Raya,Nathan Collins
+4/19/2025,Matchweek 33,Home,Brentford,Bryan Mbeumo,Brighton,0.49,0.82,Right Foot,17,9,Bart Verbruggen,Keane Lewis-Potter
+4/19/2025,Matchweek 33,Home,Brentford,Bryan Mbeumo,Brighton,0.05,0.54,Left Foot,16,48,Bart Verbruggen,Yoane Wissa
+4/19/2025,Matchweek 33,Home,Brentford,Yoane Wissa,Brighton,0.1,0.33,Right Foot,16,58,Bart Verbruggen,Bryan Mbeumo
+4/19/2025,Matchweek 33,Home,Brentford,Christian Nørgaard,Brighton,0.14,0.88,Head,9,90+5,Bart Verbruggen,Mathias Jensen
+5/1/2025,Matchweek 34,Away,Brentford,Kevin Schade,Nott'ham Forest,0.25,0.85,Right Foot,11,44,Matz Sels,Nathan Collins
+5/1/2025,Matchweek 34,Away,Brentford,Yoane Wissa,Nott'ham Forest,0.35,0.8,Right Foot,11,70,Matz Sels,Mark Flekken
+5/4/2025,Matchweek 35,Home,Brentford,Luke Shaw (OG),Manchester Utd,,,,,27,,
+5/4/2025,Matchweek 35,Home,Brentford,Kevin Schade,Manchester Utd,0.22,0.4,Head,6,33,Altay Bay?nd?r,Christian Nørgaard
+5/4/2025,Matchweek 35,Home,Brentford,Kevin Schade,Manchester Utd,0.45,0.97,Head,5,70,Altay Bay?nd?r,
+5/4/2025,Matchweek 35,Home,Brentford,Yoane Wissa,Manchester Utd,0.74,0.99,Right Foot,7,74,Altay Bay?nd?r,Michael Kayode
+5/10/2025,Matchweek 36,Away,Brentford,Kevin Schade,Ipswich Town,0.12,0.77,Head,4,18,Alex Palmer,Bryan Mbeumo
+5/18/2025,Matchweek 37,Home,Brentford,Bryan Mbeumo,Fulham,0.14,0.53,Right Foot,12,22,Bernd Leno,Yoane Wissa
+5/18/2025,Matchweek 37,Home,Brentford,Yoane Wissa,Fulham,0.98,0.99,Left Foot,1,43,Bernd Leno,
+5/25/2025,Matchweek 38,Away,Brentford,Bryan Mbeumo,Wolves,0.26,0.82,Right Foot,11,20,José Sá,Christian Nørgaard
+8/24/2024,Matchweek 2,Home,Fulham,Emile Smith Rowe,Leicester City,0.48,0.35,Left Foot,11,18,Mads Hermansen,Adama Traoré
+8/24/2024,Matchweek 2,Home,Fulham,Alex Iwobi,Leicester City,0.16,0.24,Left Foot,9,70,Mads Hermansen,Antonee Robinson
+8/31/2024,Matchweek 3,Away,Fulham,Adama Traoré,Ipswich Town,0.15,0.49,Right Foot,10,32,Arijanet Muric,Antonee Robinson
+9/14/2024,Matchweek 4,Home,Fulham,Raúl Jiménez,West Ham,0.21,0.29,Left Foot,5,24,Alphonse Areola,Emile Smith Rowe
+9/21/2024,Matchweek 5,Home,Fulham,Raúl Jiménez,Newcastle Utd,0.07,0.59,Right Foot,14,5,Nick Pope,Adama Traoré
+9/21/2024,Matchweek 5,Home,Fulham,Emile Smith Rowe,Newcastle Utd,0.27,0.39,Right Foot,10,22,Nick Pope,Alex Iwobi
+9/21/2024,Matchweek 5,Home,Fulham,Reiss Nelson,Newcastle Utd,0.31,0.18,Right Foot,14,90+2,Nick Pope,Rodrigo Muniz
+9/28/2024,Matchweek 6,Away,Fulham,Raúl Jiménez,Nott'ham Forest,0.79,0.67,Right Foot,13,51,Matz Sels,
+10/5/2024,Matchweek 7,Away,Fulham,Andreas Pereira,Manchester City,0.59,0.98,Right Foot,5,26,Ederson,Raúl Jiménez
+10/5/2024,Matchweek 7,Away,Fulham,Rodrigo Muniz,Manchester City,0.22,0.83,Right Foot,12,88,Ederson,Reiss Nelson
+10/19/2024,Matchweek 8,Home,Fulham,Raúl Jiménez,Aston Villa,0.06,0.38,Left Foot,18,5,Emiliano Martínez,Bernd Leno
+10/26/2024,Matchweek 9,Away,Fulham,Alex Iwobi,Everton,0.07,0.57,Right Foot,18,61,Jordan Pickford,Emile Smith Rowe
+11/4/2024,Matchweek 10,Home,Fulham,Harry Wilson,Brentford,0.06,0.89,Left Foot,10,90+2,Mark Flekken,Adama Traoré
+11/4/2024,Matchweek 10,Home,Fulham,Harry Wilson,Brentford,0.1,0.38,Head,12,90+7,Mark Flekken,Antonee Robinson
+11/9/2024,Matchweek 11,Away,Fulham,Emile Smith Rowe,Crystal Palace,0.15,0.26,Left Foot,13,45+2,Dean Henderson,Raúl Jiménez
+11/9/2024,Matchweek 11,Away,Fulham,Harry Wilson,Crystal Palace,0.45,0.27,Left Foot,10,83,Dean Henderson,Alex Iwobi
+11/23/2024,Matchweek 12,Home,Fulham,Alex Iwobi,Wolves,0.07,0.69,Left Foot,22,20,José Sá,Kenny Tete
+12/1/2024,Matchweek 13,Away,Fulham,Tom Cairney,Tottenham,0.03,0.34,Left Foot,18,67,Fraser Forster,Alex Iwobi
+12/5/2024,Matchweek 14,Home,Fulham,Alex Iwobi,Brighton,0.61,0.96,Right Foot,15,4,Bart Verbruggen,
+12/5/2024,Matchweek 14,Home,Fulham,Matt O'Riley (OG),Brighton,,,,,79,,
+12/5/2024,Matchweek 14,Home,Fulham,Alex Iwobi,Brighton,0.03,0.42,Right Foot,17,87,Bart Verbruggen,Antonee Robinson
+12/8/2024,Matchweek 15,Home,Fulham,Raúl Jiménez,Arsenal,0.04,0.18,Right Foot,17,11,David Raya,Kenny Tete
+12/14/2024,Matchweek 16,Away,Fulham,Andreas Pereira,Liverpool,0.11,0.76,Right Foot,5,11,Alisson,Antonee Robinson
+12/14/2024,Matchweek 16,Away,Fulham,Rodrigo Muniz,Liverpool,0.28,0.97,Right Foot,5,76,Alisson,Antonee Robinson
+12/26/2024,Matchweek 18,Away,Fulham,Harry Wilson,Chelsea,0.63,0.98,Head,3,82,Robert Sánchez,Timothy Castagne
+12/26/2024,Matchweek 18,Away,Fulham,Rodrigo Muniz,Chelsea,0.41,0.89,Left Foot,13,90+5,Robert Sánchez,Saša Luki?
+12/29/2024,Matchweek 19,Home,Fulham,Raúl Jiménez,Bournemouth,0.04,0.7,Head,11,40,Kepa Arrizabalaga,Andreas Pereira
+12/29/2024,Matchweek 19,Home,Fulham,Harry Wilson,Bournemouth,0.06,0.79,Head,11,72,Kepa Arrizabalaga,Antonee Robinson
+1/5/2025,Matchweek 20,Home,Fulham,Raúl Jiménez,Ipswich Town,0.79,0.79,Right Foot,13,69,Christian Walton,
+1/5/2025,Matchweek 20,Home,Fulham,Raúl Jiménez,Ipswich Town,0.79,0.99,Right Foot,13,90+1,Christian Walton,
+1/14/2025,Matchweek 21,Away,Fulham,Alex Iwobi,West Ham,0.02,0.01,Right Foot,33,51,?ukasz Fabia?ski,Antonee Robinson
+1/14/2025,Matchweek 21,Away,Fulham,Alex Iwobi,West Ham,0.02,0.04,Right Foot,27,78,?ukasz Fabia?ski,Antonee Robinson
+1/18/2025,Matchweek 22,Away,Fulham,Emile Smith Rowe,Leicester City,0.81,0.99,Head,3,48,Jakub Stolarczyk,Saša Luki?
+1/18/2025,Matchweek 22,Away,Fulham,Adama Traoré,Leicester City,0.13,0.47,Right Foot,13,68,Jakub Stolarczyk,Harry Wilson
+2/1/2025,Matchweek 24,Away,Fulham,Raúl Jiménez,Newcastle Utd,0.23,0.55,Right Foot,13,61,Martin Dúbravka,Antonee Robinson
+2/1/2025,Matchweek 24,Away,Fulham,Rodrigo Muniz,Newcastle Utd,0.68,0.92,Right Foot,3,82,Martin Dúbravka,Andreas Pereira
+2/15/2025,Matchweek 25,Home,Fulham,Emile Smith Rowe,Nott'ham Forest,0.36,0.78,Head,4,15,Matz Sels,Adama Traoré
+2/15/2025,Matchweek 25,Home,Fulham,Calvin Bassey,Nott'ham Forest,0.11,0.57,Head,5,62,Matz Sels,Raúl Jiménez
+2/25/2025,Matchweek 27,Away,Fulham,Ryan Sessegnon,Wolves,0.37,0.82,Left Foot,13,1,José Sá,Andreas Pereira
+2/25/2025,Matchweek 27,Away,Fulham,Rodrigo Muniz,Wolves,0.31,0.19,Right Foot,23,47,José Sá,Adama Traoré
+3/8/2025,Matchweek 28,Away,Fulham,Raúl Jiménez,Brighton,0.54,0.75,Left Foot,6,35,Bart Verbruggen,Alex Iwobi
+3/16/2025,Matchweek 29,Home,Fulham,Rodrigo Muniz,Tottenham,0.12,0.76,Right Foot,16,78,Guglielmo Vicario,Andreas Pereira
+3/16/2025,Matchweek 29,Home,Fulham,Ryan Sessegnon,Tottenham,0.13,0.8,Right Foot,15,88,Guglielmo Vicario,
+4/1/2025,Matchweek 30,Away,Fulham,Rodrigo Muniz,Arsenal,0.12,0.8,Right Foot,14,90+4,David Raya,Ryan Sessegnon
+4/6/2025,Matchweek 31,Home,Fulham,Ryan Sessegnon,Liverpool,0.05,0.49,Left Foot,11,23,Caoimhín Kelleher,
+4/6/2025,Matchweek 31,Home,Fulham,Alex Iwobi,Liverpool,0.07,0.14,Left Foot,14,32,Caoimhín Kelleher,
+4/6/2025,Matchweek 31,Home,Fulham,Rodrigo Muniz,Liverpool,0.12,0.21,Right Foot,9,37,Caoimhín Kelleher,Alex Iwobi
+4/20/2025,Matchweek 33,Home,Fulham,Alex Iwobi,Chelsea,0.04,0.36,Left Foot,17,20,Robert Sánchez,Ryan Sessegnon
+4/26/2025,Matchweek 34,Away,Fulham,Emile Smith Rowe,Southampton,0.18,0.76,Right Foot,13,72,Aaron Ramsdale,Alex Iwobi
+4/26/2025,Matchweek 34,Away,Fulham,Ryan Sessegnon,Southampton,0.15,0.73,Head,9,90+2,Aaron Ramsdale,Adama Traoré
+5/10/2025,Matchweek 36,Home,Fulham,Raúl Jiménez,Everton,0.18,0.42,Head,7,17,Jordan Pickford,Emile Smith Rowe
+5/18/2025,Matchweek 37,Away,Fulham,Raúl Jiménez,Brentford,0.06,0.08,Head,11,16,Mark Flekken,
+5/18/2025,Matchweek 37,Away,Fulham,Tom Cairney,Brentford,0.14,0.78,Head,9,68,Mark Flekken,
+5/18/2025,Matchweek 37,Away,Fulham,Harry Wilson,Brentford,0.01,0.23,Left Foot,33,70,Mark Flekken,Adama Traoré
+8/18/2024,Matchweek 1,Away,Crystal Palace,Ethan Pinnock (OG),Brentford,,,,,56,,
+9/1/2024,Matchweek 3,Away,Crystal Palace,Eberechi Eze,Chelsea,0.06,0.78,Right Foot,22,53,Robert Sánchez,
+9/14/2024,Matchweek 4,Home,Crystal Palace,Jean-Philippe Mateta,Leicester City,0.5,0.97,Right Foot,5,47,Mads Hermansen,Tyrick Mitchell
+9/14/2024,Matchweek 4,Home,Crystal Palace,Jean-Philippe Mateta,Leicester City,0.79,0.82,Right Foot,13,90+2,Mads Hermansen,
+9/28/2024,Matchweek 6,Away,Crystal Palace,Marc Guéhi,Everton,0.18,0.67,Right Foot,4,10,Jordan Pickford,Maxence Lacroix
+10/27/2024,Matchweek 9,Home,Crystal Palace,Jean-Philippe Mateta,Tottenham,0.12,0.33,Left Foot,8,31,Guglielmo Vicario,Eberechi Eze
+11/2/2024,Matchweek 10,Away,Crystal Palace,Trevoh Chalobah,Wolves,0.06,0.83,Right Foot,13,60,José Sá,
+11/2/2024,Matchweek 10,Away,Crystal Palace,Marc Guéhi,Wolves,0.71,0.99,Left Foot,2,77,José Sá,Daniel Muñoz
+11/23/2024,Matchweek 12,Away,Crystal Palace,Ismaila Sarr,Aston Villa,0.5,0.8,Right Foot,15,4,Emiliano Martínez,Jean-Philippe Mateta
+11/23/2024,Matchweek 12,Away,Crystal Palace,Justin Devenny,Aston Villa,0.23,0.48,Right Foot,14,45+1,Emiliano Martínez,Ismaila Sarr
+11/30/2024,Matchweek 13,Home,Crystal Palace,Daniel Muñoz,Newcastle Utd,0.15,0.23,Head,7,90+4,Nick Pope,Marc Guéhi
+12/3/2024,Matchweek 14,Away,Crystal Palace,Jean-Philippe Mateta,Ipswich Town,0.29,0.44,Left Foot,11,59,Arijanet Muric,Eberechi Eze
+12/7/2024,Matchweek 15,Home,Crystal Palace,Daniel Muñoz,Manchester City,0.14,0.16,Right Foot,16,4,Stefan Ortega,Will Hughes
+12/7/2024,Matchweek 15,Home,Crystal Palace,Maxence Lacroix,Manchester City,0.52,0.95,Head,4,56,Stefan Ortega,Will Hughes
+12/15/2024,Matchweek 16,Away,Crystal Palace,Trevoh Chalobah,Brighton,0.41,0.69,Right Foot,3,27,Bart Verbruggen,Ismaila Sarr
+12/15/2024,Matchweek 16,Away,Crystal Palace,Ismaila Sarr,Brighton,0.43,0.46,Head,3,33,Bart Verbruggen,Tyrick Mitchell
+12/15/2024,Matchweek 16,Away,Crystal Palace,Ismaila Sarr,Brighton,0.36,0.7,Right Foot,17,82,Bart Verbruggen,Eddie Nketiah
+12/21/2024,Matchweek 17,Home,Crystal Palace,Ismaila Sarr,Arsenal,0.04,0.32,Right Foot,17,11,David Raya,Tyrick Mitchell
+12/29/2024,Matchweek 19,Home,Crystal Palace,Trevoh Chalobah,Southampton,0.24,0.83,Head,3,31,Aaron Ramsdale,Will Hughes
+12/29/2024,Matchweek 19,Home,Crystal Palace,Eberechi Eze,Southampton,0.04,0.33,Right Foot,22,52,Aaron Ramsdale,
+1/4/2025,Matchweek 20,Home,Crystal Palace,Jean-Philippe Mateta,Chelsea,0.38,0.66,Right Foot,7,82,Robert Sánchez,Eberechi Eze
+1/15/2025,Matchweek 21,Away,Crystal Palace,Jean-Philippe Mateta,Leicester City,0.87,0.99,Left Foot,4,52,Jakub Stolarczyk,Ismaila Sarr
+1/15/2025,Matchweek 21,Away,Crystal Palace,Marc Guéhi,Leicester City,0.18,0.77,Left Foot,7,78,Jakub Stolarczyk,Eberechi Eze
+1/18/2025,Matchweek 22,Away,Crystal Palace,Jean-Philippe Mateta,West Ham,0.12,0.25,Right Foot,21,48,?ukasz Fabia?ski,Eberechi Eze
+1/18/2025,Matchweek 22,Away,Crystal Palace,Jean-Philippe Mateta,West Ham,0.79,0.81,Right Foot,13,89,?ukasz Fabia?ski,
+1/26/2025,Matchweek 23,Home,Crystal Palace,Romain Esse,Brentford,0.32,0.97,Right Foot,3,85,Mark Flekken,Daniel Muñoz
+2/2/2025,Matchweek 24,Away,Crystal Palace,Jean-Philippe Mateta,Manchester Utd,0.88,0.4,Right Foot,3,64,André Onana,
+2/2/2025,Matchweek 24,Away,Crystal Palace,Jean-Philippe Mateta,Manchester Utd,0.56,0.36,Right Foot,10,89,André Onana,Daniel Muñoz
+2/15/2025,Matchweek 25,Home,Crystal Palace,Jean-Philippe Mateta,Everton,0.53,0.89,Left Foot,10,47,Jordan Pickford,Marc Guéhi
+2/22/2025,Matchweek 26,Away,Crystal Palace,Joachim Andersen (OG),Fulham,,,,,37,,
+2/22/2025,Matchweek 26,Away,Crystal Palace,Daniel Muñoz,Fulham,0.11,0.36,Right Foot,9,66,Bernd Leno,Jean-Philippe Mateta
+2/25/2025,Matchweek 27,Home,Crystal Palace,Ismaila Sarr,Aston Villa,0.83,0.88,Right Foot,3,29,Emiliano Martínez,
+2/25/2025,Matchweek 27,Home,Crystal Palace,Jean-Philippe Mateta,Aston Villa,0.13,0.57,Left Foot,17,59,Robin Olsen,Eberechi Eze
+2/25/2025,Matchweek 27,Home,Crystal Palace,Ismaila Sarr,Aston Villa,0.17,0.88,Right Foot,11,71,Robin Olsen,Daniel Muñoz
+2/25/2025,Matchweek 27,Home,Crystal Palace,Eddie Nketiah,Aston Villa,0.97,0.99,Right Foot,1,90+1,Robin Olsen,Tyrick Mitchell
+3/8/2025,Matchweek 28,Home,Crystal Palace,Ismaila Sarr,Ipswich Town,0.42,0.59,Right Foot,7,82,Alex Palmer,
+4/2/2025,Matchweek 30,Away,Crystal Palace,Matheus França,Southampton,0.04,0.48,Head,11,90+2,Aaron Ramsdale,Jefferson Lerma
+4/5/2025,Matchweek 31,Home,Crystal Palace,Jean-Philippe Mateta,Brighton,0.08,0.43,Left Foot,18,3,Bart Verbruggen,Eberechi Eze
+4/5/2025,Matchweek 31,Home,Crystal Palace,Daniel Muñoz,Brighton,0.05,0.33,Right Foot,18,55,Bart Verbruggen,Eberechi Eze
+4/12/2025,Matchweek 32,Away,Crystal Palace,Eberechi Eze,Manchester City,0.65,0.99,Right Foot,7,8,Ederson,Ismaila Sarr
+4/12/2025,Matchweek 32,Away,Crystal Palace,Chris Richards,Manchester City,0.53,0.98,Head,3,21,Ederson,Adam Wharton
+4/23/2025,Matchweek 34,Away,Crystal Palace,Eberechi Eze,Arsenal,0.06,0.26,Right Foot,18,27,David Raya,Adam Wharton
+4/23/2025,Matchweek 34,Away,Crystal Palace,Jean-Philippe Mateta,Arsenal,0.07,0.41,Right Foot,31,83,David Raya,
+5/5/2025,Matchweek 35,Home,Crystal Palace,Eberechi Eze,Nott'ham Forest,0.79,0.68,Right Foot,13,60,Matz Sels,
+5/11/2025,Matchweek 36,Away,Crystal Palace,Eberechi Eze,Tottenham,0.86,1,Right Foot,10,45,Antonín Kinský,Daniel Muñoz
+5/11/2025,Matchweek 36,Away,Crystal Palace,Eberechi Eze,Tottenham,0.3,0.72,Right Foot,14,48,Antonín Kinský,Ismaila Sarr
+5/20/2025,Matchweek 37,Home,Crystal Palace,Eddie Nketiah,Wolves,0.14,0.46,Right Foot,12,27,Daniel Bentley,Romain Esse
+5/20/2025,Matchweek 37,Home,Crystal Palace,Eddie Nketiah,Wolves,0.53,0.87,Right Foot,9,32,Daniel Bentley,Ismaila Sarr
+5/20/2025,Matchweek 37,Home,Crystal Palace,Ben Chilwell,Wolves,0.03,0.28,Left Foot,30,50,Daniel Bentley,
+5/20/2025,Matchweek 37,Home,Crystal Palace,Eberechi Eze,Wolves,0.22,0.83,Right Foot,17,86,Daniel Bentley,Justin Devenny
+5/25/2025,Matchweek 38,Away,Crystal Palace,Ismaila Sarr,Liverpool,0.53,0.61,Right Foot,14,9,Alisson,Tyrick Mitchell
+8/31/2024,Matchweek 3,Home,Everton,Michael Keane,Bournemouth,0.21,0.55,Right Foot,12,50,Kepa Arrizabalaga,Dominic Calvert-Lewin
+8/31/2024,Matchweek 3,Home,Everton,Dominic Calvert-Lewin,Bournemouth,0.33,0.31,Right Foot,11,57,Kepa Arrizabalaga,Dwight McNeil
+9/14/2024,Matchweek 4,Away,Everton,Dwight McNeil,Aston Villa,0.02,0.29,Left Foot,21,16,Emiliano Martínez,
+9/14/2024,Matchweek 4,Away,Everton,Dominic Calvert-Lewin,Aston Villa,0.41,0.85,Head,6,27,Emiliano Martínez,Dwight McNeil
+9/21/2024,Matchweek 5,Away,Everton,Iliman Ndiaye,Leicester City,0.09,0.8,Right Foot,17,12,Mads Hermansen,Ashley Young
+9/28/2024,Matchweek 6,Home,Everton,Dwight McNeil,Crystal Palace,0.02,0.43,Left Foot,27,47,Dean Henderson,Ashley Young
+9/28/2024,Matchweek 6,Home,Everton,Dwight McNeil,Crystal Palace,0.1,0.16,Left Foot,6,54,Dean Henderson,
+10/19/2024,Matchweek 8,Away,Everton,Iliman Ndiaye,Ipswich Town,0.23,0.63,Right Foot,11,17,Arijanet Muric,
+10/19/2024,Matchweek 8,Away,Everton,Michael Keane,Ipswich Town,0.03,0.31,Left Foot,11,40,Arijanet Muric,Dwight McNeil
+10/26/2024,Matchweek 9,Home,Everton,Beto,Fulham,0.34,0.61,Head,6,90+4,Bernd Leno,Ashley Young
+12/4/2024,Matchweek 14,Home,Everton,Ashley Young,Wolves,0.05,0.28,Right Foot,26,10,José Sá,
+12/4/2024,Matchweek 14,Home,Everton,Orel Mangala,Wolves,0.08,0.29,Right Foot,19,33,José Sá,
+12/4/2024,Matchweek 14,Home,Everton,Craig Dawson (OG),Wolves,,,,,49,,
+12/4/2024,Matchweek 14,Home,Everton,Craig Dawson (OG),Wolves,,,,,72,,
+12/26/2024,Matchweek 18,Away,Everton,Iliman Ndiaye,Manchester City,0.24,0.82,Right Foot,12,36,Stefan Ortega,
+1/19/2025,Matchweek 22,Home,Everton,Dominic Calvert-Lewin,Tottenham,0.09,0.49,Right Foot,13,13,Antonín Kinský,Idrissa Gana Gueye
+1/19/2025,Matchweek 22,Home,Everton,Iliman Ndiaye,Tottenham,0.36,0.75,Left Foot,11,30,Antonín Kinský,Idrissa Gana Gueye
+1/19/2025,Matchweek 22,Home,Everton,Archie Gray (OG),Tottenham,,,,,45+7,,
+1/25/2025,Matchweek 23,Away,Everton,Iliman Ndiaye,Brighton,0.79,0.9,Right Foot,13,42,Bart Verbruggen,
+2/1/2025,Matchweek 24,Home,Everton,Abdoulaye Doucouré,Leicester City,0.33,0.78,Right Foot,8,1,Mads Hermansen,Jordan Pickford
+2/1/2025,Matchweek 24,Home,Everton,Beto,Leicester City,0.24,0.69,Right Foot,11,6,Mads Hermansen,James Tarkowski
+2/1/2025,Matchweek 24,Home,Everton,Beto,Leicester City,0.4,0.26,Right Foot,18,45+2,Mads Hermansen,James Garner
+2/1/2025,Matchweek 24,Home,Everton,Iliman Ndiaye,Leicester City,0.42,0.37,Right Foot,13,90,Mads Hermansen,
+2/12/2025,Matchweek 15,Home,Everton,Beto,Liverpool,0.52,0.36,Right Foot,17,11,Alisson,Jarrad Branthwaite
+2/12/2025,Matchweek 15,Home,Everton,James Tarkowski,Liverpool,0.09,0.62,Right Foot,11,90+8,Alisson,Tim Iroegbunam
+2/15/2025,Matchweek 25,Away,Everton,Beto,Crystal Palace,0.19,0.49,Right Foot,14,42,Dean Henderson,Carlos Alcaraz
+2/15/2025,Matchweek 25,Away,Everton,Carlos Alcaraz,Crystal Palace,0.13,0.2,Right Foot,9,80,Dean Henderson,
+2/22/2025,Matchweek 26,Home,Everton,Beto,Manchester Utd,0.25,0.23,Left Foot,10,19,André Onana,Abdoulaye Doucouré
+2/22/2025,Matchweek 26,Home,Everton,Abdoulaye Doucouré,Manchester Utd,0.75,0.79,Head,4,33,André Onana,
+2/26/2025,Matchweek 27,Away,Everton,Jake O'Brien,Brentford,0.24,0.75,Head,8,77,Mark Flekken,Vitaliy Mykolenko
+3/8/2025,Matchweek 28,Away,Everton,Jack Harrison,Wolves,0.03,0.48,Left Foot,16,33,José Sá,Jesper Lindstrøm
+3/15/2025,Matchweek 29,Home,Everton,Jake O'Brien,West Ham,0.29,0.93,Head,4,90+1,Alphonse Areola,Idrissa Gana Gueye
+4/5/2025,Matchweek 31,Home,Everton,Iliman Ndiaye,Arsenal,0.79,0.76,Right Foot,13,49,David Raya,
+4/12/2025,Matchweek 32,Away,Everton,Abdoulaye Doucouré,Nott'ham Forest,0.3,0.71,Right Foot,14,90+4,Matz Sels,Dwight McNeil
+5/3/2025,Matchweek 35,Home,Everton,Beto,Ipswich Town,0.19,0.72,Head,10,26,Alex Palmer,Carlos Alcaraz
+5/3/2025,Matchweek 35,Home,Everton,Dwight McNeil,Ipswich Town,0.03,0.11,Left Foot,28,35,Alex Palmer,Nathan Patterson
+5/10/2025,Matchweek 36,Away,Everton,Vitaliy Mykolenko,Fulham,0.03,0.24,Left Foot,23,45+3,Bernd Leno,Abdoulaye Doucouré
+5/10/2025,Matchweek 36,Away,Everton,Michael Keane,Fulham,0.17,0.26,Head,4,70,Bernd Leno,Dwight McNeil
+5/10/2025,Matchweek 36,Away,Everton,Beto,Fulham,0.03,0.07,Right Foot,21,73,Bernd Leno,Carlos Alcaraz
+5/18/2025,Matchweek 37,Home,Everton,Iliman Ndiaye,Southampton,0.1,0.65,Left Foot,19,6,Aaron Ramsdale,
+5/18/2025,Matchweek 37,Home,Everton,Iliman Ndiaye,Southampton,0.89,1,Left Foot,3,45+2,Aaron Ramsdale,Dwight McNeil
+5/25/2025,Matchweek 38,Away,Everton,Carlos Alcaraz,Newcastle Utd,0.08,0.52,Head,11,65,Nick Pope,Vitaliy Mykolenko
+8/17/2024,Matchweek 1,Home,West Ham,Lucas Paquetá,Aston Villa,0.79,0.63,Left Foot,13,37,Emiliano Martínez,
+8/24/2024,Matchweek 2,Away,West Ham,Tomáš Sou?ek,Crystal Palace,0.11,0.28,Left Foot,17,67,Dean Henderson,
+8/24/2024,Matchweek 2,Away,West Ham,Jarrod Bowen,Crystal Palace,0.1,0.58,Left Foot,17,72,Dean Henderson,Max Kilman
+8/31/2024,Matchweek 3,Home,West Ham,Rúben Dias (OG),Manchester City,,,,,19,,
+9/14/2024,Matchweek 4,Away,West Ham,Danny Ings,Fulham,0.25,0.53,Right Foot,12,90+5,Bernd Leno,Jarrod Bowen
+9/28/2024,Matchweek 6,Away,West Ham,Tomáš Sou?ek,Brentford,0.22,0.48,Left Foot,8,54,Mark Flekken,Michail Antonio
+10/5/2024,Matchweek 7,Home,West Ham,Michail Antonio,Ipswich Town,0.1,0.24,Right Foot,11,1,Arijanet Muric,Jarrod Bowen
+10/5/2024,Matchweek 7,Home,West Ham,Mohammed Kudus,Ipswich Town,0.51,0.81,Head,2,43,Arijanet Muric,
+10/5/2024,Matchweek 7,Home,West Ham,Jarrod Bowen,Ipswich Town,0.04,0.35,Left Foot,15,49,Arijanet Muric,
+10/5/2024,Matchweek 7,Home,West Ham,Lucas Paquetá,Ipswich Town,0.9,0.99,Right Foot,4,69,Arijanet Muric,
+10/19/2024,Matchweek 8,Away,West Ham,Mohammed Kudus,Tottenham,0.07,0.76,Right Foot,10,18,Guglielmo Vicario,
+10/27/2024,Matchweek 9,Home,West Ham,Crysencio Summerville,Manchester Utd,0.53,0.91,Right Foot,3,74,André Onana,Danny Ings
+10/27/2024,Matchweek 9,Home,West Ham,Jarrod Bowen,Manchester Utd,0.79,0.92,Left Foot,13,90+2,André Onana,
+11/25/2024,Matchweek 12,Away,West Ham,Tomáš Sou?ek,Newcastle Utd,0.12,0.78,Head,10,10,Nick Pope,Emerson Palmieri
+11/25/2024,Matchweek 12,Away,West Ham,Aaron Wan-Bissaka,Newcastle Utd,0.07,0.21,Right Foot,13,53,Nick Pope,Jarrod Bowen
+11/30/2024,Matchweek 13,Home,West Ham,Aaron Wan-Bissaka,Arsenal,0.41,0.54,Right Foot,10,38,David Raya,Carlos Soler
+11/30/2024,Matchweek 13,Home,West Ham,Emerson Palmieri,Arsenal,0.09,0.44,Left Foot,25,40,David Raya,
+12/3/2024,Matchweek 14,Away,West Ham,Niclas Füllkrug,Leicester City,0.42,0.95,Head,3,90+3,Mads Hermansen,Crysencio Summerville
+12/9/2024,Matchweek 15,Home,West Ham,Tomáš Sou?ek,Wolves,0.01,0.09,Head,9,54,Sam Johnstone,Jarrod Bowen
+12/9/2024,Matchweek 15,Home,West Ham,Jarrod Bowen,Wolves,0.03,0.17,Left Foot,19,72,Sam Johnstone,Mohammed Kudus
+12/16/2024,Matchweek 16,Away,West Ham,Lucas Paquetá,Bournemouth,0.79,0.71,Left Foot,13,87,Kepa Arrizabalaga,
+12/21/2024,Matchweek 17,Home,West Ham,Mohammed Kudus,Brighton,0.19,0.8,Head,8,58,Bart Verbruggen,
+12/26/2024,Matchweek 18,Away,West Ham,Jarrod Bowen,Southampton,0.65,0.32,Left Foot,4,59,Aaron Ramsdale,Niclas Füllkrug
+1/4/2025,Matchweek 20,Away,West Ham,Niclas Füllkrug,Manchester City,0.37,0.7,Left Foot,13,71,Stefan Ortega,Tomáš Sou?ek
+1/14/2025,Matchweek 21,Home,West Ham,Carlos Soler,Fulham,0.07,0.72,Right Foot,19,31,Bernd Leno,
+1/14/2025,Matchweek 21,Home,West Ham,Tomáš Sou?ek,Fulham,0.31,0.43,Right Foot,10,33,Bernd Leno,Aaron Wan-Bissaka
+1/14/2025,Matchweek 21,Home,West Ham,Lucas Paquetá,Fulham,0.5,0.98,Left Foot,22,67,Bernd Leno,Danny Ings
+1/26/2025,Matchweek 23,Away,West Ham,Emerson Palmieri,Aston Villa,0.19,0.82,Head,4,70,Emiliano Martínez,Edson Álvarez
+2/3/2025,Matchweek 24,Away,West Ham,Jarrod Bowen,Chelsea,0.08,0.16,Left Foot,17,42,Filip Jørgensen,
+2/22/2025,Matchweek 26,Away,West Ham,Jarrod Bowen,Arsenal,0.76,0.97,Head,5,44,David Raya,Aaron Wan-Bissaka
+2/27/2025,Matchweek 27,Home,West Ham,Tomáš Sou?ek,Leicester City,0.55,0.46,Left Foot,5,21,Mads Hermansen,
+2/27/2025,Matchweek 27,Home,West Ham,Jannik Vestergaard (OG),Leicester City,,,,,43,,
+3/15/2025,Matchweek 29,Away,West Ham,Tomáš Sou?ek,Everton,0.05,0.86,Right Foot,17,67,Jordan Pickford,Jarrod Bowen
+4/5/2025,Matchweek 31,Home,West Ham,Niclas Füllkrug,Bournemouth,0.15,0.64,Head,8,61,Kepa Arrizabalaga,James Ward-Prowse
+4/5/2025,Matchweek 31,Home,West Ham,Jarrod Bowen,Bournemouth,0.09,0.78,Head,9,68,Kepa Arrizabalaga,Mohammed Kudus
+4/13/2025,Matchweek 32,Away,West Ham,Andrew Robertson (OG),Liverpool,,,,,86,,
+4/19/2025,Matchweek 33,Home,West Ham,Jarrod Bowen,Southampton,0.08,0.1,Left Foot,15,47,Aaron Ramsdale,Niclas Füllkrug
+4/26/2025,Matchweek 34,Away,West Ham,Mohammed Kudus,Brighton,0.28,0.55,Right Foot,6,48,Bart Verbruggen,Jarrod Bowen
+4/26/2025,Matchweek 34,Away,West Ham,Tomáš Sou?ek,Brighton,0.52,0.87,Head,5,83,Bart Verbruggen,Jarrod Bowen
+5/4/2025,Matchweek 35,Home,West Ham,Jarrod Bowen,Tottenham,0.29,0.43,Left Foot,4,28,Guglielmo Vicario,Aaron Wan-Bissaka
+5/11/2025,Matchweek 36,Away,West Ham,Tomáš Sou?ek,Manchester Utd,0.59,0.99,Left Foot,2,26,Altay Bay?nd?r,Mohammed Kudus
+5/11/2025,Matchweek 36,Away,West Ham,Jarrod Bowen,Manchester Utd,0.32,0.95,Left Foot,8,57,Altay Bay?nd?r,Aaron Wan-Bissaka
+5/18/2025,Matchweek 37,Home,West Ham,Jarrod Bowen,Nott'ham Forest,0.08,0.41,Left Foot,14,86,Matz Sels,
+5/25/2025,Matchweek 38,Away,West Ham,James Ward-Prowse,Ipswich Town,0.38,0.91,Right Foot,15,43,Christian Walton,Jarrod Bowen
+5/25/2025,Matchweek 38,Away,West Ham,Jarrod Bowen,Ipswich Town,0.02,0.07,Left Foot,24,55,Christian Walton,Aaron Wan-Bissaka
+5/25/2025,Matchweek 38,Away,West Ham,Mohammed Kudus,Ipswich Town,0.07,0.23,Left Foot,18,87,Christian Walton,Guido Rodríguez
+8/16/2024,Matchweek 1,Home,Manchester Utd,Joshua Zirkzee,Fulham,0.07,0.86,Left Foot,11,87,Bernd Leno,Alejandro Garnacho
+8/24/2024,Matchweek 2,Away,Manchester Utd,Amad Diallo,Brighton,0.08,0.33,Left Foot,14,60,Jason Steele,Noussair Mazraoui
+9/14/2024,Matchweek 4,Away,Manchester Utd,Matthijs de Ligt,Southampton,0.34,0.84,Head,7,35,Aaron Ramsdale,Bruno Fernandes
+9/14/2024,Matchweek 4,Away,Manchester Utd,Marcus Rashford,Southampton,0.01,0.37,Right Foot,23,41,Aaron Ramsdale,Amad Diallo
+9/14/2024,Matchweek 4,Away,Manchester Utd,Alejandro Garnacho,Southampton,0.3,0.79,Right Foot,10,90+6,Aaron Ramsdale,Diogo Dalot
+10/19/2024,Matchweek 8,Home,Manchester Utd,Alejandro Garnacho,Brentford,0.14,0.25,Right Foot,8,47,Mark Flekken,Marcus Rashford
+10/19/2024,Matchweek 8,Home,Manchester Utd,Rasmus Højlund,Brentford,0.4,0.65,Left Foot,10,62,Mark Flekken,Bruno Fernandes
+10/27/2024,Matchweek 9,Away,Manchester Utd,Casemiro,West Ham,0.29,0.85,Head,3,81,?ukasz Fabia?ski,Joshua Zirkzee
+11/3/2024,Matchweek 10,Home,Manchester Utd,Bruno Fernandes,Chelsea,0.79,0.76,Right Foot,13,70,Robert Sánchez,
+11/10/2024,Matchweek 11,Home,Manchester Utd,Bruno Fernandes,Leicester City,0.02,0.08,Right Foot,22,17,Mads Hermansen,Amad Diallo
+11/10/2024,Matchweek 11,Home,Manchester Utd,Victor Bernth Kristiansen (OG),Leicester City,,,,,38,,
+11/10/2024,Matchweek 11,Home,Manchester Utd,Alejandro Garnacho,Leicester City,0.03,0.21,Right Foot,23,82,Mads Hermansen,Bruno Fernandes
+11/24/2024,Matchweek 12,Away,Manchester Utd,Marcus Rashford,Ipswich Town,0.25,0.67,Left Foot,8,2,Arijanet Muric,Amad Diallo
+12/1/2024,Matchweek 13,Home,Manchester Utd,Marcus Rashford,Everton,0.08,0.09,Right Foot,16,34,Jordan Pickford,Bruno Fernandes
+12/1/2024,Matchweek 13,Home,Manchester Utd,Joshua Zirkzee,Everton,0.11,0.72,Left Foot,12,41,Jordan Pickford,Bruno Fernandes
+12/1/2024,Matchweek 13,Home,Manchester Utd,Marcus Rashford,Everton,0.33,0.29,Right Foot,10,46,Jordan Pickford,Amad Diallo
+12/1/2024,Matchweek 13,Home,Manchester Utd,Joshua Zirkzee,Everton,0.2,0.26,Right Foot,12,64,Jordan Pickford,Amad Diallo
+12/7/2024,Matchweek 15,Home,Manchester Utd,Rasmus Højlund,Nott'ham Forest,0.59,0.99,Left Foot,10,18,Matz Sels,
+12/7/2024,Matchweek 15,Home,Manchester Utd,Bruno Fernandes,Nott'ham Forest,0.14,0.15,Right Foot,21,61,Matz Sels,Amad Diallo
+12/15/2024,Matchweek 16,Away,Manchester Utd,Bruno Fernandes,Manchester City,0.79,0.67,Right Foot,13,88,Ederson,
+12/15/2024,Matchweek 16,Away,Manchester Utd,Amad Diallo,Manchester City,0.54,0.98,Left Foot,9,90,Ederson,Lisandro Martínez
+1/5/2025,Matchweek 20,Away,Manchester Utd,Lisandro Martínez,Liverpool,0.08,0.07,Left Foot,11,52,Alisson,Bruno Fernandes
+1/5/2025,Matchweek 20,Away,Manchester Utd,Amad Diallo,Liverpool,0.12,0.21,Left Foot,10,80,Alisson,
+1/16/2025,Matchweek 21,Home,Manchester Utd,Amad Diallo,Southampton,0.27,0.26,Right Foot,9,82,Aaron Ramsdale,
+1/16/2025,Matchweek 21,Home,Manchester Utd,Amad Diallo,Southampton,0.27,0.26,Left Foot,10,90,Aaron Ramsdale,Christian Eriksen
+1/16/2025,Matchweek 21,Home,Manchester Utd,Amad Diallo,Southampton,0.68,0.99,Right Foot,9,90+4,Aaron Ramsdale,
+1/19/2025,Matchweek 22,Home,Manchester Utd,Bruno Fernandes,Brighton,0.79,0.82,Right Foot,13,23,Bart Verbruggen,
+1/26/2025,Matchweek 23,Away,Manchester Utd,Lisandro Martínez,Fulham,0.02,0.16,Left Foot,25,78,Bernd Leno,
+2/22/2025,Matchweek 26,Away,Manchester Utd,Bruno Fernandes,Everton,0.05,0.09,Right Foot,25,72,Jordan Pickford,
+2/22/2025,Matchweek 26,Away,Manchester Utd,Manuel Ugarte,Everton,0.03,0.14,Left Foot,17,80,Jordan Pickford,
+2/26/2025,Matchweek 27,Home,Manchester Utd,Sam Morsy (OG),Ipswich Town,,,,,22,,
+2/26/2025,Matchweek 27,Home,Manchester Utd,Matthijs de Ligt,Ipswich Town,0.31,0.92,Left Foot,3,26,Alex Palmer,
+2/26/2025,Matchweek 27,Home,Manchester Utd,Harry Maguire,Ipswich Town,0.07,0.43,Head,10,47,Alex Palmer,Bruno Fernandes
+3/9/2025,Matchweek 28,Home,Manchester Utd,Bruno Fernandes,Arsenal,0.07,0.26,Right Foot,28,45+2,David Raya,
+3/16/2025,Matchweek 29,Away,Manchester Utd,Rasmus Højlund,Leicester City,0.14,0.71,Right Foot,11,28,Mads Hermansen,Bruno Fernandes
+3/16/2025,Matchweek 29,Away,Manchester Utd,Alejandro Garnacho,Leicester City,0.06,0.24,Right Foot,14,67,Mads Hermansen,Bruno Fernandes
+3/16/2025,Matchweek 29,Away,Manchester Utd,Bruno Fernandes,Leicester City,0.1,0.64,Right Foot,21,90,Mads Hermansen,Diogo Dalot
+4/13/2025,Matchweek 32,Away,Manchester Utd,Alejandro Garnacho,Newcastle Utd,0.1,0.86,Left Foot,13,37,Nick Pope,Diogo Dalot
+4/27/2025,Matchweek 34,Away,Manchester Utd,Rasmus Højlund,Bournemouth,0.48,0.87,Right Foot,6,90+6,Kepa Arrizabalaga,Manuel Ugarte
+5/4/2025,Matchweek 35,Away,Manchester Utd,Mason Mount,Brentford,0.53,0.36,Right Foot,9,14,Mark Flekken,Alejandro Garnacho
+5/4/2025,Matchweek 35,Away,Manchester Utd,Alejandro Garnacho,Brentford,0.03,0.53,Right Foot,24,82,Mark Flekken,Christian Eriksen
+5/4/2025,Matchweek 35,Away,Manchester Utd,Amad Diallo,Brentford,0.06,0.02,Left Foot,17,90+5,Mark Flekken,Manuel Ugarte
+5/25/2025,Matchweek 38,Home,Manchester Utd,Amad Diallo,Aston Villa,0.31,0.85,Head,5,76,Robin Olsen,Bruno Fernandes
+5/25/2025,Matchweek 38,Home,Manchester Utd,Christian Eriksen,Aston Villa,0.79,0.81,Right Foot,13,87,Robin Olsen,
+8/25/2024,Matchweek 2,Home,Wolves,Matheus Cunha,Chelsea,0.46,0.16,Right Foot,11,27,Robert Sánchez,Rayan Aït-Nouri
+8/25/2024,Matchweek 2,Home,Wolves,Jørgen Strand Larsen,Chelsea,0.49,0.56,Right Foot,8,45+6,Robert Sánchez,Toti Gomes
+8/31/2024,Matchweek 3,Away,Wolves,Jean-Ricner Bellegarde,Nott'ham Forest,0.04,0.36,Right Foot,27,12,Matz Sels,Mario Lemina
+9/15/2024,Matchweek 4,Home,Wolves,Mario Lemina,Newcastle Utd,0.43,0.55,Right Foot,8,36,Nick Pope,Jørgen Strand Larsen
+9/21/2024,Matchweek 5,Away,Wolves,Matheus Cunha,Aston Villa,0.03,0.16,Right Foot,25,25,Emiliano Martínez,
+9/28/2024,Matchweek 6,Home,Wolves,Rayan Aït-Nouri,Liverpool,0.38,0.95,Right Foot,4,56,Alisson,
+10/5/2024,Matchweek 7,Away,Wolves,Matheus Cunha,Brentford,0.29,0.31,Right Foot,14,4,Mark Flekken,Nélson Semedo
+10/5/2024,Matchweek 7,Away,Wolves,Jørgen Strand Larsen,Brentford,0.16,0.93,Right Foot,8,26,Mark Flekken,Rayan Aït-Nouri
+10/5/2024,Matchweek 7,Away,Wolves,Rayan Aït-Nouri,Brentford,0.06,0.06,Left Foot,11,90+3,Mark Flekken,Jean-Ricner Bellegarde
+10/20/2024,Matchweek 8,Home,Wolves,Jørgen Strand Larsen,Manchester City,0.54,0.95,Left Foot,11,7,Ederson,Nélson Semedo
+10/26/2024,Matchweek 9,Away,Wolves,Rayan Aït-Nouri,Brighton,0.06,0.18,Left Foot,8,88,Bart Verbruggen,
+10/26/2024,Matchweek 9,Away,Wolves,Matheus Cunha,Brighton,0.05,0.28,Right Foot,17,90+3,Bart Verbruggen,Tommy Doyle
+11/2/2024,Matchweek 10,Home,Wolves,Jørgen Strand Larsen,Crystal Palace,0.61,0.37,Right Foot,10,67,Dean Henderson,Matheus Cunha
+11/2/2024,Matchweek 10,Home,Wolves,João Gomes,Crystal Palace,0.21,0.62,Right Foot,16,72,Dean Henderson,Gonçalo Guedes
+11/9/2024,Matchweek 11,Home,Wolves,Pablo Sarabia,Southampton,0.97,1,Left Foot,7,2,Aaron Ramsdale,Matheus Cunha
+11/9/2024,Matchweek 11,Home,Wolves,Matheus Cunha,Southampton,0.04,0.18,Right Foot,29,51,Aaron Ramsdale,Mario Lemina
+11/23/2024,Matchweek 12,Away,Wolves,Matheus Cunha,Fulham,0.62,0.33,Right Foot,6,31,Bernd Leno,Mario Lemina
+11/23/2024,Matchweek 12,Away,Wolves,João Gomes,Fulham,0.07,0.15,Left Foot,12,53,Bernd Leno,Matheus Cunha
+11/23/2024,Matchweek 12,Away,Wolves,Matheus Cunha,Fulham,0.04,0.36,Right Foot,24,87,Bernd Leno,João Gomes
+11/23/2024,Matchweek 12,Away,Wolves,Gonçalo Guedes,Fulham,0.24,0.52,Right Foot,11,90+5,Bernd Leno,Jørgen Strand Larsen
+11/30/2024,Matchweek 13,Home,Wolves,Jørgen Strand Larsen,Bournemouth,0.13,0.78,Head,10,5,Kepa Arrizabalaga,Jean-Ricner Bellegarde
+11/30/2024,Matchweek 13,Home,Wolves,Jørgen Strand Larsen,Bournemouth,0.1,0.25,Right Foot,12,69,Kepa Arrizabalaga,Gonçalo Guedes
+12/9/2024,Matchweek 15,Away,Wolves,Matt Doherty,West Ham,0.24,0.83,Left Foot,12,69,?ukasz Fabia?ski,Rayan Aït-Nouri
+12/14/2024,Matchweek 16,Home,Wolves,Matheus Cunha,Ipswich Town,0.05,0.44,Left Foot,13,72,Arijanet Muric,Gonçalo Guedes
+12/22/2024,Matchweek 17,Away,Wolves,Gonçalo Guedes,Leicester City,0.05,0.08,Right Foot,10,19,Danny Ward,Nélson Semedo
+12/22/2024,Matchweek 17,Away,Wolves,Rodrigo Gomes,Leicester City,0.26,0.23,Other,8,36,Danny Ward,Matt Doherty
+12/22/2024,Matchweek 17,Away,Wolves,Matheus Cunha,Leicester City,0.09,0.1,Right Foot,10,44,Danny Ward,Gonçalo Guedes
+12/26/2024,Matchweek 18,Home,Wolves,Matheus Cunha,Manchester Utd,0.01,0.07,Right Foot,33,58,André Onana,
+12/26/2024,Matchweek 18,Home,Wolves,Hwang Hee-chan,Manchester Utd,0.55,0.73,Right Foot,8,90+9,André Onana,Matheus Cunha
+12/29/2024,Matchweek 19,Away,Wolves,Hwang Hee-chan,Tottenham,0.06,0.41,Right Foot,23,7,Fraser Forster,Rayan Aït-Nouri
+12/29/2024,Matchweek 19,Away,Wolves,Jørgen Strand Larsen,Tottenham,0.22,0.72,Left Foot,9,87,Fraser Forster,Rayan Aït-Nouri
+1/20/2025,Matchweek 22,Away,Wolves,Matt Doherty,Chelsea,0.31,0.58,Right Foot,3,45+5,Robert Sánchez,
+2/1/2025,Matchweek 24,Home,Wolves,Jean-Ricner Bellegarde,Aston Villa,0.15,0.4,Right Foot,12,12,Emiliano Martínez,Pablo Sarabia
+2/1/2025,Matchweek 24,Home,Wolves,Matheus Cunha,Aston Villa,0.12,0.71,Right Foot,14,90+7,Emiliano Martínez,
+2/16/2025,Matchweek 25,Away,Wolves,Matheus Cunha,Liverpool,0.06,0.56,Left Foot,25,67,Alisson,Jean-Ricner Bellegarde
+2/22/2025,Matchweek 26,Away,Wolves,Matheus Cunha,Bournemouth,0.59,0.68,Right Foot,12,36,Kepa Arrizabalaga,Marshall Munetsi
+2/25/2025,Matchweek 27,Home,Wolves,João Gomes,Fulham,0.14,0.2,Right Foot,12,18,Bernd Leno,Nélson Semedo
+3/8/2025,Matchweek 28,Home,Wolves,Marshall Munetsi,Everton,0.28,0.26,Right Foot,11,40,Jordan Pickford,Jean-Ricner Bellegarde
+3/15/2025,Matchweek 29,Away,Wolves,Jørgen Strand Larsen,Southampton,0.1,0.26,Head,12,19,Aaron Ramsdale,Jean-Ricner Bellegarde
+3/15/2025,Matchweek 29,Away,Wolves,Jørgen Strand Larsen,Southampton,0.07,0.64,Right Foot,20,47,Aaron Ramsdale,Jean-Ricner Bellegarde
+4/1/2025,Matchweek 30,Home,Wolves,Jørgen Strand Larsen,West Ham,0.07,0.46,Left Foot,23,21,Alphonse Areola,
+4/5/2025,Matchweek 31,Away,Wolves,Pablo Sarabia,Ipswich Town,0.05,0.5,Left Foot,18,72,Alex Palmer,
+4/5/2025,Matchweek 31,Away,Wolves,Jørgen Strand Larsen,Ipswich Town,0.73,0.99,Right Foot,4,84,Alex Palmer,Pablo Sarabia
+4/13/2025,Matchweek 32,Home,Wolves,Rayan Aït-Nouri,Tottenham,0.05,0.43,Left Foot,18,2,Guglielmo Vicario,
+4/13/2025,Matchweek 32,Home,Wolves,Djed Spence (OG),Tottenham,,,,,38,,
+4/13/2025,Matchweek 32,Home,Wolves,Jørgen Strand Larsen,Tottenham,0.67,0.99,Right Foot,4,64,Guglielmo Vicario,Rayan Aït-Nouri
+4/13/2025,Matchweek 32,Home,Wolves,Matheus Cunha,Tottenham,0.47,0.47,Right Foot,17,86,Guglielmo Vicario,
+4/20/2025,Matchweek 33,Away,Wolves,Pablo Sarabia,Manchester Utd,0.09,0.58,Left Foot,25,77,André Onana,
+4/26/2025,Matchweek 34,Home,Wolves,Matheus Cunha,Leicester City,0.27,0.81,Right Foot,6,33,Mads Hermansen,Rayan Aït-Nouri
+4/26/2025,Matchweek 34,Home,Wolves,Jørgen Strand Larsen,Leicester City,0.08,0.3,Right Foot,14,56,Mads Hermansen,Matheus Cunha
+4/26/2025,Matchweek 34,Home,Wolves,Rodrigo Gomes,Leicester City,0.15,0.41,Right Foot,18,85,Mads Hermansen,Matheus Cunha
+5/20/2025,Matchweek 37,Away,Wolves,Emmanuel Agbadou,Crystal Palace,0.56,0.98,Head,3,24,Dean Henderson,Jørgen Strand Larsen
+5/20/2025,Matchweek 37,Away,Wolves,Jørgen Strand Larsen,Crystal Palace,0.24,0.78,Head,6,62,Dean Henderson,Jean-Ricner Bellegarde
+5/25/2025,Matchweek 38,Home,Wolves,Marshall Munetsi,Brentford,0.05,0.24,Right Foot,22,75,Mark Flekken,Jørgen Strand Larsen
+8/19/2024,Matchweek 1,Away,Tottenham,Pedro Porro,Leicester City,0.09,0.72,Head,9,29,Mads Hermansen,James Maddison
+8/24/2024,Matchweek 2,Home,Tottenham,Yves Bissouma,Everton,0.1,0.24,Right Foot,21,14,Jordan Pickford,Dejan Kulusevski
+8/24/2024,Matchweek 2,Home,Tottenham,Son Heung-min,Everton,0.86,0.99,Right Foot,9,25,Jordan Pickford,
+8/24/2024,Matchweek 2,Home,Tottenham,Cristian Romero,Everton,0.27,0.51,Head,4,71,Jordan Pickford,James Maddison
+8/24/2024,Matchweek 2,Home,Tottenham,Son Heung-min,Everton,0.25,0.24,Left Foot,9,77,Jordan Pickford,Micky van de Ven
+9/1/2024,Matchweek 3,Away,Tottenham,Dan Burn (OG),Newcastle Utd,,,,,56,,
+9/21/2024,Matchweek 5,Home,Tottenham,Dominic Solanke,Brentford,0.71,0.74,Right Foot,9,8,Mark Flekken,
+9/21/2024,Matchweek 5,Home,Tottenham,Brennan Johnson,Brentford,0.07,0.2,Right Foot,14,28,Mark Flekken,Son Heung-min
+9/21/2024,Matchweek 5,Home,Tottenham,James Maddison,Brentford,0.51,0.45,Left Foot,13,85,Mark Flekken,Son Heung-min
+9/29/2024,Matchweek 6,Away,Tottenham,Brennan Johnson,Manchester Utd,0.91,0.97,Right Foot,4,3,André Onana,Micky van de Ven
+9/29/2024,Matchweek 6,Away,Tottenham,Dejan Kulusevski,Manchester Utd,0.39,0.33,Left Foot,5,47,André Onana,
+9/29/2024,Matchweek 6,Away,Tottenham,Dominic Solanke,Manchester Utd,0.87,0.85,Right Foot,3,77,André Onana,Pape Matar Sarr
+10/6/2024,Matchweek 7,Away,Tottenham,Brennan Johnson,Brighton,0.48,0.67,Left Foot,16,23,Bart Verbruggen,Dominic Solanke
+10/6/2024,Matchweek 7,Away,Tottenham,James Maddison,Brighton,0.1,0.15,Right Foot,18,37,Bart Verbruggen,Timo Werner
+10/19/2024,Matchweek 8,Home,Tottenham,Dejan Kulusevski,West Ham,0.1,0.15,Left Foot,18,36,Alphonse Areola,James Maddison
+10/19/2024,Matchweek 8,Home,Tottenham,Yves Bissouma,West Ham,0.16,0.14,Right Foot,17,52,Alphonse Areola,Destiny Udogie
+10/19/2024,Matchweek 8,Home,Tottenham,Alphonse Areola (OG),West Ham,,,,,55,,
+10/19/2024,Matchweek 8,Home,Tottenham,Son Heung-min,West Ham,0.1,0.2,Left Foot,11,60,Alphonse Areola,Pape Matar Sarr
+11/3/2024,Matchweek 10,Home,Tottenham,Brennan Johnson,Aston Villa,0.59,0.35,Right Foot,4,49,Emiliano Martínez,Son Heung-min
+11/3/2024,Matchweek 10,Home,Tottenham,Dominic Solanke,Aston Villa,0.59,0.52,Right Foot,15,75,Emiliano Martínez,Dejan Kulusevski
+11/3/2024,Matchweek 10,Home,Tottenham,Dominic Solanke,Aston Villa,0.74,0.99,Left Foot,7,79,Emiliano Martínez,Richarlison
+11/3/2024,Matchweek 10,Home,Tottenham,James Maddison,Aston Villa,0.12,0.73,Right Foot,22,90+6,Emiliano Martínez,
+11/10/2024,Matchweek 11,Home,Tottenham,Rodrigo Bentancur,Ipswich Town,0.1,0.66,Head,8,69,Arijanet Muric,Pedro Porro
+11/23/2024,Matchweek 12,Away,Tottenham,James Maddison,Manchester City,0.66,0.88,Left Foot,3,13,Ederson,Dejan Kulusevski
+11/23/2024,Matchweek 12,Away,Tottenham,James Maddison,Manchester City,0.13,0.22,Left Foot,8,20,Ederson,Son Heung-min
+11/23/2024,Matchweek 12,Away,Tottenham,Pedro Porro,Manchester City,0.31,0.61,Right Foot,12,52,Ederson,Dominic Solanke
+11/23/2024,Matchweek 12,Away,Tottenham,Brennan Johnson,Manchester City,0.97,1,Right Foot,1,90+3,Ederson,Timo Werner
+12/1/2024,Matchweek 13,Home,Tottenham,Brennan Johnson,Fulham,0.29,0.76,Right Foot,6,54,Bernd Leno,Timo Werner
+12/8/2024,Matchweek 15,Home,Tottenham,Dominic Solanke,Chelsea,0.1,0.23,Right Foot,7,5,Robert Sánchez,Brennan Johnson
+12/8/2024,Matchweek 15,Home,Tottenham,Dejan Kulusevski,Chelsea,0.05,0.51,Left Foot,18,11,Robert Sánchez,Pedro Porro
+12/8/2024,Matchweek 15,Home,Tottenham,Son Heung-min,Chelsea,0.47,0.98,Right Foot,9,90+6,Robert Sánchez,James Maddison
+12/15/2024,Matchweek 16,Away,Tottenham,James Maddison,Southampton,0.48,0.35,Right Foot,11,1,Alex McCarthy,Djed Spence
+12/15/2024,Matchweek 16,Away,Tottenham,Son Heung-min,Southampton,0.05,0.31,Left Foot,11,12,Alex McCarthy,
+12/15/2024,Matchweek 16,Away,Tottenham,Dejan Kulusevski,Southampton,0.32,0.89,Left Foot,5,14,Alex McCarthy,
+12/15/2024,Matchweek 16,Away,Tottenham,Pape Matar Sarr,Southampton,0.26,0.75,Left Foot,10,25,Alex McCarthy,Son Heung-min
+12/15/2024,Matchweek 16,Away,Tottenham,James Maddison,Southampton,0.11,0.77,Right Foot,5,45+4,Alex McCarthy,Son Heung-min
+12/22/2024,Matchweek 17,Home,Tottenham,James Maddison,Liverpool,0.09,0.39,Right Foot,21,41,Alisson,
+12/22/2024,Matchweek 17,Home,Tottenham,Dejan Kulusevski,Liverpool,0.39,0.74,Left Foot,12,72,Alisson,Dominic Solanke
+12/22/2024,Matchweek 17,Home,Tottenham,Dominic Solanke,Liverpool,0.48,0.38,Left Foot,5,83,Alisson,Brennan Johnson
+12/29/2024,Matchweek 19,Home,Tottenham,Rodrigo Bentancur,Wolves,0.09,0.21,Head,7,12,José Sá,Pedro Porro
+12/29/2024,Matchweek 19,Home,Tottenham,Brennan Johnson,Wolves,0.15,0.53,Right Foot,10,45+3,José Sá,Dejan Kulusevski
+1/4/2025,Matchweek 20,Home,Tottenham,Dominic Solanke,Newcastle Utd,0.17,0.76,Head,9,4,Martin Dúbravka,Pedro Porro
+1/15/2025,Matchweek 21,Away,Tottenham,Son Heung-min,Arsenal,0.06,0.54,Right Foot,18,25,David Raya,
+1/19/2025,Matchweek 22,Away,Tottenham,Dejan Kulusevski,Everton,0.11,0.85,Left Foot,17,77,Jordan Pickford,
+1/19/2025,Matchweek 22,Away,Tottenham,Richarlison,Everton,0.24,0.8,Left Foot,3,90+2,Jordan Pickford,Mikey Moore
+1/26/2025,Matchweek 23,Home,Tottenham,Richarlison,Leicester City,0.47,0.91,Head,4,33,Jakub Stolarczyk,Pedro Porro
+2/2/2025,Matchweek 24,Away,Tottenham,Vitaly Janelt (OG),Brentford,,,,,29,,
+2/2/2025,Matchweek 24,Away,Tottenham,Pape Matar Sarr,Brentford,0.26,0.37,Right Foot,11,87,Hákon Valdimarsson,Son Heung-min
+2/16/2025,Matchweek 25,Home,Tottenham,James Maddison,Manchester Utd,0.72,0.99,Right Foot,4,13,André Onana,
+2/22/2025,Matchweek 26,Away,Tottenham,Brennan Johnson,Ipswich Town,0.89,0.99,Right Foot,3,18,Alex Palmer,Son Heung-min
+2/22/2025,Matchweek 26,Away,Tottenham,Brennan Johnson,Ipswich Town,0.21,0.46,Left Foot,13,26,Alex Palmer,Son Heung-min
+2/22/2025,Matchweek 26,Away,Tottenham,Djed Spence,Ipswich Town,0.11,0.46,Right Foot,15,77,Alex Palmer,James Maddison
+2/22/2025,Matchweek 26,Away,Tottenham,Dejan Kulusevski,Ipswich Town,0.05,0.12,Left Foot,18,84,Alex Palmer,Dane Scarlett
+3/9/2025,Matchweek 28,Home,Tottenham,Pape Matar Sarr,Bournemouth,0.03,0.08,Right Foot,30,67,Kepa Arrizabalaga,Lucas Bergvall
+3/9/2025,Matchweek 28,Home,Tottenham,Son Heung-min,Bournemouth,0.79,0.78,Right Foot,13,84,Kepa Arrizabalaga,
+4/6/2025,Matchweek 31,Home,Tottenham,Brennan Johnson,Southampton,0.18,0.82,Left Foot,10,13,Aaron Ramsdale,Djed Spence
+4/6/2025,Matchweek 31,Home,Tottenham,Brennan Johnson,Southampton,0.27,0.47,Right Foot,10,42,Aaron Ramsdale,James Maddison
+4/6/2025,Matchweek 31,Home,Tottenham,Mathys Tel,Southampton,0.79,0.64,Right Foot,13,90+6,Aaron Ramsdale,
+4/13/2025,Matchweek 32,Away,Tottenham,Mathys Tel,Wolves,0.16,0.9,Left Foot,8,59,José Sá,Brennan Johnson
+4/13/2025,Matchweek 32,Away,Tottenham,Richarlison,Wolves,0.89,0.99,Head,2,85,José Sá,
+4/21/2025,Matchweek 33,Home,Tottenham,Richarlison,Nott'ham Forest,0.09,0.53,Head,11,87,Matz Sels,Pedro Porro
+4/27/2025,Matchweek 34,Away,Tottenham,Dominic Solanke,Liverpool,0.08,0.81,Head,9,12,Alisson,James Maddison
+5/4/2025,Matchweek 35,Away,Tottenham,Wilson Odobert,West Ham,0.47,0.32,Right Foot,11,15,Alphonse Areola,Mathys Tel
+5/25/2025,Matchweek 38,Home,Tottenham,Dominic Solanke,Brighton,0.79,0.92,Right Foot,13,17,Bart Verbruggen,
+8/19/2024,Matchweek 1,Home,Leicester City,Jamie Vardy,Tottenham,0.43,0.98,Head,5,57,Guglielmo Vicario,Abdul Fatawu Issahaku
+8/24/2024,Matchweek 2,Away,Leicester City,Wout Faes,Fulham,0.2,0.94,Head,4,38,Bernd Leno,Facundo Buonanotte
+8/31/2024,Matchweek 3,Home,Leicester City,Facundo Buonanotte,Aston Villa,0.15,0.34,Left Foot,8,73,Emiliano Martínez,Wilfred Ndidi
+9/14/2024,Matchweek 4,Away,Leicester City,Jamie Vardy,Crystal Palace,0.64,0.99,Right Foot,9,21,Dean Henderson,Wilfred Ndidi
+9/14/2024,Matchweek 4,Away,Leicester City,Stephy Mavididi,Crystal Palace,0.26,0.9,Right Foot,10,46,Dean Henderson,Wilfred Ndidi
+9/21/2024,Matchweek 5,Home,Leicester City,Stephy Mavididi,Everton,0.21,0.95,Right Foot,4,73,Jordan Pickford,
+9/28/2024,Matchweek 6,Away,Leicester City,James Justin,Arsenal,0.03,0.1,Head,14,47,David Raya,Facundo Buonanotte
+9/28/2024,Matchweek 6,Away,Leicester City,James Justin,Arsenal,0.05,0.07,Right Foot,14,63,David Raya,Wilfred Ndidi
+10/5/2024,Matchweek 7,Home,Leicester City,Facundo Buonanotte,Bournemouth,0.23,0.69,Left Foot,12,16,Kepa Arrizabalaga,James Justin
+10/19/2024,Matchweek 8,Away,Leicester City,Facundo Buonanotte,Southampton,0.95,0.99,Right Foot,2,64,Aaron Ramsdale,Abdul Fatawu Issahaku
+10/19/2024,Matchweek 8,Away,Leicester City,Jamie Vardy,Southampton,0.79,0.96,Right Foot,13,74,Aaron Ramsdale,
+10/19/2024,Matchweek 8,Away,Leicester City,Jordan Ayew,Southampton,0.1,0.29,Right Foot,16,90+8,Aaron Ramsdale,Harry Winks
+10/25/2024,Matchweek 9,Home,Leicester City,Jamie Vardy,Nott'ham Forest,0.52,0.97,Right Foot,4,23,Matz Sels,Harry Winks
+11/2/2024,Matchweek 10,Away,Leicester City,Jordan Ayew,Ipswich Town,0.31,0.41,Right Foot,5,90+4,Arijanet Muric,Jamie Vardy
+11/23/2024,Matchweek 12,Home,Leicester City,Jordan Ayew,Chelsea,0.79,0.81,Right Foot,13,90+5,Robert Sánchez,
+11/30/2024,Matchweek 13,Away,Leicester City,Facundo Buonanotte,Brentford,0.73,0.99,Left Foot,8,21,Mark Flekken,Jamie Vardy
+12/3/2024,Matchweek 14,Home,Leicester City,Jamie Vardy,West Ham,0.42,0.88,Right Foot,12,2,?ukasz Fabia?ski,Bilal El Khannouss
+12/3/2024,Matchweek 14,Home,Leicester City,Bilal El Khannouss,West Ham,0.11,0.41,Right Foot,16,61,?ukasz Fabia?ski,Kasey McAteer
+12/3/2024,Matchweek 14,Home,Leicester City,Patson Daka,West Ham,0.14,0.52,Left Foot,13,90,?ukasz Fabia?ski,Victor Bernth Kristiansen
+12/8/2024,Matchweek 15,Home,Leicester City,Jamie Vardy,Brighton,0.33,0.69,Left Foot,7,86,Bart Verbruggen,
+12/8/2024,Matchweek 15,Home,Leicester City,Bobby De Cordova-Reid,Brighton,0.59,0.88,Right Foot,8,90+1,Bart Verbruggen,Jamie Vardy
+12/26/2024,Matchweek 18,Away,Leicester City,Jordan Ayew,Liverpool,0.24,0.9,Right Foot,12,6,Alisson,Stephy Mavididi
+1/4/2025,Matchweek 20,Away,Leicester City,Stephy Mavididi,Aston Villa,0.13,0.26,Left Foot,4,63,Emiliano Martínez,
+1/26/2025,Matchweek 23,Away,Leicester City,Jamie Vardy,Tottenham,0.96,0.99,Right Foot,3,46,Antonín Kinský,Bobby De Cordova-Reid
+1/26/2025,Matchweek 23,Away,Leicester City,Bilal El Khannouss,Tottenham,0.05,0.46,Right Foot,25,50,Antonín Kinský,Bobby De Cordova-Reid
+4/12/2025,Matchweek 32,Away,Leicester City,Stephy Mavididi,Brighton,0.04,0.06,Left Foot,10,38,Bart Verbruggen,
+4/12/2025,Matchweek 32,Away,Leicester City,Caleb Okoli,Brighton,0.48,0.54,Head,5,74,Bart Verbruggen,Bilal El Khannouss
+5/3/2025,Matchweek 35,Home,Leicester City,Jamie Vardy,Southampton,0.43,0.74,Left Foot,10,17,Aaron Ramsdale,Bilal El Khannouss
+5/3/2025,Matchweek 35,Home,Leicester City,Jordan Ayew,Southampton,0.05,0.37,Right Foot,22,44,Aaron Ramsdale,
+5/11/2025,Matchweek 36,Away,Leicester City,Conor Coady,Nott'ham Forest,0.32,0.93,Head,5,16,Matz Sels,
+5/11/2025,Matchweek 36,Away,Leicester City,Facundo Buonanotte,Nott'ham Forest,0.11,0.47,Right Foot,13,81,Matz Sels,Jamie Vardy
+5/18/2025,Matchweek 37,Home,Leicester City,Jamie Vardy,Ipswich Town,0.23,0.58,Right Foot,10,28,Alex Palmer,James Justin
+5/18/2025,Matchweek 37,Home,Leicester City,Kasey McAteer,Ipswich Town,0.05,0.07,Right Foot,12,69,Alex Palmer,Wilfred Ndidi
+8/24/2024,Matchweek 2,Away,Ipswich Town,Sammie Szmodics,Manchester City,0.29,0.29,Right Foot,21,7,Ederson,Ben Johnson
+8/31/2024,Matchweek 3,Home,Ipswich Town,Liam Delap,Fulham,0.05,0.2,Right Foot,26,15,Bernd Leno,Leif Davis
+9/21/2024,Matchweek 5,Away,Ipswich Town,Sam Morsy,Southampton,0.04,0.58,Right Foot,22,90+5,Aaron Ramsdale,
+9/29/2024,Matchweek 6,Home,Ipswich Town,Liam Delap,Aston Villa,0.12,0.34,Left Foot,13,8,Emiliano Martínez,Jack Clarke
+9/29/2024,Matchweek 6,Home,Ipswich Town,Liam Delap,Aston Villa,0.29,0.73,Left Foot,11,72,Emiliano Martínez,Omari Hutchinson
+10/5/2024,Matchweek 7,Away,Ipswich Town,Liam Delap,West Ham,0.04,0.07,Right Foot,21,6,Alphonse Areola,
+10/26/2024,Matchweek 9,Away,Ipswich Town,Sammie Szmodics,Brentford,0.19,0.25,Right Foot,18,28,Mark Flekken,George Hirst
+10/26/2024,Matchweek 9,Away,Ipswich Town,George Hirst,Brentford,0.27,0.69,Right Foot,12,31,Mark Flekken,Conor Chaplin
+10/26/2024,Matchweek 9,Away,Ipswich Town,Liam Delap,Brentford,0.14,0.6,Left Foot,10,86,Mark Flekken,Leif Davis
+11/2/2024,Matchweek 10,Home,Ipswich Town,Leif Davis,Leicester City,0.09,0.14,Left Foot,12,55,Mads Hermansen,Sam Morsy
+11/10/2024,Matchweek 11,Away,Ipswich Town,Sammie Szmodics,Tottenham,0.2,0.9,Right Foot,9,31,Guglielmo Vicario,Liam Delap
+11/10/2024,Matchweek 11,Away,Ipswich Town,Liam Delap,Tottenham,0.88,1,Left Foot,1,43,Guglielmo Vicario,
+11/24/2024,Matchweek 12,Home,Ipswich Town,Omari Hutchinson,Manchester Utd,0.02,0.23,Left Foot,24,43,André Onana,Wes Burns
+12/8/2024,Matchweek 15,Home,Ipswich Town,Conor Chaplin,Bournemouth,0.21,0.65,Left Foot,16,21,Kepa Arrizabalaga,Cameron Burgess
+12/14/2024,Matchweek 16,Away,Ipswich Town,Matt Doherty (OG),Wolves,,,,,15,,
+12/14/2024,Matchweek 16,Away,Ipswich Town,Jack Taylor,Wolves,0.11,0.89,Head,8,90+4,Sam Johnstone,Jack Clarke
+12/30/2024,Matchweek 19,Home,Ipswich Town,Liam Delap,Chelsea,0.79,0.9,Right Foot,13,12,Filip Jørgensen,
+12/30/2024,Matchweek 19,Home,Ipswich Town,Omari Hutchinson,Chelsea,0.13,0.61,Left Foot,16,53,Filip Jørgensen,Liam Delap
+1/5/2025,Matchweek 20,Away,Ipswich Town,Sammie Szmodics,Fulham,0.21,0.35,Right Foot,11,38,Bernd Leno,
+1/5/2025,Matchweek 20,Away,Ipswich Town,Liam Delap,Fulham,0.79,0.89,Right Foot,13,71,Bernd Leno,
+1/25/2025,Matchweek 23,Away,Ipswich Town,Jacob Greaves,Liverpool,0.25,0.65,Head,4,90,Alisson,Julio Enciso
+2/1/2025,Matchweek 24,Home,Ipswich Town,Liam Delap,Southampton,0.61,0.67,Right Foot,16,31,Aaron Ramsdale,
+2/15/2025,Matchweek 25,Away,Ipswich Town,Liam Delap,Aston Villa,0.12,0.9,Right Foot,10,56,Emiliano Martínez,Omari Hutchinson
+2/22/2025,Matchweek 26,Home,Ipswich Town,Omari Hutchinson,Tottenham,0.32,0.55,Left Foot,15,36,Guglielmo Vicario,Jack Clarke
+2/26/2025,Matchweek 27,Away,Ipswich Town,Jaden Philogene Bidace,Manchester Utd,0.96,1,Left Foot,6,4,André Onana,
+2/26/2025,Matchweek 27,Away,Ipswich Town,Jaden Philogene Bidace,Manchester Utd,0.02,0.2,Left Foot,31,45+2,André Onana,Axel Tuanzebe
+3/15/2025,Matchweek 29,Home,Ipswich Town,Jens Cajuste,Nott'ham Forest,0.06,0.16,Right Foot,23,82,Matz Sels,Jack Clarke
+3/15/2025,Matchweek 29,Home,Ipswich Town,George Hirst,Nott'ham Forest,0.03,0.26,Head,14,90+3,Matz Sels,Dara O'Shea
+4/2/2025,Matchweek 30,Away,Ipswich Town,Nathan Broadhead,Bournemouth,0.43,0.39,Right Foot,8,34,Kepa Arrizabalaga,Julio Enciso
+4/2/2025,Matchweek 30,Away,Ipswich Town,Liam Delap,Bournemouth,0.27,0.41,Right Foot,14,60,Kepa Arrizabalaga,Conor Townsend
+4/5/2025,Matchweek 31,Home,Ipswich Town,Liam Delap,Wolves,0.46,0.57,Right Foot,5,16,José Sá,Dara O'Shea
+4/13/2025,Matchweek 32,Away,Ipswich Town,Julio Enciso,Chelsea,0.38,0.73,Right Foot,7,19,Robert Sánchez,Ben Johnson
+4/13/2025,Matchweek 32,Away,Ipswich Town,Ben Johnson,Chelsea,0.17,0.47,Head,6,31,Robert Sánchez,Julio Enciso
+5/3/2025,Matchweek 35,Away,Ipswich Town,Julio Enciso,Everton,0.02,0.14,Right Foot,34,41,Jordan Pickford,Cameron Burgess
+5/3/2025,Matchweek 35,Away,Ipswich Town,George Hirst,Everton,0.28,0.97,Head,3,79,Jordan Pickford,
+5/25/2025,Matchweek 38,Home,Ipswich Town,Nathan Broadhead,West Ham,0.05,0.06,Right Foot,22,52,?ukasz Fabia?ski,Jens Cajuste
+8/31/2024,Matchweek 3,Away,Southampton,Yukinari Sugawara,Brentford,0.08,0.25,Left Foot,15,90+4,Mark Flekken,Adam Lallana
+9/21/2024,Matchweek 5,Home,Southampton,Tyler Dibling,Ipswich Town,0.72,0.67,Left Foot,10,5,Arijanet Muric,Adam Lallana
+9/30/2024,Matchweek 6,Away,Southampton,Taylor Harwood-Bellis,Bournemouth,0.13,0.62,Head,10,51,Kepa Arrizabalaga,
+10/5/2024,Matchweek 7,Away,Southampton,Cameron Archer,Arsenal,0.06,0.64,Right Foot,15,55,David Raya,Mateus Fernandes
+10/19/2024,Matchweek 8,Home,Southampton,Cameron Archer,Leicester City,0.43,0.96,Left Foot,6,8,Mads Hermansen,
+10/19/2024,Matchweek 8,Home,Southampton,Joe Aribo,Leicester City,0.58,0.97,Left Foot,9,28,Mads Hermansen,Kyle Walker-Peters
+11/2/2024,Matchweek 10,Home,Southampton,Adam Armstrong,Everton,0.12,0.73,Right Foot,16,85,Jordan Pickford,Yukinari Sugawara
+11/24/2024,Matchweek 12,Home,Southampton,Adam Armstrong,Liverpool,0.68,0.3,Left Foot,8,43,Caoimhín Kelleher,
+11/24/2024,Matchweek 12,Home,Southampton,Mateus Fernandes,Liverpool,0.18,0.63,Left Foot,15,56,Caoimhín Kelleher,Adam Armstrong
+11/29/2024,Matchweek 13,Away,Southampton,Flynn Downes,Brighton,0.08,0.4,Right Foot,14,59,Bart Verbruggen,
+12/4/2024,Matchweek 14,Home,Southampton,Joe Aribo,Chelsea,0.71,0.95,Left Foot,6,11,Filip Jørgensen,Kyle Walker-Peters
+12/29/2024,Matchweek 19,Away,Southampton,Tyler Dibling,Crystal Palace,0.56,0.88,Left Foot,3,14,Dean Henderson,Adam Armstrong
+1/16/2025,Matchweek 21,Away,Southampton,Manuel Ugarte (OG),Manchester Utd,,,,,43,,
+1/19/2025,Matchweek 22,Away,Southampton,Jan Bednarek,Nott'ham Forest,0.18,0.79,Left Foot,14,60,Matz Sels,Lesley Ugochukwu
+1/19/2025,Matchweek 22,Away,Southampton,Paul Onuachu,Nott'ham Forest,0.14,0.71,Head,6,90+1,Matz Sels,Mateus Fernandes
+1/25/2025,Matchweek 23,Home,Southampton,Jan Bednarek,Newcastle Utd,0.22,0.71,Head,9,10,Martin Dúbravka,James Bree
+2/1/2025,Matchweek 24,Away,Southampton,Joe Aribo,Ipswich Town,0.13,0.09,Left Foot,15,21,Arijanet Muric,
+2/1/2025,Matchweek 24,Away,Southampton,Paul Onuachu,Ipswich Town,0.39,0.27,Left Foot,4,87,Arijanet Muric,
+2/15/2025,Matchweek 25,Home,Southampton,Kamaldeen Sulemana,Bournemouth,0.13,0.3,Left Foot,16,72,Kepa Arrizabalaga,Paul Onuachu
+3/8/2025,Matchweek 28,Away,Southampton,William Smallbone,Liverpool,0.08,0.15,Right Foot,11,45+1,Alisson,
+3/15/2025,Matchweek 29,Home,Southampton,Paul Onuachu,Wolves,0.72,0.98,Left Foot,5,75,José Sá,
+4/2/2025,Matchweek 30,Home,Southampton,Paul Onuachu,Crystal Palace,0.06,0.52,Head,13,20,Dean Henderson,Mateus Fernandes
+4/6/2025,Matchweek 31,Away,Southampton,Mateus Fernandes,Tottenham,0.29,0.26,Left Foot,7,90,Guglielmo Vicario,Kamaldeen Sulemana
+4/19/2025,Matchweek 33,Away,Southampton,Lesley Ugochukwu,West Ham,0.07,0.6,Left Foot,15,90+3,Alphonse Areola,
+4/26/2025,Matchweek 34,Home,Southampton,Jack Stephens,Fulham,0.26,0.85,Head,7,14,Bernd Leno,Ryan Manning
+5/25/2025,Matchweek 38,Home,Southampton,Ross Stewart,Arsenal,0.21,0.8,Head,5,56,David Raya,Mateus Fernandes

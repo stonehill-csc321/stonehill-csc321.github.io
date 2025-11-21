@@ -1,0 +1,100 @@
+body > * {
+    margin-bottom: 30px;
+}
+
+body > *:last-child {
+    margin-bottom: 0px;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+#searchBarV4 {
+    font-size: 16px;
+    width: 400px;
+    height: 25px;
+    border-radius: 15px;
+    padding: 0 10px
+}
+
+.autocomplete {
+    position: relative;
+    display: inline-block;
+}
+
+.autocomplete-items {
+    position: absolute;
+    border: 1px solid #d4d4d4;
+    border-bottom: none;
+    border-top: none;
+    z-index: 99;
+    top: 100%;
+    left: 0;
+    right: 0;
+    width: 400px;
+}
+
+.autocomplete-items div {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #fff;
+    border-bottom: 1px solid #d4d4d4;
+}
+.autocomplete-items div:hover {
+    background-color: #e9e9e9;
+}
+
+.autocomplete-items .autocomplete-active {
+    background-color: #e9e9e9;
+}
+
+.selected-tableV4-row {
+    background-color: #bee9ff;
+}
+
+.selected-tableV4-row:hover {
+    background-color: #abd0e3;
+}
+
+table > tr:hover {
+    background-color: #e4e4e4;
+}
+
+td > input {
+    width: 80px;
+    text-align: center;
+}
+
+.straightTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
+.straightTable th, .straightTable td {
+  border: 5px solid black;
+  padding: 12px;
+  text-align: left;
+}
+.straightTable th {
+  font-weight: bold;
+}
+.straightTable caption {
+  caption-side: top;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.foodButton {
+  background-color: rgba(255, 0, 0, 0.10);
+  cursor: pointer;
+}

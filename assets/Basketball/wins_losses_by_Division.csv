@@ -1,0 +1,31 @@
+Conference,Division,Team,W,L,W/L%,GB,PS/G,PA/G,SRS,Logo
+Eastern,Atlantic,Boston Celtics,61,21,.744,—,116.3,107.2,8.28,teams logos/BOS-2025.png
+Eastern,Atlantic,New York Knicks,51,31,.622,10.0,115.8,111.7,3.59,teams logos/NYK-2025.png
+Eastern,Atlantic,Toronto Raptors,30,52,.366,31.0,110.9,115.2,-4.40,teams logos/TOR-2025.png
+Eastern,Atlantic,Brooklyn Nets,26,56,.317,35.0,105.1,112.2,-6.95,teams logos/BRK-2025.png
+Eastern,Atlantic,Philadelphia 76ers,24,58,.293,37.0,109.6,115.8,-6.29,teams logos/PHI-2025.png
+Eastern,Central,Cleveland Cavaliers,64,18,.780,—,121.9,112.4,8.81,teams logos/CLE-2025.png
+Eastern,Central,Indiana Pacers,50,32,.610,14.0,117.4,115.1,1.68,teams logos/IND-2025.png
+Eastern,Central,Milwaukee Bucks,48,34,.585,16.0,115.5,113.0,2.12,teams logos/MIL-2025.png
+Eastern,Central,Detroit Pistons,44,38,.537,20.0,115.5,113.6,1.73,teams logos/DET-2025.png
+Eastern,Central,Chicago Bulls,39,43,.476,25.0,117.8,119.4,-1.83,teams logos/CHI-2025.png
+Eastern,Southeast,Orlando Magic,41,41,.500,—,105.4,105.5,-0.70,teams logos/ORL-2025.png
+Eastern,Southeast,Atlanta Hawks,40,42,.488,1.0,118.2,119.3,-1.41,teams logos/ATL-2025.png
+Eastern,Southeast,Miami Heat,37,45,.451,4.0,110.6,110.0,0.11,teams logos/MIA-2025.png
+Eastern,Southeast,Charlotte Hornets,19,63,.232,22.0,105.1,114.2,-9.10,teams logos/CHO-2025.png
+Eastern,Southeast,Washington Wizards,18,64,.220,23.0,108.0,120.4,-12.14,teams logos/WAS-2025.png
+Western,Northwest,Oklahoma City Thunder,68,14,.829,—,120.5,107.6,12.70,teams logos/OKC-2025.png
+Western,Northwest,Denver Nuggets,50,32,.610,18.0,120.8,116.9,3.97,teams logos/DEN-2025.png
+Western,Northwest,Minnesota Timberwolves,49,33,.598,19.0,114.3,109.3,5.15,teams logos/MIN-2025.png
+Western,Northwest,Portland Trail Blazers,36,46,.439,32.0,110.9,113.9,-2.67,teams logos/POR-2025.png
+Western,Northwest,Utah Jazz,17,65,.207,51.0,111.9,121.2,-8.51,teams logos/UTA-2025.png
+Western,Pacific,Los Angeles Lakers,50,32,.610,—,113.4,112.2,1.45,teams logos/LAL-2025.png
+Western,Pacific,Los Angeles Clippers,50,32,.610,—,112.9,108.2,4.84,teams logos/LAC-2025.png
+Western,Pacific,Golden State Warriors,48,34,.585,2.0,113.8,110.5,3.56,teams logos/GSW-2025.png
+Western,Pacific,Sacramento Kings,40,42,.488,10.0,115.7,115.3,0.58,teams logos/SAC-2025.png
+Western,Pacific,Phoenix Suns,36,46,.439,14.0,113.6,116.6,-2.55,teams logos/PHO-2025.png
+Western,Southwest,Houston Rockets,52,30,.634,—,114.3,109.8,4.97,teams logos/HOU-2025.png
+Western,Southwest,Memphis Grizzlies,48,34,.585,4.0,121.7,116.9,4.79,teams logos/MEM-2025.png
+Western,Southwest,Dallas Mavericks,39,43,.476,13.0,114.2,115.4,-0.74,teams logos/DAL-2025.png
+Western,Southwest,San Antonio Spurs,34,48,.415,18.0,113.9,116.7,-2.45,teams logos/SAS-2025.png
+Western,Southwest,New Orleans Pelicans,21,61,.256,31.0,109.8,119.3,-8.59,teams logos/NOP-2025.png

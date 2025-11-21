@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>NBA Data Visualizations</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@6.1.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@6.2.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@7.0.2"></script>
+    <link rel="stylesheet" type="text/css" href="index.css" />
+  </head>
+
+  <header>The 2024-2025 NBA Season by the Numbers</header>
+
+  <body>
+    <label for="modeSelect">Choose Graph</label>
+    <select id="modeSelect">
+      <option value="Players">Players</option>
+      <option value="Teams">Teams</option>
+    </select>
+    <div id="vis1"></div>
+    <script type="text/javascript">
+      const playerGraph = {
+        $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+        title: "Top 10 Players",
+        data: { url: "top10_players.csv" },
+        width: 400,
+        height: 400,
+        params: [
+          {
+            name: "Select",
+            select: { type: "point", fields: ["Player"] },
+            bind: {
+              input: "select",
+              options: [
+                "Shai Gilgeous-Alexander",
+                "Giannis Antetokounmpo",
+                "Nikola Jokić",
+                "Luka Dončić",
+                "Anthony Edwards",
+                "Jayson Tatum",
+                "Kevin Durant",
+                "Tyrese Maxey",
+                "Cade Cunningham",
+                "Jalen Brunson",
+              ],
+              name: "Player  ",
+            },
+          },
+        ],
+        mark: { type: "bar", tooltip: { content: "data" } },
+        encoding: {
+          x: { field: "Player", type: "nominal" },
+          y: { field: "PTS", type: "quantitative" },
+          tooltip: [
+            { field: "Player", type: "nominal" },
+            { field: "PTS", type: "quantitative", title: "PPG" },
+            { field: "FG%", type: "quantitative" },
+            { field: "3P%", type: "quantitative" },
+            { field: "MP", type: "quantitative", title: "Minutes Played" },
+          ],
+          color: {
+            condition: {
+              param: "Select",
+              field: "Player",
+              type: "nominal",
+              scale: {
+                domain: [
+                  "Shai Gilgeous-Alexander",
+                  "Giannis Antetokounmpo",
+                  "Nikola Jokić",
+                  "Luka Dončić",
+                  "Anthony Edwards",
+                  "Jayson Tatum",
+                  "Kevin Durant",
+                  "Tyrese Maxey",
+                  "Cade Cunningham",
+                  "Jalen Brunson",
+                  ,
+                ],
+                range: [
+                  "#007ac1",
+                  "#00471B",
+                  "#0E2240",
+                  "#552583",
+                  "#236192",
+                  "#007A33",
+                  "#e56020",
+                  "#006bb6",
+                  "#C8102E",
+                  "#F58426",
+                ],
+              },
+              legend: null,
+            },
+            value: "grey",
+          },
+        },
+      };
+
+      const teamGraph = {
+        $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+        data: { url: "top10_teams.csv" },
+        title: "Top 10 Teams",
+        width: 400,
+        height: 400,
+        params: [
+          {
+            name: "Select",
+            select: { type: "point", fields: ["Team"] },
+            bind: {
+              input: "select",
+              options: [
+                "Cleveland Cavaliers",
+                "Memphis Grizzlies",
+                "Denver Nuggets",
+                "Oklahoma City Thunder",
+                "Atlanta Hawks",
+                "Chicago Bulls",
+                "Indiana Pacers",
+                "Boston Celtics",
+                "New York Knicks",
+                "Sacramento Kings",
+              ],
+              name: "Team  ",
+            },
+          },
+        ],
+        mark: { type: "bar", tooltip: { content: "data" } },
+        encoding: {
+          x: { field: "Team", type: "nominal" },
+          y: { field: "PTS", type: "quantitative" },
+          tooltip: [
+            { field: "Team", type: "nominal" },
+            { field: "PTS", type: "quantitative", title: "PPG" },
+            { field: "FG%", type: "quantitative" },
+            { field: "3P%", type: "quantitative" },
+            { field: "MP", type: "quantitative", title: "Minutes Played" },
+          ],
+          color: {
+            condition: {
+              param: "Select",
+              field: "Team",
+              type: "nominal",
+              scale: {
+                domain: [
+                  "Cleveland Cavaliers",
+                  "Memphis Grizzlies",
+                  "Denver Nuggets",
+                  "Oklahoma City Thunder",
+                  "Atlanta Hawks",
+                  "Chicago Bulls",
+                  "Indiana Pacers",
+                  "Boston Celtics",
+                  "New York Knicks",
+                  "Sacramento Kings",
+                ],
+                range: [
+                  "#860038",
+                  "#5D76A9",
+                  "#0E2240",
+                  "#007ac1",
+                  "#C8102E",
+                  "#CE1141",
+                  "#002D62",
+                  "#007A33",
+                  "#F58426",
+                  "#5a2d81",
+                ],
+              },
+              legend: null,
+            },
+            value: "grey",
+          },
+        },
+      };
+      function chooseGraph() {
+        const mode = document.getElementById("modeSelect").value;
+        if (mode == "Players") {
+          vegaEmbed("#vis1", playerGraph);
+        } else {
+          vegaEmbed("#vis1", teamGraph);
+        }
+      }
+      chooseGraph();
+      document
+        .getElementById("modeSelect")
+        .addEventListener("change", chooseGraph);
+    </script>
+
+    <p>
+      This graph displays the top 10 players in the 24-25 season by points with
+      a deeper look into their point per game (PPG) , field goal percentage
+      (FG%), three point percentage (3P%), and their minutes played. You can
+      also filter for the top 10 teams and look for the same statistics.
+    </p>
+
+    <label for="divisionSelect">Division</label>
+    <select id="divisionSelect">
+      <option value="Atlantic">Atlantic</option>
+      <option value="Central">Central</option>
+      <option value="Southeast">Southeast</option>
+      <option value="Southwest">Southwest</option>
+      <option value="Northwest">Northwest</option>
+      <option value="Pacific">Pacific</option>
+    </select>
+    <div class="vis-row">
+      <div id="vis2"></div>
+      <div id="vis3"></div>
+    </div>
+    <script type="text/javascript">
+      function updateGraph() {
+        const selectedDivision =
+          document.getElementById("divisionSelect").value;
+
+        const yourV2Spec = {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          data: { url: "wins_losses_by_Division.csv" },
+          title: "Divisional Stats", // change name !!!!!!!!!!!!!
+          width: 400,
+          height: 400,
+
+          params: [
+            {
+              name: "stat_selector",
+              value: "W",
+              bind: {
+                input: "select",
+                options: ["W", "L", "W/L%", "PS/G", "PA/G", "SRS"],
+                name: "Type of Stat ",
+              },
+            },
+          ],
+
+          transform: [
+            {
+              filter: `datum.Division == '${selectedDivision}'`,
+            },
+            {
+              calculate: "toNumber(datum[stat_selector])",
+              as: "StatValue",
+            },
+          ],
+          layer: [
+            {
+              mark: "bar",
+              encoding: {
+                y: { field: "Team", type: "nominal" },
+                x: { field: "StatValue", type: "quantitative" },
+                color: {
+                  field: "Team",
+                  type: "nominal",
+                  scale: {
+                    domain: [
+                      "Atlanta Hawks",
+                      "Boston Celtics",
+                      "Brooklyn Nets",
+                      "Charlotte Hornets",
+                      "Chicago Bulls",
+                      "Cleveland Cavaliers",
+                      "Dallas Mavericks",
+                      "Denver Nuggets",
+                      "Detroit Pistons",
+                      "Golden State Warriors",
+                      "Houston Rockets",
+                      "Indiana Pacers",
+                      "Los Angeles Clippers",
+                      "Los Angeles Lakers",
+                      "Memphis Grizzlies",
+                      "Miami Heat",
+                      "Milwaukee Bucks",
+                      "Minnesota Timberwolves",
+                      "New Orleans Pelicans",
+                      "New York Knicks",
+                      "Oklahoma City Thunder",
+                      "Orlando Magic",
+                      "Philadelphia 76ers",
+                      "Phoenix Suns",
+                      "Portland Trail Blazers",
+                      "Sacramento Kings",
+                      "San Antonio Spurs",
+                      "Toronto Raptors",
+                      "Utah Jazz",
+                      "Washington Wizards",
+                    ],
+                    range: [
+                      "#C8102E",
+                      "#007A33",
+                      "#000000",
+                      "#1d1160",
+                      "#CE1141",
+                      "#860038",
+                      "#00538C",
+                      "#0E2240",
+                      "#C8102E",
+                      "#1D428A",
+                      "#CE1141",
+                      "#002D62",
+                      "#c8102E",
+                      "#552583",
+                      "#5D76A9",
+                      "#98002E",
+                      "#00471B",
+                      "#0C2340",
+                      "#0C2340",
+                      "#F58426",
+                      "#007ac1",
+                      "#0077c0",
+                      "#ed174c",
+                      "#e56020",
+                      "#E03A3E",
+                      "#5a2d81",
+                      "#c4ced4",
+                      "#ce1141",
+                      "#002B5C",
+                      "#002B5C",
+                    ],
+                  },
+                  legend: null,
+                },
+                value: "grey",
+                tooltip: [
+                  { field: "Team" },
+                  { field: "StatValue", title: "Value" },
+                ],
+              },
+            },
+            {
+              mark: { type: "image", width: 40, height: 40 },
+              transform: [
+                {
+                  calculate: "datum.StatValue / 2",
+                  as: "Mid",
+                },
+              ],
+              encoding: {
+                y: { field: "Team", type: "nominal" },
+                x: { field: "Mid", type: "quantitative" },
+                url: { field: "Logo" },
+              },
+            },
+          ],
+        };
+        vegaEmbed("#vis2", yourV2Spec);
+
+        const yourV3Spec = {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          data: { url: "detailed_wins_losses_for_divisions.csv" },
+          title: "Divisional Record", // change name !!!!!!!!!!!!!
+          width: 400,
+          height: 400,
+
+          transform: [
+            {
+              filter: `datum.Division == '${selectedDivision}'`,
+            },
+          ],
+
+          mark: "rect",
+          encoding: {
+            y: { field: "Team1", type: "nominal" },
+            x: { field: "Team2", type: "nominal" },
+            color: { field: "Percentage", type: "quantitative" },
+            tooltip: [
+              { field: "Team1", type: "nominal" },
+              { field: "Team2", type: "nominal" },
+              { field: "RecordForTeam1", type: "nominal" },
+              { field: "Percentage", type: "quantitative" },
+            ],
+          },
+          config: {
+            axis: { grid: true, tickBand: "extent" },
+          },
+        };
+        vegaEmbed("#vis3", yourV3Spec);
+      }
+      updateGraph();
+
+      document
+        .getElementById("divisionSelect")
+        .addEventListener("change", updateGraph);
+    </script>
+
+    <p>
+      This graph to left displays the inner division record for each team of the
+      2024-2025 NBA season. You can filter by division using the drop down
+      button. Each division consists of five teams. On the other hand, the
+      heatmap on the right displays how each team performed againsts the other
+      teams in its division.
+    </p>
+
+    <div id="vis4">
+      <script type="text/javascript">
+        var yourV4Spec = {
+          // was top line of csv
+          // ,,,,,,,,,,,,,,,,,,Offense Four Factors,Offense Four Factors,Offense Four Factors,Offense Four Factors,,Defense Four Factors,Defense Four Factors,Defense Four Factors,Defense Four Factors,,,,
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          data: { url: "offensive_defensive_ratings_per_team.csv" },
+          title: "Teams Offensive vs Defensive Ratings",
+          width: 400,
+          height: 400,
+          mark: { type: "circle", size: 80 },
+          selection: {
+            highlight: {
+              type: "single",
+              on: "mouseover",
+              empty: "none",
+            },
+          },
+          encoding: {
+            y: {
+              field: "ORtg",
+              type: "quantitative",
+              title: "Offensive Rating",
+              scale: { domain: [106, 123] },
+            },
+            x: {
+              field: "DRtg",
+              type: "quantitative",
+              title: "Defensive Rating",
+              scale: { domain: [106, 122] },
+            },
+            color: {
+              condition: {
+                selection: "highlight",
+                value: "red",
+              },
+              value: "blue",
+            },
+            tooltip: [
+              { field: "Team", type: "nominal" },
+              { field: "ORtg", type: "quantitative" },
+              { field: "DRtg", type: "quantitative" },
+            ],
+          },
+        };
+        vegaEmbed("#vis4", yourV4Spec);
+      </script>
+    </div>
+    <p>
+      This graph displays the offensive rating compared to the defensive rating
+      for each team in the 2024-2025 NBA season. The offensive rating is
+      measured by how many points a team generates per 100 possessions. A
+      defensive rating is calculted by the average number of points a team
+      allows per 100 possessions.
+    </p>
+
+    <div id="vis5">
+      <script type="text/javascript">
+        var yourV5Spec = {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          data: { url: "predicted_vs_actual_24-25.csv" },
+          title: "Predicted vs Actual Win Percentage",
+          width: 400,
+          height: 400,
+
+          layer: [
+            {
+              mark: { type: "circle", size: 80 },
+              selection: {
+                highlight: {
+                  type: "single",
+                  on: "mouseover",
+                  empty: "none",
+                },
+              },
+
+              encoding: {
+                y: {
+                  field: "WinPercentage",
+                  type: "quantitative",
+                  title: "Actual Win%",
+                  scale: { domain: [0.2, 0.95] },
+                },
+                x: {
+                  field: "Predicted",
+                  type: "quantitative",
+                  title: "Predicted Win%",
+                  scale: { domain: [0.2, 0.95] },
+                },
+                color: {
+                  condition: {
+                    selection: "highlight",
+                    value: "red",
+                  },
+                  value: "blue",
+                },
+                tooltip: [
+                  { field: "Team", type: "nominal" },
+                  { field: "WinPercentage", type: "quantitative" },
+                  { field: "Predicted", type: "quantitative" },
+                ],
+              },
+            },
+            {
+              mark: { type: "line", color: "red" },
+              transform: [{ regression: "WinPercentage", on: "Predicted" }],
+              encoding: {
+                x: { field: "Predicted", type: "quantitative" },
+                y: { field: "WinPercentage", type: "quantitative" },
+              },
+            },
+          ],
+        };
+        vegaEmbed("#vis5", yourV5Spec);
+      </script>
+    </div>
+
+    <p>
+      This graph displays the predicted win precentages for each team based on
+      the 2023-2024 NBA season compared to the actual win percentages from the
+      2024-2025 season. Each point displays the team, their predicted win
+      percentage, and their actual win precentage. The regression line shows how
+      close the predictions for a team were to the actual win percentage.
+    </p>
+  </body>
+
+  <footer>
+    All statistics were sourced from by Basketball-Referecene.com
+    <a href="https://www.basketball-reference.com/leagues/NBA_2025.html">
+      BasketBall-Reference.com
+    </a>
+  </footer>
+</html>

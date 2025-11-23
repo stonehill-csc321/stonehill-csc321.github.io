@@ -8,10 +8,10 @@
     <link rel="stylesheet" type="text/css" href="index.css" />
   </head>
 
-  <header>The 2024-2025 NBA Season by the Numbers</header>
-
   <body>
-    <label for="modeSelect">Choose Graph</label>
+    <header>The 2024-2025 NBA Season by the Numbers</header>
+    <h2>Highlights of The Top NBA Players and Teams</h2>
+    <label for="modeSelect">Select Highlight</label>
     <select id="modeSelect">
       <option value="Players">Players</option>
       <option value="Teams">Teams</option>
@@ -24,13 +24,22 @@
         data: { url: "top10_players.csv" },
         width: 400,
         height: 400,
-        params: [
-          {
-            name: "Select",
-            select: { type: "point", fields: ["Player"] },
-            bind: {
-              input: "select",
-              options: [
+        mark: { type: "bar", tooltip: { content: "data" } },
+        encoding: {
+          x: { field: "Player", type: "nominal", sort: {field:"PTS", order: "descending"} },
+          y: { field: "PTS", type: "quantitative" },
+          tooltip: [
+            { field: "Player", type: "nominal" },
+            { field: "PTS", type: "quantitative", title: "PPG" },
+            { field: "FG%", type: "quantitative" },
+            { field: "3P%", type: "quantitative" },
+            { field: "MP", type: "quantitative", title: "Minutes Played" },
+          ],
+          color: {
+            field: "Player",
+            type: "nominal",
+            scale: {
+              domain: [
                 "Shai Gilgeous-Alexander",
                 "Giannis Antetokounmpo",
                 "Nikola Jokić",
@@ -42,56 +51,20 @@
                 "Cade Cunningham",
                 "Jalen Brunson",
               ],
-              name: "Player  ",
+              range: [
+                "#007ac1",
+                "#00471B",
+                "#0E2240",
+                "#552583",
+                "#236192",
+                "#007A33",
+                "#e56020",
+                "#006bb6",
+                "#C8102E",
+                "#F58426",
+              ],
             },
-          },
-        ],
-        mark: { type: "bar", tooltip: { content: "data" } },
-        encoding: {
-          x: { field: "Player", type: "nominal" },
-          y: { field: "PTS", type: "quantitative" },
-          tooltip: [
-            { field: "Player", type: "nominal" },
-            { field: "PTS", type: "quantitative", title: "PPG" },
-            { field: "FG%", type: "quantitative" },
-            { field: "3P%", type: "quantitative" },
-            { field: "MP", type: "quantitative", title: "Minutes Played" },
-          ],
-          color: {
-            condition: {
-              param: "Select",
-              field: "Player",
-              type: "nominal",
-              scale: {
-                domain: [
-                  "Shai Gilgeous-Alexander",
-                  "Giannis Antetokounmpo",
-                  "Nikola Jokić",
-                  "Luka Dončić",
-                  "Anthony Edwards",
-                  "Jayson Tatum",
-                  "Kevin Durant",
-                  "Tyrese Maxey",
-                  "Cade Cunningham",
-                  "Jalen Brunson",
-                  ,
-                ],
-                range: [
-                  "#007ac1",
-                  "#00471B",
-                  "#0E2240",
-                  "#552583",
-                  "#236192",
-                  "#007A33",
-                  "#e56020",
-                  "#006bb6",
-                  "#C8102E",
-                  "#F58426",
-                ],
-              },
-              legend: null,
-            },
-            value: "grey",
+            legend: null,
           },
         },
       };
@@ -102,13 +75,22 @@
         title: "Top 10 Teams",
         width: 400,
         height: 400,
-        params: [
-          {
-            name: "Select",
-            select: { type: "point", fields: ["Team"] },
-            bind: {
-              input: "select",
-              options: [
+        mark: { type: "bar", tooltip: { content: "data" } },
+        encoding: {
+          x: { field: "Team", type: "nominal", sort: "-y" },
+          y: { field: "PTS", type: "quantitative" },
+          tooltip: [
+            { field: "Team", type: "nominal" },
+            { field: "PTS", type: "quantitative", title: "PPG" },
+            { field: "FG%", type: "quantitative" },
+            { field: "3P%", type: "quantitative" },
+            { field: "MP", type: "quantitative", title: "Minutes Played" },
+          ],
+          color: {
+            field: "Team",
+            type: "nominal",
+            scale: {
+              domain: [
                 "Cleveland Cavaliers",
                 "Memphis Grizzlies",
                 "Denver Nuggets",
@@ -120,55 +102,20 @@
                 "New York Knicks",
                 "Sacramento Kings",
               ],
-              name: "Team  ",
+              range: [
+                "#860038",
+                "#5D76A9",
+                "#0E2240",
+                "#007ac1",
+                "#C8102E",
+                "#CE1141",
+                "#002D62",
+                "#007A33",
+                "#F58426",
+                "#5a2d81",
+              ],
             },
-          },
-        ],
-        mark: { type: "bar", tooltip: { content: "data" } },
-        encoding: {
-          x: { field: "Team", type: "nominal" },
-          y: { field: "PTS", type: "quantitative" },
-          tooltip: [
-            { field: "Team", type: "nominal" },
-            { field: "PTS", type: "quantitative", title: "PPG" },
-            { field: "FG%", type: "quantitative" },
-            { field: "3P%", type: "quantitative" },
-            { field: "MP", type: "quantitative", title: "Minutes Played" },
-          ],
-          color: {
-            condition: {
-              param: "Select",
-              field: "Team",
-              type: "nominal",
-              scale: {
-                domain: [
-                  "Cleveland Cavaliers",
-                  "Memphis Grizzlies",
-                  "Denver Nuggets",
-                  "Oklahoma City Thunder",
-                  "Atlanta Hawks",
-                  "Chicago Bulls",
-                  "Indiana Pacers",
-                  "Boston Celtics",
-                  "New York Knicks",
-                  "Sacramento Kings",
-                ],
-                range: [
-                  "#860038",
-                  "#5D76A9",
-                  "#0E2240",
-                  "#007ac1",
-                  "#C8102E",
-                  "#CE1141",
-                  "#002D62",
-                  "#007A33",
-                  "#F58426",
-                  "#5a2d81",
-                ],
-              },
-              legend: null,
-            },
-            value: "grey",
+            legend: null,
           },
         },
       };
@@ -193,6 +140,7 @@
       also filter for the top 10 teams and look for the same statistics.
     </p>
 
+    <h2>Division Statistics and Team Records</h2>
     <label for="divisionSelect">Division</label>
     <select id="divisionSelect">
       <option value="Atlantic">Atlantic</option>
@@ -243,7 +191,10 @@
             {
               mark: "bar",
               encoding: {
-                y: { field: "Team", type: "nominal" },
+                y: {
+                  field: "Team",
+                  type: "nominal",
+                },
                 x: { field: "StatValue", type: "quantitative" },
                 color: {
                   field: "Team",
@@ -332,7 +283,10 @@
                 },
               ],
               encoding: {
-                y: { field: "Team", type: "nominal" },
+                y: {
+                  field: "Team",
+                  type: "nominal",
+                },
                 x: { field: "Mid", type: "quantitative" },
                 url: { field: "Logo" },
               },
@@ -386,7 +340,7 @@
       heatmap on the right displays how each team performed againsts the other
       teams in its division.
     </p>
-
+    <h2>NBA Teams Offensive and Defensive Ratings</h2>
     <div id="vis4">
       <script type="text/javascript">
         var yourV4Spec = {
@@ -443,6 +397,7 @@
       allows per 100 possessions.
     </p>
 
+    <h2>Evaluating Win Percentage Predictions Using Regression</h2>
     <div id="vis5">
       <script type="text/javascript">
         var yourV5Spec = {

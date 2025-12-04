@@ -135,8 +135,8 @@
 
     <p>
       This graph displays the top 10 players in the 24-25 season by points with
-      a deeper look into their point per game (PPG) , field goal percentage
-      (FG%), three point percentage (3P%), and their minutes played. You can
+      a deeper look into their point per game (PPG), field goal percentage
+      (FG%), three-point percentage (3P%), and their minutes played. You can
       also filter for the top 10 teams and look for the same statistics.
     </p>
 
@@ -335,10 +335,11 @@
 
     <p>
       This graph to left displays the inner division record for each team of the
-      2024-2025 NBA season. You can filter by division using the drop down
+      2024-2025 NBA season. You can filter by division using the drop-down
       button. Each division consists of five teams. On the other hand, the
-      heatmap on the right displays how each team performed againsts the other
-      teams in its division.
+      heatmap on the right displays how each team performed against the other
+      teams in its division. Hovering over the graphs will show more details 
+      about the stats and records.
     </p>
     <h2>NBA Teams Offensive and Defensive Ratings</h2>
     <div id="vis4">
@@ -393,8 +394,9 @@
       This graph displays the offensive rating compared to the defensive rating
       for each team in the 2024-2025 NBA season. The offensive rating is
       measured by how many points a team generates per 100 possessions. A
-      defensive rating is calculted by the average number of points a team
-      allows per 100 possessions.
+      defensive rating is calculated by the average number of points a team
+      allows per 100 possessions. Hovering over the graph will show what team it
+      represents and their offensive and defensive ratings.
     </p>
 
     <h2>Evaluating Win Percentage Predictions Using Regression</h2>
@@ -423,13 +425,13 @@
                   field: "WinPercentage",
                   type: "quantitative",
                   title: "Actual Win%",
-                  scale: { domain: [0.2, 0.95] },
+                  scale: { domain: [20, 85] },
                 },
                 x: {
                   field: "Predicted",
                   type: "quantitative",
                   title: "Predicted Win%",
-                  scale: { domain: [0.2, 0.95] },
+                  scale: { domain: [20, 92] },
                 },
                 color: {
                   condition: {
@@ -460,16 +462,16 @@
     </div>
 
     <p>
-      This graph displays the predicted win precentages for each team based on
+      This graph displays the predicted win percentages for each team based on
       the 2023-2024 NBA season compared to the actual win percentages from the
       2024-2025 season. Each point displays the team, their predicted win
-      percentage, and their actual win precentage. The regression line shows how
+      percentage, and their actual win percentage. The regression line shows how
       close the predictions for a team were to the actual win percentage.
     </p>
   </body>
 
   <footer>
-    All statistics were sourced from by Basketball-Referecene.com
+    All statistics were sourced from
     <a href="https://www.basketball-reference.com/leagues/NBA_2025.html">
       BasketBall-Reference.com
     </a>

@@ -15,4 +15,8 @@ Y_train = df24['WinPercentage']
 model.fit(X_train, Y_train)
 df24['Predicted'] = model.predict(df24[features])
 
+cols = ['Predicted', 'WinPercentage']
+df24[cols] = (df24[cols]*100).round(2)
+
+
 df24[['Team', 'Predicted', 'WinPercentage']].to_csv('predicted_vs_actual_24-25.csv')

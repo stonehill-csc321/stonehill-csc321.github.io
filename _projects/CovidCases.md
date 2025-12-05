@@ -1,4 +1,4 @@
 ---
 name: "Basketball"
-your_url: "/assets/Basketball/index.html"
+your_url: "/assets/CovidCases/index.html"
 ---

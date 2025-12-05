@@ -1,88 +1,133 @@
 
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Combined Visualizations</title>
+<head>
+  <meta charset="utf-8" />
+  <title>Combined Visualizations</title>
 
-    <script src="https://cdn.jsdelivr.net/npm/vega@6.2.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@7.0.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega@6.2.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@7.0.2"></script>
 
-    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 
-    <link rel="stylesheet" href="index.css">
-    <link rel="stylesheet" href="Mark.css">
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="Mark.css">
 
-    <style>
-      .section {
-        margin-bottom: 70px;
-      }
-    </style>
-  </head>
+  <style>
+    .section {
+      margin-bottom: 70px;
+    }
+  </style>
+</head>
 
-  <body>
-    <h1 class="vis-heading">Unwrapping the Data: All About Music On Spotify</h1>
-    <div class="section">
-        <h2 class="vis-heading">What Best Correlates With Popularity?</h2>
-        <div id="popularity_correlation_chart"></div>
-        
+<body>
+  <header>
+  <div class="header-container">
+
+    <div class="header-left">
+      <h1 class="title-heading">
+        Unwrapping the Data: All About Music On
+      </h1>
+
+      <img 
+        src="https://1000logos.net/wp-content/uploads/2017/11/Spotify-Logo.png"
+        alt="Spotify"
+        class="spotify-logo">
+    </div>
+
+    <div class="dropdown">
+      <button class="dropdown-btn">What do you want to know? ▾</button>
+      <div class="dropdown-content">
+        <a href="#popularity_correlation_chart1" onclick="chartMessage('popularity');">What attribute most impacts popularity?</a>
+        <a href="#song_radar_chart1" onclick="chartMessage('song');">More about your favorite songs</a>
+        <a href="#artists_radar_chart1" onclick="chartMessage('artist');">More about your favorite artists</a>
+        <a href="#explicit_chart1" onclick="chartMessage('explicit');">How explicit and non-explicit songs compare</a>
+        <a href="#tempo_length_plot1" onclick="chartMessage('tempo');">How fast, long, and loud popular artists make their songs</a>
+        <a href="#vis1" onclick="chartMessage('heatmap');">What attributes relate most to one another</a>
+        <a href="#popularity_correlation_chart1" onclick="chartMessage('browse');">I just want to browse</a>
       </div>
-    
-    <div class="section">
-    <h2 class="vis-heading">Song's Musical Attributes (Rated by Listeners) </h2>
-    <div id="song_radar_chart"></div>
-    <div class="autocomplete" style="width:300px; margin-bottom: 10px;">
-        Enter Track Name: <input id="dropdownInputTrack" type="text" name="trackInput">
     </div>
 
-    <div class="section">
-      <h2 class="vis-heading">Artist's Discography Average Attributes</h2>
-      
-    <div id="artists_radar_chart"></div>
-    <div class="autocomplete" style="width:300px; margin-bottom: 10px;"> 
-        Enter Artist Name: <input id="dropdownInputArtist" type="text" name="artistInput"> 
-    </div>
-    </div>
+  </div>
+</header>
 
-    <div class="section">
+  
+  <div class="section">
+    <div id="popularity_correlation_chart1"></div>
+    <h2 class="vis-heading">What Best Correlates With Popularity?</h2>
+    <div class="same_line">
+    <div id="popularity_correlation_chart"></div>
+    <p id="popularity_chart_explanation"></p>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="radars">
+      <div class="radar_item">
+        <div id="song_radar_chart1"></div>
+        <h2 class="vis-heading">Song's Musical Attributes (Rated by Listeners)</h2>
+        <div id="song_radar_chart"></div>
+        <div class="autocomplete" style="width:300px; margin-bottom: 10px;">
+          Enter Track Name: <input id="dropdownInputTrack" type="text" name="trackInput">
+        </div>
+      </div>
+
+      <div class="radar_item">
+        <div id="artists_radar_chart1"></div>
+        <h2 class="vis-heading">Artist's Discography Average Attributes</h2>
+        <div id="artists_radar_chart"></div>
+        <div class="autocomplete" style="width:300px; margin-bottom: 10px;">
+
+          Enter Artist Name: <input id="dropdownInputArtist" type="text" name="artistInput">
+        </div>
+      </div>
+    </div>
+    <div class="radars">
+      <p id="song_message"></p>
+      <p id="artist_message"></p>
+    </div>
+  </div>
+
+  <div class="section">
+    <div id="explicit_chart1"></div>
     <h2 class="vis-heading">How do Explicit and Non-Explicit Songs Compare?</h2>
-      <div id="explicit_chart"></div>
+    <div id="explicit_chart"></div>
+    <p id="explicit_message"></p>
+  </div>
+
+  <div class="section">
+    <div id="tempo_length_plot1"></div>
+    <h2 class="vis-heading">Average Song Tempo vs. Length by Artist</h2>
+    <div id="tempo_length_plot"></div>
+    <p id="tempo_message"></p>
+  </div>
+
+  <div class="section">
+    <div class="header-row">
+      <div id="vis1"></div>
+      <h2 class="vis-heading">What Most Correlates with What?</h2>
     </div>
 
-    <div class="section">
-        <h2 class="vis-heading">Average Song Tempo vs. Length by Artist</h2>
-        <p class="vis-heading">Pan and Zoom to Discover More</p>
-        <div id="tempo_length_plot"></div>
-    </div>
+    <p class="note">Double click the heatmap to clear the selection.</p>
 
-      <div class="section">
-        <div class="header-row">
-          <h2 class="vis-heading">What Most Correlates with What?</h2>
-          <p class="vis-heading">Find Out Yourself!</p>
-        </div>
-  
-        <p class="note">Double click the heatmap to clear the selection.</p>
-  
-        <div class="container">
-          <div id="vis"></div>
-  
-          <div class="right-panel">
-            <h1 class="scatter-top-title">Scatter Plot</h1>
-  
-            <p id="infoBox">
-              No pair selected, click a square on the heatmap to see the scatter plot.
-            </p>
-  
-            <div id="scatter"></div>
-          </div>
-        </div>
+    <div class="container">
+      <div id="vis"></div>
+
+      <div class="right-panel">
+        <h1 class="scatter-top-title">Scatter Plot</h1>
+
+        <p id="infoBox">
+          No pair selected, click a square on the heatmap to see the scatter plot.
+        </p>
+
+        <div id="scatter"></div>
       </div>
+    </div>
+
+    <p id="heatmap_message"></p>
     
-    <script type="text/javascript">
-    </script>
-
-    <script src="Dashboard.js"></script>
-
-  </body>
+  </div>
+  <script src="Dashboard.js"></script>
+</body>
 </html>

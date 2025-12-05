@@ -7,17 +7,22 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
   </head>
   <body>
-    <h2>Premier League 24/25 Positions by Gameweek</h2>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <h2>Premier League 24/25 Positions by Gameweek</h2>
+      <span style="font-size: 1.5em; margin-right: 300px; margin-top: 50px;">
+        (Click on a team's line to toggle it)
+      </span>
+    </div>
     <div style="width: 650px; text-align: center;">
       <label for="gameweekSlider">Gameweek: <span id="gameweekValue">1</span></label><br>
       <input id="gameweekSlider" type="range" min="1" max="38" step="1" value="1" style="width: 450px;">
       
-      <div id="vis1" style="height:600px; width:650px; height:100vh;"></div>
+      <div id="vis1" style="width:100vw; height:75vh;"></div>
     </div>
     <h2>Premier League 24/25 Goals Scored Breakdown</h2>
-    <div id="vis2" style="height:100vh; width:100vw;"></div>
+    <div id="vis2" style="height:70vh; width:100vw;"></div>
     <h2>Premier League 24/25 Goals Conceded Breakdown</h2>
-    <div id="vis3" style="height:100vh; width:100vw;"></div>
+    <div id="vis3" style="height:70vh; width:100vw;"></div>
 
     <script type="text/javascript">
       var spec = {

@@ -6,7 +6,7 @@ function autocompleteV4(){
     const food_data = data.map(n => n.food);
 
     // list of all searchBars in the application
-    const searchBar = document.getElementById("searchBarV4");
+    searchBar = document.getElementById("searchBarV4");
 
     // Adding the input and key Events to each searchBar
     searchBar.addEventListener("input", _ => reloadDropDownList(searchBar));
@@ -51,6 +51,7 @@ function autocompleteV4(){
 
     // Closes all drop-downs in the application and creates a new drop-down for the passed input
     function reloadDropDownList(input) {
+        currentSearchBar = input;
         var val = input.value;
         currentFocus = -1;
         closeAllLists();
@@ -142,7 +143,7 @@ function autocompleteV4(){
         var x = document.getElementsByClassName("autocomplete-items");
 
         for (var i = 0; i < x.length; i++) {
-            if (element !== x[i] && element != searchBar) {
+            if (element !== x[i] && searchBar !== element) {
                 x[i].parentNode.removeChild(x[i]);
             }
         }
@@ -166,7 +167,7 @@ function autocompleteV4(){
         for (const value of ["food", "count", "calories", "carbs", "protein", "fat", "sugar"]) {
             const table_data = document.createElement("td");
 
-            table_data.attributeStyleMap.set("width", "500px");
+            table_data.setAttribute("width", "500px");
 
             if (value === "count") {
                 table_data.innerHTML += `<input value="1" maxlength="5">`;

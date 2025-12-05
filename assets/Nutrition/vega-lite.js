@@ -17,17 +17,21 @@ vega_lite_script = {
     ],
     "hconcat": [
         {
-            "title": {"text": "Selected Foods Nutrients Bar Chart", "anchor": "middle", "fontSize": 22},
-            "width": 500,
-            "height": 500,
             "transform": [
                 {"fold": ["calories", "carbs", "protein", "sugar", "fat"], "as": ["category", "value"]}
             ],
-            "mark": {"type": "bar", "tooltip": true},
-            "encoding": {
-                "x": {"field": "category", "type": "nominal", "axis": {"labelAngle": 0}},
-                "y": {"field": "value", "aggregate": "sum", "type": "quantitative"}
-            }
+            "layer": [
+                {
+                    "title": {"text": "Selected Foods Nutrients Bar Chart", "anchor": "middle", "fontSize": 22},
+                    "width": 500,
+                    "height": 500,
+                    "mark": {"type": "bar", "tooltip": true},
+                    "encoding": {
+                        "x": {"field": "category", "type": "nominal", "axis": {"labelAngle": 0}},
+                        "y": {"field": "value", "aggregate": "sum", "type": "quantitative"}
+                    }
+                }
+            ]
         },
         {
             "title": {"text": "Individual Food Nutrient Impact Charts", "anchor": "middle", "fontSize": 22},

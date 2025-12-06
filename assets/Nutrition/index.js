@@ -228,8 +228,10 @@ function autocompleteV4(){
         updateVis();
     }
 
-    // Randomly selected entries to initially add to the table (Subject to change)
-    addEntryToTableV4("bagel with ham egg cheese");
-    addEntryToTableV4("profeel proteiinirahka valio");
-    addEntryToTableV4("banana cream pie");
+    // Selected entries to initially add to the table (Subject to change)
+    addEntryToTableV4("banana");
+    addEntryToTableV4("greek yogurt");
+    addEntryToTableV4("egg boiled");
+    addEntryToTableV4("cheeseburger mcdonalds");
+    addEntryToTableV4("chicken sandwich");
 }

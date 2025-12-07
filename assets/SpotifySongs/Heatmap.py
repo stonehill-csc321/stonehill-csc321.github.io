@@ -1,6 +1,7 @@
 import pandas as pd
+import numpy as np
 
-df = pd.read_csv("dataset.csv")
+df = pd.read_csv("/assets/SpotifySongs/dataset.csv")
 
 initial_rows = len(df)
 
@@ -15,9 +16,9 @@ print(f"Duplicate rows removed: {before_dupes - after_dupes}")
 
 num_df = df.select_dtypes(include="number")
 
-#talk with jason and sean to comfirm which columns to use
+# talk with jason and sean to confirm which columns to use
 columns_to_use = [
-    "popularity","danceability","energy","loudness","mode","speechiness",
+    "popularity","danceability","energy","loudness", "duration_ms", "speechiness",
     "acousticness","instrumentalness","liveness","valence","tempo"
 ]
 
@@ -38,5 +39,6 @@ print(f"Total rows removed overall: {initial_rows - after_na}")
 corr = selected_df.corr()
 corr.index.name = "feature"
 
-corr.to_csv("corr10.csv")
-print("Correlation saved as corr10.csv")
+top_corr_no_diag = corr.where(np.triu(np.ones(corr.shape), k=1).astype(bool))
+top_corr_no_diag.to_csv("corr10.csv")
+print("Top-triangle correlation saved as corr10.csv")

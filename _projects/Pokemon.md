@@ -1,4 +1,4 @@
 ---
 name: "Pokemon"
-your_url: "/assets/Pokemon/index.html"
+your_url: "/assets/Pokemon/dashboard.html"
 ---

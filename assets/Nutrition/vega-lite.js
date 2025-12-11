@@ -18,7 +18,10 @@ vega_lite_script = {
     "hconcat": [
         {
             "transform": [
-                {"fold": ["calories", "carbs", "protein", "sugar", "fat"], "as": ["category", "value"]}
+                {"fold": ["calories", "carbs", "protein", "sugar", "fat"], "as": ["category", "value"]},
+                {
+                    "calculate": "datum.category == 'calories' ? 'Calories' : datum.category == 'carbs' ? 'Carbs (grams)' : datum.category == 'protein' ? 'Protein (grams)' : datum.category == 'sugar' ? 'Sugar (grams)' : 'Fats (grams)'", "as": "unit_category"
+                }
             ],
             "layer": [
                 {
@@ -27,8 +30,8 @@ vega_lite_script = {
                     "height": 500,
                     "mark": {"type": "bar", "tooltip": true},
                     "encoding": {
-                        "x": {"field": "category", "type": "nominal", "axis": {"labelAngle": 0}},
-                        "y": {"field": "value", "aggregate": "sum", "type": "quantitative"}
+                        "x": {"field": "unit_category", "type": "nominal", "axis": {"labelAngle": 0}, "title": "Nutrient Category"},
+                        "y": {"field": "value", "aggregate": "sum", "type": "quantitative", "title": "Total Nutrient Value"}
                     }
                 }
             ]

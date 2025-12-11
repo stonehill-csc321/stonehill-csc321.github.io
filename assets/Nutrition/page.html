@@ -179,13 +179,14 @@
                                 "x": {
                                     "field": "Caloric Value",
                                     "type": "quantitative",
-                                    "title": "Caloric Value (kcal/100g or 100mL)"
+                                    "title": "Caloric Value (kcal/100g or 100mL)",
+                                    "scale": {"type": "symlog", "domainMin": 0}
                                 },
                                 "y": {
                                     "field": "Protein",
                                     "type": "quantitative",
                                     "title": "Protein (grams/100g or 100mL)",
-                                    "scale": {"domainMin": 0}
+                                    "scale": {"type": "symlog", "domainMin": 0}
                                 },
 
                                 "color": {
@@ -233,6 +234,7 @@
                             "mark": {
                                 "type": "line",
                                 "color": "black",
+                                "clip": true
                             },
                             "transform": [
                                 {
